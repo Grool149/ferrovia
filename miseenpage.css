@@ -1,4 +1,4 @@
-ï»¿@viewport {
+@viewport {
   width: device-width; /* largeur du viewport */
   zoom: 1;
 }
@@ -44,12 +44,13 @@ body {
   color: #aaa;
   font-family: Verdana Bold, Arial, Helvetica, sans-serif;
   font-size: 11px;
+  margin-bottom:0px;
 }
 
 @media screen and (min-width: 901px){
   @viewport {
     width: device-width; /* largeur du viewport */
-    zoom: 1; /* zoom initial Ã  1.0 (et clin d'oeil aux fans d'IE6/7) */
+    zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
   }
   @-webkit-viewport{
     width: device-width;
@@ -83,9 +84,8 @@ body {
     background-repeat:no-repeat;
     padding-left:204px;
   }
-  .titre, .soustitre, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #FF9900; font-weight: bold}
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #FF9900; font-weight: bold}
   .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_o.gif);}
-  .link1 { font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
   .retour a, .retourCat a {text-decoration: none; color: #000000;}
   .retourCat a {font-weight:bold;}
   a:hover, .retour a :hover { text-decoration: none; color : #DD6900;}
@@ -112,7 +112,7 @@ body {
 @media screen and (min-width: 413px) and (max-width: 900px) {
   @viewport {
     width: device-width; /* largeur du viewport */
-    zoom: 1; /* zoom initial Ã  1.0 (et clin d'oeil aux fans d'IE6/7) */
+    zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
   }
   @-webkit-viewport{
     width: device-width;
@@ -143,14 +143,13 @@ body {
     padding-left:138px;
     padding-top:10px;
   }
-  .titre, .soustitre, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
   .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_n.gif);}
-  .link1 { font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
   a.link1 { font-weight:bold; color: #DD6900; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
   .retour a, .retourCat a {text-decoration: none; color: #DD6900;}
   .retour, .retourCat, .publication { margin-left: 10px;}
   .SectionBloc {
-    padding: 0px 5px 0px 10px;
+    padding: 0px 10px 0px 10px;
   }
   .Section_Illustrations {
     width:402px;
@@ -173,20 +172,15 @@ body {
     background-repeat:no-repeat;
   }
   #header2{text-align: center;}
-  .titre, .soustitre, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
   .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_n.gif);}
-  .link1 { font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
   a.link1 { font-weight:bold; color: #DD6900; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
   .retour a, .retourCat a {text-decoration: none; color: #DD6900;}
   .retour, .retourCat, .publication { margin-left: 5px;}
   .SectionBloc {
     padding: 0px 5px 0px 5px;
   }
-  .SectionBloc img{
-    box-sizing: border-box;
-    max-width:100%;
-    height: auto;
-  }
+
   .Section_Illustrations {
     max-width:100%;
     position:relative;
@@ -199,11 +193,16 @@ body {
   }
 }
 
-.titre { font-size: 24px;}
+.titre { font-size: 24px;
+  margin-top:0px;
+  margin-bottom:0px;}
+.soustitre1 { font-size: 18px;}
 .soustitre, .titre2 { font-size: 14px;}
 .titre2 { background-repeat:no-repeat; background-position:left; padding-left:20px;}
 .titre2 img {vertical-align: middle;}
 .soustitre2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; font-variant: small-caps}
+
+.link1 a  { color: #000000; text-decoration: none; padding-left: 20px; font-size: xx-small}
 
 #footer, .link1 { font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
 #footer {
@@ -226,6 +225,12 @@ body {
   color: #333333; text-align: justify;
   font-size: 10pt;
   overflow:hidden;
+}
+
+.SectionBloc img{
+//  box-sizing: border-box;
+  max-width:100%;
+  height: auto;
 }
 
 .SectionBloc_HauteurMini350 {

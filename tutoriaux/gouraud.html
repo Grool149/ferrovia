@@ -3,6 +3,7 @@
 <head>
 <title>[Ferrovia] - L'ombrage de Gouraud</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
 </head>
@@ -11,11 +12,11 @@
   <div id="header0"></div>
 </div>
 <div id="header2">
-  <a href="http://ferrovia.free.fr/nouveautes/index.html" class="link1">Nouveaut&eacute;s</a> | 
-  <a href="http://ferrovia.free.fr/tr/index.html" class="link1">Train R&eacute;el</a> | 
-  <a href="http://ferrovia.free.fr/MSTS/index.html" class="link1">Train virtuel</a> | 
-  <a href="http://ferrovia.free.fr/tutoriaux/index.html" class="link1">Tutoriaux</a> | 
-  <a href="http://ferrovia.free.fr/link/index.html" class="link1">Liens</a>
+  <a href="/nouveautes/index.html" class="link1">Nouveaut&eacute;s</a> | 
+  <a href="/tr/index.html" class="link1">Train R&eacute;el</a> | 
+  <a href="/MSTS/index.html" class="link1">Train virtuel</a> | 
+  <a href="/tutoriaux/index.html" class="link1">Tutoriaux</a> | 
+  <a href="/link/index.html" class="link1">Liens</a>
 </div>
 <div class="SectionBloc">
 <p class="titre">L'ombrage de Gouraud</p>
@@ -39,7 +40,7 @@ reposer sur un simple produit scalaire entre deux vecteurs 3D. Le premier modèle
 d'un triangle avaient la même couleur. On parle de "Flat shading" (ombrage plat) et les différences de couleurs entre des triangles accolés mais non coplanaires
 n'étaient pas très agréables à voir, en raison de l'accentuation du constraste que le cerveau humain réalise automatiquement (voir <a href="https://fr.wikipedia.org/wiki/Bandes_de_Mach" class="link1">Bandes de Mach</a>).</p>
 <p>L'idée d'Henri Gouraud est alors de calculer l'illumination, non pas au niveau du triangle, mais de chaque vertex. Puis d'interpoler linéairement les valeurs obtenues sur chaque pixel lors du remplissage. La
-différence de teintes s'estompe le long d'une arête si les triangles accolés utilisent les mêmes normales sur leurs vertices en commun. On parle alors de "Smooth shading" (ombrage lissé).</p>
+différence de teintes s'estompe le long d'une arête si les triangles accolés utilisent les mêmes normales sur leurs vertices en commun. On parle alors de "Smooth shading" (ombrage lissé).</p>
 <p>Le Smooth shading prendra plus tard le nom de Gouraud pour le distinguer d'autres techniques plus avancées telles que le modèle d'illumination de Phong 
 (voir <a href="https://fr.wikipedia.org/wiki/Ombrage_de_Phong" class="link1">ombrage de Bui Tuong Phong</a>).</p>
 <p>L'ombrage de Gouraud devint très populaire en raison de la simplicité et donc de la rapidité des calculs à réaliser. Ils s'intégrent dans le placage linéaire des textures. En 3D temps réel, la recherche de
