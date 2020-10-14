@@ -1,0 +1,105 @@
+html {background-color: #dddddd;}
+BODY { background-color: #ffffff; text-decoration: none;
+max-width:1200px;
+margin:auto;
+}
+
+.link1 { font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
+a:hover { text-decoration: none; color : #DD6900; }
+
+#header0{
+height:121px;
+background:url(http://ferrovia.free.fr/images/pix1.gif) no-repeat;
+}
+
+#header1{ 
+height:121px;
+background-image:url(http://ferrovia.free.fr/images/pix2.gif);
+background-position:left;
+}
+
+#header2{
+background-color: #FFFFFF;
+height:35px;
+background-image:url(http://ferrovia.free.fr/images/pix3b.gif);
+background-position:left;
+background-repeat:no-repeat;
+padding-left:204px;}
+
+.SectionIntroduction{
+background-color: #F0F0F0; 
+margin:10px;
+padding:10px;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+color: #333333; text-align: justify; 
+font-size: 10pt;
+}
+
+#gallerie {
+background-color: #FFFFFF;
+overflow:hidden; 
+}
+#gallerie:after {
+  content: ""; /* Important, sinon l'élément n'est pas généré. */
+  display: table;
+  clear: both;
+}
+
+.vignette {
+  min-height:220px;
+  margin: 0 0 0 10px;
+  cursor: pointer;
+  position:relative;
+  float:left; 
+  z-index:40;
+}
+
+.vignette img{ 
+border:1px solid black;
+}
+
+#Grandephoto {
+  display: none;
+  position:fixed;
+  padding:10px;
+  /* Pour décaler à gauche et en haut de 50% */
+  left:50%;
+  top:50%;
+  z-index:100;
+  background-color:#ffffff;
+  background-position:top;
+  background-repeat:no-repeat;
+}
+
+#Grandephoto img {
+background-color: rgba(0, 0, 0, 0.3);
+padding:10px;
+}
+
+#Grandephoto div{
+display:inline-block;
+vertical-align:middle;
+}
+
+#prec-in, #suiv-in {
+  position:relative;
+  margin:auto;
+  width:100px;
+  height:100%;
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif; 
+  color: rgba(0, 0, 0, 0);
+  font-size: 30pt;
+}
+
+#prec-in{
+  float:left; 
+}
+
+#suiv-in {
+  float:right; 
+}
+
+#Photo{
+  border:1px solid black;
+}

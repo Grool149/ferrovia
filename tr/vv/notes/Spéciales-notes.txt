@@ -1,0 +1,17 @@
+﻿S 60 87 99 80 172-5 VZC Voiture de contrôle caténaire
+ex S 536 de type DEV SI programme 66 construite en 1968 mais possèdent des caractéristiques voisines des voitures UIC type Y 
+
+Su 63 87 99 77 152-9 VZC Voiture de contrôle caténaire V160 (ex V290)
+A l'origine (ex VU 75) elle était imatriculée Su 60 87 99 97 152-5 équipée d'un panto type G et pesait 41 Tonnes pour une vitesse de 290 Km/h avec bogies Y 32 E1S selon Voies Ferrèes numéro 63.
+Maintenant, elle a un panto unijanbiste (AX?) (mais elle sert aussi pour les essais de pantos), pèse 52 Tonnes (11 tonnes en plus?) avec un transformateur ajouté
+
+Su 60 87 99 90 196-2 - CRIS
+Voiture avec surnom : CRIS=Controle Radio des Instalations Sol-train
+Article dans La Vie du Rail numéro 2154 du 21 juillet 1988 page 6.
+"Base AcBcux corail VU de derniére génération"
+"voiture servant à mesurer et enregistrer les ondes hertziennes pour implantation des émetteurs-recepteurs de liaison sol-train puis projet ASTREE".
+Longueur: 26.40 m
+Largeur 2.82 m
+Poids 47.5 T
+boggies type Y32B
+Vitesse maxi 200 Km/h.

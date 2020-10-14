@@ -1,0 +1,5 @@
+<br>
+<div align="center"><a href="../tr/index.php3" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('tr','','../images/tr_2.gif',1)"><img name="tr" border="0" src="../images/tr_1.gif" width="123" height="19"><br>
+  </a><a href="index.php3" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('msts','','../images/msts_2.gif',1)"><img name="msts" border="0" src="../images/msts_1.gif" width="58" height="22"><br>
+  </a><a href="../link/index.php3" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link','','../images/link_2.gif',1)"><img name="link" border="0" src="../images/link_1.gif" width="60" height="22"> 
+  </a> </div>

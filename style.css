@@ -1,0 +1,85 @@
+font,th,td,p	{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10pt}
+a:hover		{ text-decoration: none; color : #DD6900; }
+td.row1		{ background-color: #006666; }
+td.row2		{ background-color: #006666; }
+td.row3		{ background-color: #330066; }
+BODY 		{ background-color: #FFFFFF; text-decoration: none;	margin-left: 0px; margin-top: 0px}
+td 		{ border-color: white; border-style: none; }
+td:align 	{ align: center; }
+td:valign 	{ align: middle; }
+div 		{ align: center; }
+.thumb		{  border-color: #000000 black black}
+
+.nolink 	{ font-weight:bold; color: #ff6633; text-decoration: none; font-size: smaller ; background-color: #000099}
+.link1 		{ font-weight:bold; color: #000000; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
+.link2 		{ white-space: pre; color: #000000; text-decoration: none; padding-left: 20px; font-size: xx-small}
+
+.titre 		{  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24px; color: #FF9900; font-weight: bold}
+.text 		{  font-family: Verdana, Arial, Helvetica, sans-serif; color: #333333; clip:   rect(   ); text-align: justify; font-size: 10pt}
+
+.soustitre1 	{  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt}
+.soustitre2 	{  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; font-variant: small-caps}
+.legende 	{ font-family: "Times New Roman", Times, serif; font-size: 9pt; font-style: italic; text-align: center }
+
+hr{
+color:#C3BFB6;
+}
+
+.droitsreserves {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+text-align:center;
+}
+
+.menu {
+font-weight:bold;
+color: #000000;
+font-size: 10pt;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+width: 25%;
+text-align:center;
+}
+
+.lien_en_travaux{
+color: #CCCCCC;
+}
+
+#nouveautes{
+padding-top:80px;
+padding-left:713px;
+}
+#ferro1{
+margin-top:100px;
+height:74px;
+background-image:url(images/ferro1.jpg);
+background-position:left;
+background-repeat:no-repeat;
+}
+
+#ferro2{
+height:183px;
+background-image:url(images/ferro2.jpg);
+background-position:0 0;
+background-repeat:no-repeat;
+background-color:#C3BFB6;
+}
+
+#ferro3{
+height:8px;
+background-image:url(images/ferro3.jpg);
+background-position:0 0;
+background-repeat:no-repeat;
+}
+
+#header1{
+height:121px;
+background-image:url(http://ferrovia.free.fr/images/pix2.gif);
+background-position:left;
+}
+
+#header2{
+height:35px;
+background-image:url(http://ferrovia.free.fr/images/pix3b.gif);
+background-position:left;
+background-repeat:no-repeat;
+padding-left:204px;}

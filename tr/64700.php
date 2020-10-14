@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>[Ferrovia] - BB 64700 - TBB 64800</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="../ferrovia.ico" type="image/bmp" />
+<link rel="stylesheet" href="../miseenpage.css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+</head>
+
+<body onload="MM_preloadImages()">
+
+<div id="header1">
+  <div id="header0"></div>
+</div>
+<div id="header2">
+  <a href="http://ferrovia.free.fr/nouveautes/index.php" class="link1">Nouveaut&eacute;s</a> | 
+  <a href="http://ferrovia.free.fr/tr/index.php" class="link1">Train R&eacute;el</a> | 
+  <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
+  <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
+  <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
+</div>
+<div class="SectionBloc">
+<div class="Section_txt">
+<p class="titre">BB 64700 - TBB 64800</p>
+<p>Les BB 64700 sont des locomotives thermiques-électriques de faible puissance issues de <a class="link1" href="63000.php">BB 63500</a> (moteur MGO) modifiées pour les manoeuvres en triage. 
+Leurs cabines ont été modifiées avec une caisse semblable à celle des <a class="link1" href="66700.php">BB 66700</a> et un pupître central. La g&eacute;n&eacute;ratrice de courant continu
+est remplacée par un alternateur.<br />
+23 machines ont ainsi été transformées entre 1988 et 1992.</p>
+<p>Les TBB 64800 sont des trucks moteurs construits à partir de <a class="link1" href="63000.php">BB 63000</a> (moteur Sulzer) dont la cabine et le groupe électrogène ont été supprimés. Le 
+châssis est raccourci.<br />Seulement 19 trucks sont transformés entre 1989 et 1992.</p>
+<p>Les BB 64700 et TBB 64800 forment des couples indissociables. Le groupe électrogène de la 64700 (moteur MGO et génératrice à courant continu) alimente
+les moteurs électriques de la 64700 ainsi que ceux du truck 64800 par des câbles spécifiques.<br />
+L'intérêt de cette disposition est de pouvoir manoeuvrer en triage, et notamment la pousse en butte, des convois lourds à faible allure. Ce qui
+ne nécessite qu'une puissance modeste mais une adhérence importante. Les ensembles BB 64700-TBB 64800 prennent donc le relais des vieillissantes A1A-A1A 62000 là où
+les <a class="link1" href="66700.php">BB 66700</a>, transformées à partir de 1985, s'avèrent trop justes.<br />
+Les couplages reçoivent une livrée dite de "Manoeuvres Arzens" à base d'orange TGV.</p>
+<p>A partir de 2007, ils sont modernisés par Socofer. Le moteur MGO est remplacé par un MTU et la livrée Fret est appliquée. Les quatre BB 64700 excédentaires sont radiées.<br />
+Malgré cette rénovation récente, la chute d'activité des triages entraine le maintien GBE (Garé Bon Etat) de plusieurs couplages à Sotteville-lès-Rouen.</p>
+<p class="titre2">Quelques donn&eacute;es techniques</p>
+<p>Constructeur : Brissonneau et Lotz<br />
+Cha&icirc;ne de traction: Alternateur et pont redresseur à diodes, 
+moteurs de traction &agrave; collecteurs<br />
+Motorisation: moteur di&eacute;sel V12 MGO Turbo (825 ch), puis MTU V8 4000R41 (619 KW)<br />
+</p>
+<p class="titre2">Pour plus d'info:</p>
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/BB_64700_/_TBB_64800" class="link1">BB 64700 / TBB 64800</a> sur 
+<a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
+La fiche <a href="http://trains-europe.fr/sncf/locomotives/64700.htm" class="link1">BB 64700 / TBB 64800</a> sur <a href="http://trains-europe.fr/" class="link1">trains-europe.fr</a><br /> 
+L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/BB64700.pdf" class="link1">BB 64700</a> et 
+<a href="http://trainsso.pagesperso-orange.fr/TBB64800.pdf" class="link1">TBB 64800</a> sur 
+<a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
+</div>
+<div class="Section_Illustrations">
+<p><img style="border:1px solid black" src="../images/tr/64715-25022006.jpg" 
+alt="La BB 64715 &agrave; Villeneuve St Georges (25/02/2006)" width="400" height="300" /><br />
+La BB 64715 &agrave; Villeneuve St Georges (25/02/2006)</p>
+<p><img style="border:1px solid black" src="../images/tr/64815-25022006.jpg" alt="Son truck TBB 64815 &agrave; Villeneuve St Georges (25/02/2006)" width="400" height="300" /><br />
+  Son truck TBB 64815 &agrave; Villeneuve St Georges (25/02/2006)</p>
+<p><img style="border:1px solid black" src="../images/tr/64714-814-27122008.jpg" alt="La BB 64714 remotoris&eacute;e et TBB 64814 sortent de r&eacute;vision (St Pierre des Corps, 27/12/2008)" width="400" height="300" /><br />
+La BB 64714 remotoris&eacute;e et TBB 64814  sortent de r&eacute;vision<br />
+(St Pierre des Corps, 27/12/2008)</p>
+</div>
+</div>
+<div class="retour"><a href="ld.php" class="link2">Retour page locomotives di&eacute;sel</a></div>
+<p id="footer">Ferrovia - 28 Juillet 2015</p>
+</body>
+</html>

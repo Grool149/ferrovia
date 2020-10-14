@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>[Ferrovia] - Corail</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="../../miseenpage.css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+<style type="text/css">
+<!--
+.Style1 {font-size: 10px}
+-->
+</style>
+</head>
+
+<body onload="MM_preloadImages()">
+
+<div id="header1">
+  <div id="header0"></div>
+</div>
+<div id="header2">
+  <a href="http://ferrovia.free.fr/nouveautes/index.php" class="link1">Nouveaut&eacute;s</a> | 
+  <a href="http://ferrovia.free.fr/tr/index.php" class="link1">Train R&eacute;el</a> | 
+  <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
+  <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
+  <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
+</div>
+<div class="SectionBloc">
+<div class="Section_txt">
+<p><span class="titre">Corail</span><br />
+<span class="soustitre">le Confort sur Rail</span></p>
+<p>Les Corail sont, et resteront sans doute, la dernière génération de voitures d'Express et de Rapides mises en service par la SNCF. 
+Dans le futur, le transport de voyageurs sera confié en exclusivité à des automotrices (bien que le cas des trains de nuit n'est toujours pas tranché).
+</p>
+<p>Sous un nom unique, la famille Corail regroupe en réalité trois familles* de voitures tout à fait différentes auxquelles on peut ajouter 
+un quatrième groupe, les fourgons MC76.<br />
+Ces familles sont, par ordre croissant d'importance :<br />
+- les <a href="vse.php" class="link1">VSE</a> (100 voitures + 2 protos), très proches des "UIC Z" construites par de nombreux pays Européens,<br />
+- les <a href="vu.php" class="link1">VU</a> (1478 voitures + 3 protos) à couloir latéral qui, elles-mêmes, sont divisées en deux sous-familles de chaudrons,<br />
+- les <a href="vtu.php" class="link1">VTU</a> (2335 voitures + 1 proto) à couloir central.
+</p>
+<p class="Style1">* (Il est à noter qu'une famille de "Super Corail" à deux niveaux fut envisagée. 
+Bien qu'abondonnée, cette étude a inspiré le TGV Duplex. Et, après une large revue à la baisse de ses ambitions, a finalement abouti 
+aux VE2N destinées davantage aux relations interrégionales qu'aux Express nationaux.)</p>
+<p>Alors pourquoi rassembler toutes ces voitures sous le nom "Corail"? L'approche était avant tout marketing. Les différentes familles de Corail
+bénéficient d'une étude commune du designer Roger Tallon qui décide de casser les codes du Chemin de fer traditionnel (coloris, matériaux, dessin du mobilier et
+ambiance lumineuse, signalétique). Un effort important est aussi mené pour améliorer le confort dynamique, accoustique et d'apporter la climatisation à cette nouvelle génération de voitures.</p>
+
+<p class="titre2">Contexte de leur g&eacute;n&egrave;se</p>
+<p>A la fin des années 1960, la SNCF possède un parc de voitures pour Express assez hétéroclite :
+plusieurs grandes séries de voitures conçues par la DEV (Division d'Etudes Voyageurs) peintes en vert ou en inox aptes à 140 ou 160 km/h, 
+un nombre plus modeste de voitures inox destinées aux TEE (TransEuropExpress) dotées de la climatisation et aptes à 160 km/h. Mais aussi de nombreuses séries métallisées 
+ou métalliques qui datent d'avant la création de la SNCF. Enfin, elle réceptionne les Grand-Confort, aptes à 200 km/h et climatisées.</p>
+<p>L'objectif du programme Corail est de proposer un matériel Express pour le régime International ou le Service Intérieur qui présente un confort 
+similaire aux voitures TEE (Bogies à double suspension, insonorisation, climatisation y compris en 2nde classe), tout en ayant des coûts d'acquisition 
+et d'exploitation plus raisonnables et un gain de performance par rapport aux voitures d'express
+plus anciennes (généralisation de l'aptitude à 160 km/h, possibilité d'atteindre 200 km/h, légèreté des voitures).
+La mise en service de ces voitures permettant, par un jeu de chaises musicales, de déclasser les voitures DEV sur les trains moins nobles afin 
+d'amortir les séries les plus anciennes datant des années 1930 ainsi que les voitures métallisées engagées sur des trains omnibus.</p>
+<p class="titre2">La SNCF seule contre tous</p>
+<p>D'autres administrations ferroviaires Européennes entament les mêmes démarches et le groupement Eurofima met au point le programme VSE, point de départ à la grande famille des UIC Z. 
+Cette famille est courante dans les effectifs des Chemins de fer Allemands, Autrichiens, Belges, Suisses ou Italiens. En revanche, la SNCF participe 
+timidement en ne commandant que deux voitures A<sup>4</sup>B<sup>6</sup>u de pré-série puis une courte série de 100 voitures de première classe A<sup>9</sup>u à couloir latéral : les <a href="vse.php" class="link1">VSE</a>.</p>
+<p>Elle vise plutôt à généraliser les voitures à couloir central, dont l'expérience à été menée avec les DEV Inox, les <a href="usi.php" class="link1">DEV USI</a> 
+et les turbotrains. Elle commande alors massivement des <a href="vtu.php" class="link1">VTU</a>. Toutefois, elle étudie des voitures à couloir
+latéral qui reprennent quelques caractéristiques des UIC Z (chaudrons de 26,400 m, climatisation, compartiments à six places de front) tout en étant 
+plus économiques (Portes pliantes, étude d'un chaudron "Super Large" pour permettre des compartiments de 2e classe à huit sièges, nombreux organes communs avec les VTU, dont les bogies Y32).</p>
+<p>Les <a href="vu.php" class="link1">VU</a> sont destinées à une grande variété d'usages (voitures à compartiments places assises, 
+voitures couchettes, mixtes fourgon, voitures pilote) et possèdent un nombre important de chaudrons différents.
+A l'inverse, les VTU possèdent toutes des chaudrons identiques à quelques détails près en fonction de l'usage et du programme de construction.</p>
+<p><img style="border:1px solid black" src="../../images/tr/vv/vu86_b6dux.jpg" alt="B6Dux VU86" height="480" width="640" /><br />
+<span class="legende">Parmi les nombreux chaudrons de VU, le plus atypique est la voiture pilote B<sup>6</sup>Dux</span></p>
+<p class="titre2">Carrière</p>
+<p>Si les Corail se démarquaient par leurs coloris ou leur niveau de confort, elles ont aussi bouleversé l'exploitation des express SNCF par
+le nombre de voitures construites et la cadence, jamais vue auparavant, de leurs mises en service. La fin des années 1970 a donc vu un retrait massif
+des <a href="usi.php" class="link1">DEV USI</a> et <a href="uic.php" class="link1">UIC</a> des principaux Rapides pour être rabattues sur les Express.
+Les séries plus anciennes de la DEV ne se voyant guère plus confier que des trains supplémentaires ou régionaux et les séries héritées des anciens réseaux
+se voyant purement et simplement poussées à la réforme.</p>
+<p>La livraison de voitures aptes à 200km/h, permit également de créer de nouveaux Rapides qui venait titiller les TEE. Enfin, les VU couchettes remplacèrent
+progressivement les DEV et UIC, poussées elles aussi sur les trains de pointes saisonnières.</p>
+<p>Un contingent de voitures fut d&eacute;di&eacute; pour former des rames r&eacute;versibles conduites par des Corail <a href="vu.php" class="link1">VU B6Dux</a>.
+La premi&egrave;re s&eacute;rie de ces voitures pilotes utilisant une technologie filaire, il fallait des voitures sp&eacute;cifiquement 
+pourvues des c&acirc;blots n&eacute;cessaires. Apr&egrave;s avoir assur&eacute; des Paris-Tours-Poitiers avec des <a href="../9200.php" class="link1">BB 9200</a>, 
+elles parcourent aujourd'hui Paris-Rouen-Le Havre avec des <a href="../16000.php" class="link1">BB 16000</a>, puis de <a href="../15000.php" class="link1">BB 15000</a>.</p>
+<p>Sur le Sud-Est, la montée en charge du TGV prive toutefois le matériel classique de relations importantes dès le début des années 1980. 
+L'apogée des grands Rapides en Corail s'achève dans les années 1990. Le TGV Atlantique provoque un effet bien plus fort qui sera suivi par les 
+ouvertures des LGV Paris-Lille et du prolongement de la LGV Sud-Est jusque Valence. Les Corail roulent déjà depuis 20 ans quand il est décidé
+de les mettre à niveau.</p>
+<p class="titre2">Rénovations Corail+, Corail Nouvelle Déco, Téoz</p>
+<p>Le programme Corail+ concerne 710 voitures transformées à partir de 1995 et destinées aux axes Grandes Lignes où le TGV ne les menace pas. Les coloris s'inpirent des codes
+couleur initiés par le TGV Atlantique. La transformation de ces voitures comprend l'installation coûteuse de toilettes à rétention. Par souci
+d'économies, la rénovation (Corail Nouvelle Décoration) des voitures suivantes est simplifiée. Les toilettes d'origine sont conservées et le schéma de peinture prévoit des portes
+d'une seule couleur.</p>
+<p><img style="border:1px solid black" src="../../images/tr/vv/vtu_b11r_508721977629_paz_20011230.jpg" alt="Prototype Corail+" height="480" width="640" /><br />
+<span class="legende">B<sup>11</sup>rtu 50 87 21-97 762-9, Prototype Corail+ (Paris Austerlitz, 30/12/2001)</span></p>
+<p>Pourtant, dès 2000, une étude est menée pour imaginer une remise à niveau plus ambitieuse : les TRD (Trains Rapides de Demain).
+Une rame de démonstration prévoit un nouveau mobilier et la création d'espaces de service innovants. Il faut trois ans pour parvenir à mise en service
+de ce matériel profondément revu : Les <a href="corail_teoz.php" class="link1">Téoz</a>.</p>
+<p>Toutes les voitures affectées aux Rapides et Express nationaux subissent actuellement une rénovation en livrée <a href="corail_carmillon.php" class="link1">Carmillon</a>.</p>
+<p class="titre2">Régionalisation</p>
+<p>Le recul des Corail devant le TGV provoque la bascule d'un important contingent vers les directions régionales.
+Les Corail se voient confier deux services <a href="corail_ter1.php" class="link1">TER à 200km/h</a> (TER Alsace et Interloire exploité 
+par les régions Centre et Pays de la Loire). La région <a href="corail_ter1.php" class="link1">Rhône-Alpes</a>
+exploite également des rames de Corail, dont les voitures pilotes B<sup>6</sup>Dux VU 86 à commande multiplexées.
+</p>
+<p>La régionalisation s'intensifie à la fin des années 1990. Les régions Centre, Picardie, Languedoc-Roussillon, Midi-Pyrénées, Bourgogne
+entâment la <a href="corail_ter2.php" class="link1">rénovation de voitures Corail avec les coloris TER</a> adoptés sur les automoteurs de nouvelle génération.</p>
+<p>La desserte Paris-Orléans-Tours est renommée <a href="corail_aqualys.php" class="link1">Aqualys</a> et bénéficie d'un programme de rénovation particulier.</p>
+<p class="titre2">Régionalisation, acte II</p>
+<p>D'autres régions (Franche Comté, Lorraine, Aquitaine, PACA) ou groupes de régions poursuivent sur cette lancée. Lors de l'ouverture du TGV Est, les régions Champagne-Ardennes, Lorraine et Picardie
+se sont associées pour organiser les TER Vallée de la Marne, permettant le cabotage entre Paris-Epernay-Bar le Duc et St Dizier.</p>
+<p>Une nouvelle activité <a href="corail_intercites.php" class="link1">"Corail Intercités"</a> est créée. Elle regroupe les trains interrégionaux de moyenne distance. Un sticker est d'abord posé
+sur les voitures Corail+ ou ND. Trois nouvelles livrées grises à motifs verts et violet sont inaugurées.</p>
+<p>L'usage du pelliculage, en vogue sur les automoteurs, est réalisé par les régions <a href="corail_ter3.php" class="link1">Alsace, Languedoc-Roussillon et Bourgogne</a>.</p>
+<p class="titre2">Fin de carrière</p>
+<p>Depuis que les dernières <a href="usi.php" class="link1">DEV USI</a> et <a href="uic.php" class="link1">UIC</a> ont quitté la scène en 2008, les Corail sont
+à leur tour victimes de purges dans leurs effectifs. Les voitures Grandes Lignes poussées par les TGV Duplex toujours plus nombreux et les régionales par 
+les <a href="../agc.php" class="link1">AGC</a>, <a href="../z24500-26500.php" class="link1">TER2NNG</a> et
+surtout par les <a href="../84500.php" class="link1">Régiolis</a> et Regio2N. Les voitures couchettes, rénovées partiellement par le programme <a href="corail_nuit.php" class="link1">Lunéa</a>, puis Intercités de Nuit, subissent la chute
+de fréquentation des trains nocturnes.</p>
+<p>Le remplacement des Corail n'est pas encore décidé sur nombre de lignes. Le regroupement de toutes les activités en matériel tracté hors TER au sein de l'activité Intercités leur offre un répit
+avec une <a href="corail_carmillon.php" class="link1">ultime rénovation</a> qui, dans certains cas, reste une opération cosmétique modeste. L'arrivée du Coradia Liner, cousin Grandes-Lignes du Régiolis fera tomber les premières
+voitures. Une décénie au mieux est promise aux voitures qui ont subi un lifting plus approfondi.</p>
+<p class="titre2">Pour plus d'info:</p>
+<p>Le fiche <a href="https://fr.wikipedia.org/wiki/Voiture_Corail" class="link1">Voiture Corail</a>  
+sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
+Les <a href="http://www.trains-europe.fr/sncf/voitures/corail.htm" class="link1">Corail</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
+</div>
+<div class="Section_Illustrations">
+<p><img style="border:1px solid black" src="../../images/tr/vv/vse_a9_20050515.jpg" alt="VSE A9u (Villeneuve-Prairie, 15/05/2005)" height="300" width="400" /><br />
+VSE A<sup>9</sup>u (Villeneuve-Prairie, 15/05/2005)</p>
+  <p><img style="border:1px solid black" src="../../images/tr/vv/vu_b5dd2ux_618782705098_vp_20021208.jpg" alt="VU B5Dd2ux n° 61 87 82-70 509-8 (Villeneuve-Prairie, 08/12/2002)" height="300" width="400" /><br />
+VU B<sup>5</sup>Dd<sup>2</sup>ux n° 61 87 82-70 509-8 (Villeneuve-Prairie, 08/12/2002)</p>
+  <p><img style="border:1px solid black" src="../../images/tr/vv/vtu_b11_2177022_20030307.jpg" alt="VTU B11tu 21-77 022, sigle Tallon (Paris St Lazare, 07/03/2003)" height="300" width="400" /><br />
+VTU B<sup>11</sup>tu 21-77 022, sigle Tallon (Paris St Lazare, 07/03/2003)</p>
+<p><img style="border:1px solid black" src="../../images/tr/vv/vtu_b10_20822016_20020820.jpg" alt="VTU B10tu &agrave; portes Faiveley, en livr&eacute;e Corail+ (Paris-Est, 20/08/2002)" height="300" width="400" /><br />
+VTU B<sup>10</sup>tu n&deg;50 87 20-82 201-6 à portes Faiveley,<br />
+en livrée Corail+ (Paris-Est, 20/08/2002)</p>
+<p><img style="border:1px solid black" src="../../images/tr/vv/vu_b6dux_20080907.jpg" alt="VU75 B6Dux, voiture pilote à réversibilité par câblots (La Garenne-Colombes, 07/09/2008)" height="300" width="400" /><br />
+Cette B<sup>6</sup>Dux VU75 fonctionne encore pour peu de temps en réversibilité par câblots avec une BB 16000 (La Garenne-Colombes, 07/09/2008)</p>
+<p><img style="border:1px solid black" src="../../images/tr/vv/vtu82_a10_pe_20030703.jpg" alt="VTU A10tu &agrave; portes Faiveley, en livr&eacute;e Nouvelle D&eacute;co (Paris-Est, 03/07/2003)" height="300" width="400" /><br />
+VTU A<sup>10</sup>tu &agrave; portes Faiveley, en livr&eacute;e Nouvelle D&eacute;co (Paris-Est, 03/07/2003)</p>
+</div>
+</div>
+<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="SectionBloc">
+<p class="titre2">Les Corail version Microsoft Train Simulator</p>
+<p>Les Corail VTU et VU ont été réalisées à de multiples reprises. A partir des quelques créations originales, de nombreuses redécorations ont été
+réalisées. Les voitures disponibles en téléchargement sont souvent en packs contenant à la fois des VTU et des VU.</p>
+<p>Les VSE sont aussi disponibles mais sont en général des redécorations de voitures étrangères.</p>
+</div>
+<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<p id="footer">Ferrovia - 29 Octobre 2015<br />
+&nbsp;</p>
+</body></html>

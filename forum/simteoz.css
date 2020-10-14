@@ -1,0 +1,10 @@
+.text_blanc {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; text-decoration: none; text-align: center; vertical-align: middle; font-weight: bold; font-variant: normal}
+.cell_duplex {  background-image: url(duplex.jpg); background-repeat: repeat-x; background-position: left}
+.cell_141 {  background-image: url(4.jpg); background-repeat: no-repeat; background-color: #FFFFFF; background-position: right}
+.cell_xter {  background-image: url(xter.jpg); background-repeat: repeat-x; background-position: center}
+.cell_midi {  background-image: url(midi.jpg); background-repeat: repeat-x; background-position: left}
+.cell_turbo {  background-color: #FFFFFF; background-image: url(2.jpg); background-repeat: no-repeat; background-position: left}
+.div {  position: relative; top: 10px; clip:  rect(   )}
+.date {  font-family: Arial, Helvetica, sans-serif; font-size: xx-small; font-style: italic}
+.td_class1 {  background-color: #E6E6E6; font-family: Verdana, Arial, Helvetica, sans-serif}
+.td_class2 {  background-color: #6fa6d5; font-family: Verdana, Arial, Helvetica, sans-serif}

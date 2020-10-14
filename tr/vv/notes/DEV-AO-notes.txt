@@ -1,0 +1,200 @@
+﻿U46
+Baies, fenêtre de toilettes et de portes d'accès de la même hauteur (880 mm de haut).
+jupes longues recouvrant en partie les bogies. A l'origine, pas de goutières au-dessus des portes d'accès. Les pavillon des dossiers présentent des encoches
+et le tôlage d'extrémité est différent. Bogies Y16, boites à huile Athermos ou à rouleaux SKF ou Timken.
+Raccourcissement des jupes : échancrure au niveau des bogies et mise en place de niches pour des anneaux de levage 
+puis raccourcissement sur toute la longueur sur certaines voitures. 
+Les dossiers ont été modifiés dans les années 1970 (photo d'une B9c9 modifiée entre 1974 et 1978) : disparition des encoches et du tôlage
+Le pavillon de la voiture est constitué de (Commun au types suivants ??) :
+- un battant de pavillon constitué d’un sandwich d’une tôle de 3,5 mm pliée en forme de U et d’une tôle de 2,5 mm qui assure le raccordement des courbes de pavillon et de la tôle de face, toutes deux également en tôle de 2,5mm. Le tout est assemblé par des rivets et des soudures-bouchons.
+- une tôle de revêtement du pavillon en 1,5 mm.
+- un couvre-joint en tôle de 4 mm assemblé par rivets à tête noyée. Le bas du couvre-joint correspond au bas de la tôle de revêtement du pavillon. 
+le châssis de la voiture est constitué de :
+- un brancard constitué d’une tôle de 5 mm pliée en forme de U et d’une autre tôle de 4 mm en U, placées nez-à-nez et reliées entre elles par des entretoises embouties de 2,5 mm. Le tout est assemblé par des rivets et des soudures-bouchons.
+- une tôle de revêtement de face en 2,5 mm.
+- un couvre-joint en tôle de 4 mm assemblé par rivets à tête noyée. Le bas du couvre-joint correspond au bas de la tôle de revêtement de face. 
+A2½B6myfi 
+compartiment 1e : 2133mm, cloison 42mm
+½ compartiment 1e : 1454mm, cloison entre compartiment de 1e et ½ compartiment de 1e : 56mm, entre ½ compartiment et compartiment de 2e : 42mm
+compartiment de 2nde : 1898mm, cloison 42mm
+C10
+compartiment de 3e : 1710mm, cloison 40mm
+B9c9
+compartiment de 2nde : 1898mm, cloison 42mm
+Peinture d'origine :
+les U46 ont des toits et des bouts noirs, bogies noirs
+#########
+U48 (C10 + 1 C10c10myfi proto proposée par EIC à huit couchettes par compartiment et toit surélevé de 210mm)
+différences par rapport aux U46 : 
+Jupes raccourcies, plus d'oeillets métalliques insérés dans les fenêtres côté compartiments, remplacés par une manivelle en bas de la baie (870 mm de haut).
+Bogies Y16 type 1950
+Peinture d'origine :
+les U48 ont des bouts noirs et des toits verts, bogies noirs
+#########
+U50
+diagrammes A3B5 et B8 identiques : compartiments 2140mm
+Baies à châssis semi-ouvrant à guillotine Klein ou DEV (984 mm de haut)
+Peinture d'origine :
+sur les U50 et la suite, les toits et les bouts sont vert 306. bogies noirs
+Bogies Y16E
+#########
+fenêtres 1113,5mm
+#########
+Commentaires de B.Bayle :
+U46
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe enveloppant le bas de caisse entre et devant les bogies. La jupe devant les bogies sera découpée relativement rapidement, 
+surement pour une maintenance plus aisée de ces derniers. Quelques voitures auront également le jupage déposé entre les bogies.
+- des baies de hauteur constante (baies de couloir et de compartiments, baies de porte d'accès et de cabinet de toilette.
+- elles sont montées sur bogies Y16 à châssis moulé.
+- elles existent sous 3 diagrammes: les A2½B6 (régions 1,4 et 5), les B9c9 (régions 4 et 5) et les C10 (toutes régions).
+###
+U48
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe courte tout au long de la caisse avec une découpe un peu plus haute au droit des bogies. A compter de ce programme, 
+toutes les DEV suivantes auront le même schéma de jupe avec quelques très légères variantes. Le retour du carénage de bout est simplifié.
+- des baies de hauteur constante (baies de couloir et de compartiments, baies de porte d'accès et de cabinet de toilette. 
+Comme sur les U46, la porte d'intercirculation est dotée d'une vitre rectangulaire.
+- elles sont montées sur bogies Y16 à châssis moulé.
+- elles existent sous 1 seul diagramme: les C10 (toutes régions).
+Plus tard, toutes ces voitures seront regroupées à la région Nord.
+###
+U50
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe courte tout au long de la caisse avec une découpe un peu plus haute au droit des bogies.
+- des baies de hauteur différente: les baies de porte d'accès et de cabinet de toilette ont (presque) la même hauteur que celles des programmes U46 et U48
+(clair de baie h=870) et des baies de couloir et de compartiments agrandies vers le bas (clair de baie h=942). 
+Les diagrammes des C10myfi U46 et U48 indiquent des baies de couloir de 1150 x 880 mm, alors que celles des C10myfi U50 et suivantes sont de 1130 x 942 mm.
+Comme sur les U46 et U48, la porte d'intercirculation est dotée d'une vitre rectangulaire.
+Les fenêtres des DEV U46 et U48 comportent une vitre unique que l'on soulève légèrement pour la baisser (à la méthode des OCEM) 
+A compter du programme U50, le fenêtres sont du type semi-ouvrante avec la partie supérieure qui coulisse devant la partie inférieure. 
+Ceci entraine un nouveau cadre de baie avec le décrochement caractéristique.
+- elles sont montées sur bogies Y16 à châssis soudé.
+- elles existent sous 3 diagramme: les A3B5, les B8 et les C10 (régions 1, 2, 4 et 5).
+###
+U52
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe courte tout au long de la caisse avec une découpe un peu plus haute au droit des bogies.
+- des baies de hauteur différente comme celles des U50 et ce jusqu'au dernier programme de DEV courtes.
+- à compter de ce programme, les portes d'intercirculation reçoivent un hublot rond.
+- elles sont montées sur bogies Y20 à boites SKF.
+- elles existent sous 2 diagrammes: les B9c9 et les C10 (régions 1, 2, 4 et 5).
+###
+U53
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe courte tout au long de la caisse avec une découpe un peu plus haute au droit des bogies.
+- des baies de hauteur différente.
+- les portes d'intercirculation reçoivent un hublot rond.
+- elles sont montées sur bogies Y20 à boites SKF, remplacées par des Timken.
+- elles existent sous 1 seul diagramme: les A8 (toutes régions).
+###
+U54 et 55
+Ces voitures ont pour caractéristiques essentielles:
+- une jupe courte tout au long de la caisse avec une découpe un peu plus haute au droit des bogies.
+- des baies de hauteur différente.
+- les portes d'intercirculation reçoivent un hublot rond.
+- elles sont montées sur bogies Y20 à boites SKF ou Timken.
+- elles existent sous 2 diagrammes: les B9c9 et les C10 (toutes régions).
+- le programme U55, dans la continuité des U54, ne comprend que des C10, qui ont vraisemblablement été livrées en B10.
+###
+U58
+Certaines DEV AO U58 B10 longues sont montées sur bogies Y 26, avec des bogies à balanciers parallèles, ou avec des bogies à balanciers en H. 
+Je me souviens de ces voitures sur les trains de permissionnaires, en livrée 160 gris métallisé, tractés par des 15000, 
+fin des années 70 quand je bossais en Alsace.
+
+Bande verte 2nde apparue vers 1978 (grands trains repris par les Corail, DEV déclassées sur les express régionnaux)
+En ce qui concerne la livrée extérieure des DEV AO à bande de classe verte, courtes et longues, il y a 3 étapes:
+- première livrée (assez répandue) des voitures en places assises et places couchées: caisse vert celtique 301, bande vert signal 317, 
+sigle et marquages jaune jonquille 401.
+- deuxième livrée (très marginale) des voitures en places assises: caisse vert garrigue 302 et portes gris 804, bande vert signal 317, 
+sigle et marquages gris argent 806.
+- troisième livrée (assez répandue) des voitures en places assises: caisse vert garrigue 302, bandeau et portes gris 804, bande vert signal 317, 
+sigle et marquages gris argent 806. (livrée communément appelée "livrée 160")
+- troisième livrée (assez répandue) des voitures en places couchées: caisse bleu TEN 207, bandeau et portes gris argent 806, bande vert signal 317,
+sigle et marquages gris argent 806.
+#########
+Bogies d'origine et remplacements
+B.Bayle :
+En ce qui concerne les B10 (ex C10) U50, pas de doute : toute leur vie elles ont été équipées de bogies Y16.
+En ce qui concerne les A8 (ex A3B5) U50 : le document émis par Oullins Voitures en avril 1979 les donne toujours sur bogies Y16.
+En ce qui concerne les A8 (ex B8) U50 : le document daté de février 1981 les donne majoritairement sur bogies Y16.
+En résumé, il y a bien quelques A8 DEV AO U50 qui ont été dotées de bogies Y20, dont 3 aptes à 150 km/h, mais il faut dire qu'elles ne sont pas légion. 
+De plus, compte tenu des dates citées, la fin des DEV AO courtes n'était pas très éloignée, il y a de fortes chances qu'elles soient restées en l'état 
+jusqu'à leur réforme.
+livrets TW6 (effectifs par types de voitures) de la région Sud-Est :
+en 1968, il y a: (40 voitures A9 sont attendues venant de: 5 de l'Est, 20 de l'Ouest et 15 du Sud-Ouest)
+10 DEV AO A9 U57 bogies Y20D
+35 DEV AO A9 U59 bogies Y20D
+11 DEV AO B10 U58 bogies Y16I
+20 DEV AO B10 U59 bogies Y16I
+
+en 1973, il y a:
+50 DEV AO A9 U57 bogies Y20D
+35 DEV AO A9 U59 bogies Y24Z
+15 DEV AO B10 U59 bogies Y16I
+31 DEV AO B10 U59 bogies Y24Z
+
+en 1978, il y a:
+36 DEV AO A9 U57 bogies Y20D
+32 DEV AO A9 U59 bogies Y24Z
+13 DEV AO B9 U57 bogies Y20D (ex A9)
+46 DEV AO B10 U59 bogies Y24Z
+
+Je confirme que toutes les B10c10 sont restées sur bogies Y16 ou Y20 et toutes les A4c4B5c5 ont été dotées de bogies Y24 et regroupées au Sud-Ouest.
+---------
+Au travers des diverses publications, l'application des bogies Y24z reste assez floue, tant pour les motivations que pour les dates. 
+De souvenir, je dirais que ces permutations se sont opérées au début des années 70 afin de renforcer le parc de véhicules aptes à 160 km/h, 
+à l'exception des A4c4B5c5 qui sont restées limitées à 140 km/h. 
+
+A4c4B5c5 50 87 44 37 026-5 verte + bogies Y24. A noter le porte-semelle double mais équipé d'un seul sabot. Ces voitures sont limitées à 140 km/h. 
+###
+EC64 :
+prototype Y20 monté sur la voiture DEV U46 C10myfi 45053 du Sud-Ouest
+Les bogies Y20B montées sur 6 voitures inox U50 et Y20C montées sur les deux A6Dzmyfi U50 présentent un aspect voisin.
+Equipement d'origine des DEV AO longues :
+Le bogie Y20 était probablement plus cher et a nécessité quelques de mises au point (voir la revue de l'AFAC sur les bogies). 
+Jusqu'à 140 km/h le bogie Y16 "tenait la route", on l'a même monté sur les UIC Waastel.
+Selon les marchés, c'était Y 16 ou Y 20. Et il y a peut-être eu des échanges entre Y 16 et Y 20 notamment pour équiper les DEV inox des premières séries, 
+équipées à leur sortie sur Y 16.
+A noter que les voitures de 1ère cl ont plutôt bénéficié de l'Y20.
+(D'après "Le Train", problèmes avec le Y20
+###
+Notes de 1964 : Bogies Y24Z en remplacement des Y20H d'origine sur les 19 A9j Paris-Lille-Tourcoing
+et remplacement des Y16I sur les A4c4B5c5myfi U58
+###
+les DEV Waastels etaient meme autorises a 160km/h grace a leurs bogies Y16 LMS interchangeables , modif de 1969
+###########
+Voitures CFL (drehscheibe-online.de)
+
+initialement, jusque 1965 	1966-1973 				1973 SNCF
+
+A3B5myfi 1951 	AB4u 1202 	AB 51 82 38 40 125-2 -> 51 87 38 40 651-2
+A3B5myfi 1951 	AB4u 1203 	AB 51 82 38 40 126-0 -> 51 87 38 40 652-0
+A3B5myfi 1951 	AB4u 1204 	AB 51 82 38 40 127-8 -> 51 87 38 40 653-8
+
+C10myfi 1951 	B4u 2002 	B 51 82 20 40 211-0  -> 51 87 20 40 275-0
+C10myfi 1951 	B4u 2003 	B 51 82 20 40 212-8  -> 51 87 20 40 276-8
+C10myfi 1951 	B4u 2004 	B 51 82 20 40 213-6  -> 51 87 20 40 277-6
+C10myfi 1951 	B4u 2005 	B 51 82 20 40 214-4  -> 51 87 20 40 278-4
+C10myfi 1951 	B4u 2006 	B 51 82 20 40 215-1  -> 51 87 20 40 279-2
+C10myfi 1951 	B4u 2007 	B 51 82 20 40 216-9  -> 51 87 20 40 280-0
+C10myfi 1951 	B4u 2008 	BR 51 82 84 40 217-0 conservé par les CFL
+
+####
+EC64
+Petit rappel sur l'importance relative de chacune des grandes séries de voitures du parc express et rapides
+
+- TEE : 36 PBA + 122 Mistral soit 158 voitures
+- GC : 103 voitures
+- Corail : 1551 VU dont 100 VSE + 2324 VTU soit 3875 voitures
+- DEV inox : 142 courtes + 264 longues soit 406 voitures
+- DEV AO : 1084 courtes + 520 longues soit 1604 voitures
+- UIC : 1327 voitures
+- USI : 803 voitures
+- EST : 430 voitures
+- NORD : 612 voitures (Express + Rapide)
+- ETAT : 55 voitures dites saucisson
+- métallisées ETAT : 451 voitures dont 355 du 3ème type
+- métallisées PO : 501 voitures
+- métallisées PLM : 477 voitures
+- OCEM : 1036 RA (dont 195 Bacalan) + 1185 FL (dont 323 soudées) soit 2221 voitures

@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>[Ferrovia] - BB 20005 - BB 25100 - 25150 - 25200</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="../ferrovia.ico" type="image/bmp" />
+<link rel="stylesheet" href="../miseenpage.css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+</head>
+
+<body onload="MM_preloadImages()">
+
+<div id="header1">
+  <div id="header0"></div>
+</div>
+<div id="header2">
+  <a href="http://ferrovia.free.fr/nouveautes/index.php" class="link1">Nouveaut&eacute;s</a> | 
+  <a href="http://ferrovia.free.fr/tr/index.php" class="link1">Train R&eacute;el</a> | 
+  <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
+  <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
+  <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
+</div>
+
+<div class="SectionBloc">
+<div class="Section_txt">
+<p><span class="titre">BB 20005 - BB 25100 - 25150 - 25200</span><br />
+<span class="soustitre">Les pionni&egrave;res du bicourant</span></p>
+      <p>Au début des années 50, les expérimentations de locomotives monophasées 
+        sur la ligne Aix-les-Bains - Annecy donnent naissance aux premières locomotives 
+        bicourantes de la SNCF : <a href="20001.php" class="link1">CC 20001</a>, 
+        CC 20002 et BBB 20003. Cependant, ces machines sont équipées de systèmes 
+        d'alimentation sous 1500 V continu très modestes. Il s'agit simplement 
+        de décoller les rames de la gare d'Aix-les-Bains électrifiée par le PLM 
+        en courant continu ou d'envoyer les machines seules au dépôt de Chambéry 
+        situé à quelques kilomètres.</p>
+      <p> En 1955, l'électrification purement 25 kV 50 Hz de l'artère Nord-Est 
+        est un succès. L'électrification de la partie Sud de l'artère Impériale 
+        (Lyon à Marseille), qui s'étale de 1957 à 1962 fait pourtant appel au 
+        1500 V continu. La technologie 25 kV est encore jeune et les dirigeants 
+        de la SNCF peut être prudents pour l'&eacute;quipement d'un axe si capital. 
+        Mais surtout, La section Nord, de Paris à Lyon, est d&eacute;j&agrave; 
+        électrifiée en continu depuis 1952, ainsi que les voies bis jusque Chasse 
+        sur Rh&ocirc;ne depuis 1954. Les relais de machines à Lyon seraient pénalisants 
+        et nécessiteraient des voies commutables. C'est cette derni&egrave;re 
+        option qui est choisie pour la gare de Dôle lors de l'électrification 
+        de Dôle-Frasne-Vallorbe/Pontarlier en 1958. D'une part, le noeud de D&ocirc;le 
+        est bien moins complexe que celui de Lyon et, d'autre part, le profil 
+        difficile de la ligne transfrontali&egrave;re justifie l'emploi du monophas&eacute;. 
+      </p>
+      <p>Les qualités du 25 kV incitent à sa généralisation sur tous les nouveaux 
+        chantiers d'électrification mais son emploi va multiplier les fronti&egrave;res 
+        &eacute;lectriques. Le besoin d'une machine parfaitement bicourante et 
+        apte aux mêmes services sous les deux systèmes se fait de plus en plus 
+        pressant. Le problème principal à résoudre est celui du poids. La meilleure 
+        solution sous 25 kV à cet instant est la locomotive à graduateur haute 
+        tension, redresseurs ignitrons à vapeur de mercure et moteurs continus 
+        série ; appliqu&eacute;e sur les BB 12000, <a href="16000.php" class="link1">BB 
+        16000</a> et BB 16500. Mais le transformateur et le système de réfrigération 
+        des ignitrons sont lourds et encombrants. Le salut vient des premières 
+        diodes silicium de puissance qui remplacent les ignitrons. Elles sont 
+        d&eacute;j&agrave; utilis&eacute;es sur les machines bifr&eacute;quences 
+        BB 20103 et 20104. Le gain de poids permet alors d'installer un rhéostat 
+        et de démarrer la locomotive sous courant continu.</p>
+      <p> Le 3 septembre 1959, la <a href="16000.php" class="link1">BB 16028</a>, 
+        flambant neuve, part en dérive dans le dépôt de Thionville et heurte violemment 
+        un butoir. Gravement avari&eacute;e, elle est reconstruite en 1961 sous 
+        le numéro BB 20005 et intègre le club fermé des prototypes Monophas&eacute;s. 
+        Un court moment &eacute;quip&eacute;e avec des ignitrons, la BB 20005 
+        re&ccedil;oit des diodes et fait l'objet d'essais bicourants sur Paris-Dijon 
+        et D&ocirc;le-Frasne. Les résultats sont concluants et la SNCF passe commande 
+        des <a href="25100.php" class="link1">BB 25100</a> et <a href="25200.php" class="link1">BB 
+        25200</a>. Avec une caisse identique à quelques détails près aux <a href="9200.php" class="link1">BB 
+        9200</a> et <a href="16000.php" class="link1">BB 16000</a>, ces deux séries 
+        de machines se différencient au niveau de leur bogies. Le rapport de réduction 
+        des <a href="25100.php" class="link1">BB 25100</a> les limitent à 130 
+        km/h et les destine au transport de marchandises et messageries. Tandis 
+        que les <a href="25200.php" class="link1">BB 25200</a> sont limitées à 
+        160 km/h et vont tirer les Rapides et Express. </p>
+      <p>La courte s&eacute;rie des 25 <a href="25100.php" class="link1">BB 25100</a> 
+        sera suivie par la s&eacute;rie des <a href="25150.php" class="link1">BB 
+        25150</a> se diff&eacute;renciant par plusieurs am&eacute;liorations.</p>
+       
+      <p>&nbsp;</p>
+      <p><a href="25100.php" class="link1">BB 25100</a></p>
+      <p><a href="25150.php" class="link1">BB 25150</a></p>
+      <p><a href="25200.php" class="link1">BB 25200</a></p>
+      <p>&nbsp;</p>
+<p class="titre2">Pour plus d'info:</p>
+<p>la <a href="http://www.railsavoie.org/traction/proto/index.html" class="link1">BB 20005</a> sur <a href="http://www.railsavoie.org" class="link1">RailSavoie</a><br />
+la <a href="http://bpcv.free.fr/16028.html" class="link1">BB 16028 apr&egrave;s son violent tamponnement</a>, peu avant sa transformation en BB 20005 sur le site de <a href="http://bpcv.free.fr" class="link1">Bernard Parent</a></p>
+</div>
+<div class="Section_Illustrations"> 
+<p><img src="../images/tr/16028_PSL_270203-2.jpg" alt="La BB 16028 &agrave; St Lazare. Elle fut la BB 20005 de 1961 &agrave; 1975 (27/12/2003)" width="400" height="300" style="border:1px solid black" /><br />
+La BB 16028 &agrave; St Lazare. Elle fut la BB 20005 de 1961 &agrave; 1975 (27/12/2003)</p>
+<p><img src="../images/tr/16028_oullins_150504.jpg" alt="La BB 16028 en r&eacute;vision dans l'EIMM d'Oullins (15/05/2004)" width="400" height="300" style="border:1px solid black" /><br />
+La BB 16028 en r&eacute;vision dans l'EIMM d'Oullins (15/05/2004)</p>
+</div>
+</div>
+<div class="retour"><a href="lb.php">Retour page locomotives bicourantes</a></div>
+<p id="footer">Ferrovia - 11 F&eacute;vrier 2008</p>
+</body>
+</html>
