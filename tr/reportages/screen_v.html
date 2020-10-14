@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>[Ferrovia] - Test Mobile</title>
+<meta name="viewport" content="width=device-width, initial-scale=0.75">
+<!--<meta name="viewport" content="width=(device-width * device-pixel-ratio), initial-scale=1.0">
+<meta name="viewport" content="initial-scale=0.75">-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="../ferrovia.ico" type="image/bmp" />
+<link rel="stylesheet" href="http://ferrovia.free.fr/responsive.css" />
+</head>
+<body>
+<script type="text/javascript">
+<!--
+//(this, "res", function() {
+/*(function res(){
+      var pxPerIn  = 96,
+//        dpcm = 96 / 2.54,
+        pxPerCm = 2.54 / pxPerIn,
+//        f = "undefined" != typeof window && window,
+//        g =   typeof screen != "undefined" && screen,
+        h = [].join,
+        matchMedia  = window.matchMedia,
+        hasFeature  = matchMedia  ? function() {
+          return !!matchMedia .call(window, "(" + h.call(arguments, "") + ")").matches
+        } : function() {
+          return false
+        },
+        someApply = function(stack, fn, scope) {
+          for (var i = 0, e = stack.length; e > i;)
+            if (fn.apply(scope, stack[i++])) return true;
+          return false
+        },
+        winDppx = +window.devicePixelRatio || Math.sqrt(screen.logicalXDPI * screen.logicalYDPI) / pxPerIn || 0,
+        useDppx = winDppx || !matchMedia  ? winDppx : (function(test) {
+          for (var approx, c = 41; c-- && !test(approx = c / 20););
+          return approx
+        }(dppx));
+
+      function dppx(min) {
+        return (min == null) ? useDppx : (min !== min) ? false : winDppx ? winDppx >= min : someApply([
+          ["min--moz-device-pixel-ratio:", dppx],
+          ["min-resolution:", dppx * one_dpi, "dpi"]
+        ], hasFeature)
+      }
+
+      function dpi(min) {
+        return null == min ? dppx() * pxPerIn : dppx(min / pxPerIn)
+      }
+
+      function dpcm(min) {
+        return null == min ? dppx() / pxPerCm : dppx(min * pxPerCm)
+      }
+      return {
+        'dppx': dppx,
+        'dpcm': dpcm,
+        'dpi': dpi
+      }
+    });
+*/
+var pxPerIn  = 96,
+	pxPerCm = 2.54 / pxPerIn,
+	h = [].join,
+	matchMedia  = window.matchMedia,
+	hasFeature  = matchMedia  ? 
+		function() {
+          return !!matchMedia .call(window, "(" + h.call(arguments, "") + ")").matches
+        } 
+		: 
+		function() {
+          return false
+        },
+        someApply = function(stack, fn, scope) {
+          for (var i = 0, e = stack.length; e > i;)
+            if (fn.apply(scope, stack[i++])) return true;
+          return false
+        },
+        winDppx = +window.devicePixelRatio || Math.sqrt(screen.logicalXDPI * screen.logicalYDPI) / pxPerIn || 0,
+        useDppx = winDppx || !matchMedia  ? winDppx : (function(test) {
+          for (var approx, c = 41; c-- && !test(approx = c / 20););
+          return approx
+        }(dppx));
+
+function dppx(min) {
+ return (min == null) ? useDppx : (min !== min) ? false : winDppx ? winDppx >= min : someApply([
+  ["min--moz-device-pixel-ratio:", dppx],
+  ["min-resolution:", dppx * one_dpi, "dpi"]], hasFeature)
+}
+function dpi(min) {
+  return null == min ? dppx() * pxPerIn : dppx(min / pxPerIn)
+}
+document.write("JS dpi = " + dpi() + "<br />");
+var hauteur, largeur;
+largeur=screen.width;
+hauteur=screen.height;  
+document.write("screen.width = " + largeur + "<br />");
+document.write("screen.height = " + hauteur + "<br />");
+document.write("<br />");
+document.write("screen.availWidth = " + screen.availWidth + "<br />");
+document.write("screen.availHeight = " + screen.availHeight + "<br />");
+document.write("<br />");
+document.write("document.documentElement.clientWidth = " + document.documentElement.clientWidth + "<br />");
+document.write("document.documentElement.clientHeight = " + document.documentElement.clientHeight + "<br />");
+document.write("<br />");
+document.write("window.devicePixelRatio  = " + window.devicePixelRatio + "<br />");
+document.write("window.screen.availWidth / document.documentElement.clientWidth = " + (window.screen.availWidth / document.documentElement.clientWidth) + "<br />");
+var pxr = window.devicePixelRatio || window.screen.availWidth / document.documentElement.clientWidth;
+document.write("pxr = " + pxr + "<br />");
+pxr = pxr.toFixed(4);
+document.write("pxr.toFixed(4) = " + pxr + "<br />");
+document.write("<br />");
+document.write("window.screen.systemXDPI  = " + window.screen.systemXDPI  + "<br />");
+document.write("window.screen.logicalXDPI  = " + window.screen.logicalXDPI  + "<br />");
+document.write("<br />");
+document.write("verge.viewportW  = " + verge.viewportW  + "<br />");
+document.write("<br />");
+var toto = res();
+
+//-->
+</script>
+</body>
+</html>

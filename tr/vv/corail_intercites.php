@@ -5,18 +5,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
 <style type="text/css">
 <!--
 .Style1 {font-size: 10px}
@@ -24,8 +12,7 @@ function MM_preloadImages() { //v3.0
 </style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -40,7 +27,7 @@ function MM_preloadImages() { //v3.0
 <div class="Section_txt">
 <p class="titre">Corail Intercités</p>
 <p>L'activité Corail Intercités fut créée en 2006. Elle est destinée à s'intercaler entre l'offre VFE (ex-Grandes Lignes, qui conserve le TGV et les axes nationaux importants, 
-souvent équipés en <a href="../corail_teoz.php" class="link1">Téoz</a>) et l'offre TER qui couvre à la fois des omnibus locaux mais aussi certains trains interrégionaux.
+souvent équipés en <a href="corail_teoz.php" class="link1">Téoz</a>) et l'offre TER qui couvre à la fois des omnibus locaux mais aussi certains trains interrégionaux.
 La frontière est donc parfois floue puisque, pour prendre un exemple, les relations de distances comparables au départ de Paris vers des métropoles régionales sont assurées
 soit par des TER (Dijon, Le Mans), soit par des Intercités (Caen, Le Havre, Bourges, Nevers). En général, les axes Intercités sont ceux où il n'existe pas d'offre TGV directe 
 entre les métropoles.</p>
@@ -61,13 +48,13 @@ Quimper / Nantes / Bordeaux / Toulouse<br />
 Toulouse / Hendaye</p>
 <p class="Style1">* Ces Intercités ne sont pas assurés en Corail, mais en <a href="../72500.php" class="link1">X 72500</a>, 
 ou, plus récemment, en Régiolis <a href="../84500.php" class="link1">B 84500</a></p>
-<p class="Style1">** Service Aqualys <a href="../corail_aqualys.php" class="link1">Aqualys</a></p>
+<p class="Style1">** Service <a href="corail_aqualys.php" class="link1">Aqualys</a></p>
 <p>Ces trains ont connu plusieurs acronymes depuis qu'ils ne sont plus des GL (Grandes Lignes). Ils ont été nommés TIR (Trains InterRégionaux), puis CIC (Corail Intercités), puis TET 
 (Trains d'Equilibre du Territoire). La majorité des relations utilisent des voitures Corail rénovées Corail+ ou Nouvelle Déco qui n'ont reçu qu'un autocollant posé sur chaque face.
 Certaines lignes posent des problèmes de rentabilité préoccupants et la SNCF sollicite les régions desservies pour leur financement. Du matériel automoteur TER a pu être engagé 
 sur certaines relations (notamment les transversales Lyon/Tours et Lyon/Limoges/Bordeaux).</p>
 <p>Paradoxalement, c'est sur les relations bien portantes que les régions ont accepté d'investir le plus, avec un rafraîchissement important du parc dédié à la Basse-Normandie en 2007 et
-une rénovation encore plus poussée pour les rames desservant la Haute-Normandie. Les voitures engagées sur les lignes Paris/Nevers, et (Quimper) Nantes / Bordeaux (Toulouse) ont bénéficié également
+une rénovation encore plus poussée pour les rames desservant la Haute-Normandie. Les voitures engagées sur les lignes Paris/Nevers, et (Quimper) Nantes / Bordeaux (Toulouse) ont bénéficié également
 d'une rénovation, mais sans particularité régionales. Cette rénovation n'a pu être étendue aux autres lignes Intercités puisque, dans un souci de simplification de ses marques, 
 la SNCF a regroupé en 2012 toutes les activités en rames tractées sous le nom d'Intercités et a adopté une livrée commune Carmillon.</p>
 <p class="titre2">Basse-Normandie</p>
@@ -83,7 +70,7 @@ desservent la ligne Pari</p>
 l'activité Intercités elle-même, ainsi que <a href="corail_teoz.php" class="link1">Téoz</a>, <a href="corail_aqualys.php" class="link1">Aqualys</a> et <a href="corail_nuit.php" class="link1">Lunéa</a> (qui s'appelle désormais "Intercités de nuit"). Un nouveau revirement est donc acté également pour l'esthétique des voitures puisque la livrée
 Intercités à base de gris, vert et violet est aussitôt abandonnée. Tous les matériels passant en révision recevant donc la livrée <a href="corail_carmillon.php" class="link1">Carmillon</a> à base de gris métallisé pour les voitures de jour et de blanc pour les voitures couchettes.</p>
 <p class="titre2">Pour plus d'info:</p>
-<p>Le fiche <a href="https://fr.wikipedia.org/wiki/Intercit%C3%A9s" class="link1">Corail Intercit&eacute;s</a>  
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/Intercit%C3%A9s" class="link1">Corail Intercit&eacute;s</a>  
 sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_intercites.htm" class="link1">Corail Intercit&eacute;s</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
 </div>
@@ -112,8 +99,8 @@ Paris-Nevers de dix caisses (Paris-Bercy, 07/05/2009)</p>
 <p><img src="../../images/tr/vv/vu_b7h_618727750019_20100625.jpg" alt="B7uh Intercités Paris-Nevers (Villeneuve Prairie, 25/06/2010)" width="1100" height="280" border="1" style="border:1px solid black" /><br />
 <span class="legende">B<sup>7</sup>uh n&deg; 61 87 27-75 001-9, exploitée sur Paris-Nevers (Villeneuve Prairie, 25/06/2010)</span></p>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv/corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="corail.php">Retour page Corail</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <p id="footer">Ferrovia - 30 Octobre 2015<br />
 &nbsp;</p>
 </body></html>

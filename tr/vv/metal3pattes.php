@@ -29,7 +29,7 @@ certaines qui ont été métallisées. C'est à dire, dont les caisses furent entière
 <p><span class="link1">Diagrammes apparus par d&eacute;classements et transformations</span></p>
 <p></p> 
 <p class="titre2">Quelques donn&eacute;es techniques</p>
-<p>Métallisation : Ateliers de Villeneuve Saint Georges pour les protos, Ateliers du centre<br />
+<p>Métallisation : Ateliers de Villeneuve Saint Georges<br />
 Vitesse maximum autorisée : 120 km/h<br />
 Chauffage :</p>
 <p>Longueur: 13,897 m ou 14,910 m<br />

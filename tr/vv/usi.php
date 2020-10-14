@@ -149,7 +149,7 @@ USI 60 &agrave; caisse courte mont&eacute;es sur Y 16 Is.</p>
 <p>Constructeur : ANF-Crespin Blanc-Misseron<br />
 Vitesse maximum autoris&eacute;e : 140/160 km/h<br />
 Alimentation du chauffage: R&eacute;chauffeur au PSP sur les U60 &agrave; U65, puis &eacute;lectrique sur toute la s&eacute;rie (1500V cc, 1500V 50 Hz, &eacute;galement 3000V 
-cc, 1000V 16,7 Hz pour les voitures B&eacute;n&eacute;lux) <br />
+cc, 1000V 16,7 Hz pour les voitures B&eacute;n&eacute;lux) <br />
 Alimentation des auxiliaires sur batteries, recharge par statodyne.</p>
 <p>Longueur: 25,094 m<br />
 Masse: 41 &agrave; 43t</p>

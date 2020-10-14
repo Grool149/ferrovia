@@ -19,7 +19,7 @@
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
 <div class="SectionBloc">
-<div class="Section_txt">
+<div class="Section_txt">
 <p><span class="titre">Corail TER - phase I</span><br />
 <span class="soustitre">Les premières régionalisations Corail</span></p>
 <p>Dans les années 1990, le recul des Corail devant le TGV provoque la bascule d'un important contingent vers les directions régionales. Alsace, Rhône-Alpes

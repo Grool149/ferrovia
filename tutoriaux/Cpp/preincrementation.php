@@ -5,7 +5,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-</head>
 <style type="text/css">
 <!--
 .Style1 {font-size: 10px}
@@ -13,6 +12,7 @@
 .code .comment {    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; color: #007F00;}
 -->
 </style>
+</head>
 <body>
 <div class="SectionBloc">
 <p class="titre">Astuces d'optimisation du code : la pré-incrémentation</p>

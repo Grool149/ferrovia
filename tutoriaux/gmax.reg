@@ -1,0 +1,9 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Autodesk]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\UserProfile]
+"Version"="v1.00"
+"UserID"="406D3EEAE53C503A45943BE247DD1C2366423C47B914C359"

@@ -5,7 +5,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-</head>
 <style type="text/css">
 <!--
 .Style1 {font-size: 10px}
@@ -13,60 +12,62 @@
 .code .comment {    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; color: #007F00;}
 -->
 </style>
+</head>
 <body>
 <div class="SectionBloc">
 <p class="titre">Console Windows : afficher des caractères spéciaux dans la sortie standard</p>
-<p class="code">
-#include &lt;windows.h&gt;<br />
-#include &lt;string&gt;<br />
-<br />
-<span style="color: #007F00;">// Transforme les caractères ANSI ASCII en format OEM pour affichage correct des diacritiques sur la console.</span><br />
-std::string FormaterPourConsole(const std::string &src)<br />
-{<br />
-&nbsp;&nbsp;using namespace std;<br />
-&nbsp;&nbsp;vector&lt;char&gt; v(src.size() + 1);<span style="color: #007F00;"> // remplit v de '\0' avec espace pour un délimiteur</span><br />
-&nbsp;&nbsp;CharToOem(src.c_str(), &v[0]);<br />
-&nbsp;&nbsp;return string(begin(v), end(v));<br />
-}</p>
+<p>Utilisation de la fonction CharToOem fournie par Windows :</p>
+<pre>
+  #include &lt;windows.h&gt;
+  #include &lt;string&gt;
+<span style="color: #007F00;">  // Transforme les caractères ANSI ASCII en format OEM pour affichage correct des diacritiques sur la console.</span>
+  std::string FormaterPourConsole(const std::string &amp;src)
+  {
+    using namespace std;
+    vector&lt;char&gt; v(src.size() + 1);<span style="color: #007F00;"> // remplit v de '\0' avec espace pour un délimiteur</span>
+    CharToOem(src.c_str(), &amp;v[0]);
+    return string(begin(v), end(v));
+  }</pre>
 
 <p>Autre exemple :<br />
 Pour éviter l'appel direct à la fonction CharToOem et des fuites de mémoire en cas d'utilisation de tableaux de char, on créé un type et on surcharge l'opérateur &lt;&lt;
 </p>
-<p class="code">#include &lt;sstream&gt;<br />
-#include &lt;cstring&gt;<br />
-<br />
-struct SetOEM<br />
-{<br />
-&nbsp;&nbsp;SetOEM(const char* s) : _oem(s) {}<br />
-&nbsp;&nbsp;const char* _oem;<br />
-};<br />
-<br />
-inline SetOEM OEM(const char* s)<br />
-{<br />
-&nbsp;&nbsp;return SetOEM(s);<br />
-}<br />
-<br />
-template &lt;class charT, class traits&gt; std::basic_ostream&lt;charT, traits&gt;& operator&lt;&lt;(std::basic_ostream&lt;charT, traits&gt;& out, SetOEM oem)<br />
-{<br />
-&nbsp;&nbsp;char* s;<br />
-&nbsp;&nbsp;s = new char[strlen(oem._oem) + 1];<br />
-&nbsp;&nbsp;strcpy(s, oem._oem); <span style="color: #007F00;">// à remplacer par CharToOem(oem, s);</span><br />
-&nbsp;&nbsp;out &lt;&lt; s;<br />
-&nbsp;&nbsp;delete [] s;<br />
-&nbsp;&nbsp;return out;<br />
-}<br />
-<br />
-int main ()<br />
-{<br />
-&nbsp;&nbsp;char caf[] = "Les caractères français doivent être convertis";<br />
-&nbsp;&nbsp;std::cout &lt;&lt; std::endl<br />
-&nbsp;&nbsp;&lt;&lt; OEM("Démo de ca() n° 1 : ") &lt;&lt; OEM(caf) &lt;&lt; std::endl<br />
-&nbsp;&nbsp;&lt;&lt; OEM("Démo de ca() n° 2 : ") &lt;&lt; OEM("Noëlle aperçut là-bas l'âne bâté") &lt;&lt; std::endl<br />
-&nbsp;&nbsp;&lt;&lt; std::endl &lt;&lt; std::endl<br />
-&nbsp;&nbsp;&lt;&lt; "Au revoir !" &lt;&lt; std::endl<br />
-&nbsp;&nbsp;&lt;&lt; std::endl;<br />
-&nbsp;&nbsp;return 0;<br />
-}</p>
+<pre>
+  #include &lt;sstream&gt;
+  #include &lt;cstring&gt;
+
+  struct SetOEM
+  {
+    SetOEM(const char* s) : _oem(s) {}
+    const char* _oem;
+  };
+
+  inline SetOEM OEM(const char* s)
+  {
+    return SetOEM(s);
+  }
+
+  template &lt;class charT, class traits&gt; std::basic_ostream&lt;charT, traits&gt;&amp; operator&lt;&lt;(std::basic_ostream&lt;charT, traits&gt;&amp; out, SetOEM oem)
+  {
+    char* s;
+    s = new char[strlen(oem._oem) + 1];
+    strcpy(s, oem._oem); <span style="color: #007F00;">// à remplacer par CharToOem(oem, s);</span>
+    out &lt;&lt; s;
+    delete [] s;
+    return out;
+  }
+
+  int main ()
+  {
+    char caf[] = "Les caractères français doivent être convertis";
+    std::cout &lt;&lt; std::endl
+    &lt;&lt; OEM("Démo de ca() n° 1 : ") &lt;&lt; OEM(caf) &lt;&lt; std::endl
+    &lt;&lt; OEM("Démo de ca() n° 2 : ") &lt;&lt; OEM("Noëlle aperçut là-bas l'âne bâté") &lt;&lt; std::endl
+    &lt;&lt; std::endl &lt;&lt; std::endl
+    &lt;&lt; "Au revoir !" &lt;&lt; std::endl
+    &lt;&lt; std::endl;
+    return 0;
+  }</pre>
 </div>
 </body>
 </html>
