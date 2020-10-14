@@ -5,33 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-.vignette {
-  padding:10px;
-  cursor: pointer;
-  position:relative;
-  float:left; 
-}
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -43,11 +19,10 @@ function MM_preloadImages() { //v3.0
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
 <div class="SectionBloc">
-<!--<div class="Section_txt">--->
 <p><span class="titre">Corail TER - phase II</span><br />
 <span class="soustitre">La standardisation des Corail TER</span></p>
 <p>Les automoteurs TER de nouvelle génération <a href="../72500.php" class="link1">X 72500</a> reçoivent une livrée gris métallisée et bleue décorée
-d'un sigle TER blanc sur toute la hauteur de la caisse qui devient le nouveau standard pour le matériel régional. Les Corail rénovés à la fin des années
+d'un sigle TER blanc sur toute la hauteur de la caisse qui devient le nouveau standard pour le matériel régional. Les Corail rénovées à la fin des années
 1990 reçoivent cette décoration. Dès 2002, elle est légèrement simplifiée avec l'abandon du grand sigle contre des stickers beaucoup plus petits apposés 
 sur les flancs des voitures.</p>
 <p class="titre2">Première vague : 1997-2000</p>
@@ -87,7 +62,7 @@ VU A<sup>10</sup>u n°50 87 10-77 600-8 PACA (Marseille, 16/07/2005)</p>
 <p>Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_ter.htm" class="link1">Corail TER</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
 </div>
 <div class="retour"><a href="corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <p id="footer">Ferrovia - 29 Octobre 2015<br />
 &nbsp;</p>
 </body></html>

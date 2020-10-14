@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -54,7 +36,7 @@ Cette VU A<sup>10</sup>ux TER Bourgogne refaite à neuf transite à Juvisy (24/04/
 <p class="legende" style="display:inline-block"><img style="border:1px solid black" src="../../images/tr/vv/vu_b5x_20120617.jpg" alt="VU B5uxh TER Bourgogne, issue d'une B6Du transformée (17/06/2012)" height="300" width="400" /><br />
 VU B<sup>5</sup>uxh TER Bourgogne, issue d'une B<sup>6</sup>Du transformée (17/06/2012)</p>
 <p class="titre2">TER Languedoc-Roussillon</p>
-<p>Languedoc-Roussillon s'est lancée dans une révision générale de ses voitures et les affecte sur des TER à grand parcours Avignon-Cerbère. Elles eu droit à un pelliculage intégral.</p>
+<p>Languedoc-Roussillon s'est lancée dans une révision générale de ses voitures et les affecte sur des TER à grand parcours Avignon-Cerbère. Elles ont eu droit à un pelliculage intégral.</p>
 <p class="legende" style="display:inline-block"><img style="border:1px solid black" src="../../images/tr/vv/vu_b7uh_27740328_20141025.jpg" alt="Cette VU B7uh TER Languedoc-Roussillon stationne &agrave; Cerb&egrave;re (25/10/2014)" height="300" width="400" /><br />
 Cette VU B<sup>7</sup>uh TER Languedoc-Roussillon stationne &agrave; Cerb&egrave;re (25/10/2014)</p>
 <p class="legende"><img src="../../images/tr/vv/vtu_b11_21779124_20141025.jpg" alt="La VTU B11tu Languedoc-Roussillon est manoeuvrée à Cerbère (25/10/2014)" width="1100" height="196" border="1" /><br />
@@ -63,7 +45,7 @@ La VTU B<sup>11</sup>tu n&deg; 21-77 912-4 Languedoc-Roussillon est manoeuvr&eac
 <p>Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_ter.htm" class="link1">Corail TER</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
 </div>
 <div class="retour"><a href="corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <p id="footer">Ferrovia - 10 Novembre 2015<br />
 &nbsp;</p>
 </body></html>

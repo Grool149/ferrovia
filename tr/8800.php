@@ -5,21 +5,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
-
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -56,7 +43,6 @@ Masse: 224t</p>
 <p class="titre2">Machines particuli&egrave;res de la s&eacute;rie</p>
 <p>La Z 8895/96 fut le prototype d'une cha&icirc;ne de traction &agrave; base d'onduleurs de courant alimentant des moteurs asynchrones &agrave; cage d'&eacute;cureuil. Cette
 cha&icirc;ne fut reprise pour la construction des <a href="20500.php" class="link1">Z 20500</a>.</p>
-
 <p class="titre2">Pour plus d'info:</p>
 <p>La fiche <a href="http://fr.wikipedia.org/wiki/Z_8800" class="link1">Z 8800</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 Fiche technique des <a href="http://fbrisou.free.fr/RAIL21/FicheZ5600.pdf" class="link1"> Z 8800</a> de <a href="http://pagesperso-orange.fr/florent.brisou" class="link1">Florent Brisou</a><a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1"><br />
@@ -73,10 +59,12 @@ La Z 8905 &agrave; Ste Genevi&egrave;ve des bois (19/12/2010)</p>
 La Z 8883-84 &agrave; Epinay sur Orge (17/11/2006)</p>
 <p><img style="border:1px solid black" src="../images/tr/z/z8815-16-21092012.jpg" alt="La Z 8815-16 &agrave; la bifurcation de Viroflay (21/09/2012)" height="300" width="400"><br />
 La Z 8815-16 &agrave; la bifurcation de Viroflay (21/09/2012)</p>
+<p><img style="border:1px solid black" src="../images/tr/z/z8903-4-20150808.jpg" alt="La Z 8903-04 en livr&eacute;e STIF/Carmillon (Ermont Eaubonne, 08/08/2015)" height="300" width="400"><br />
+La Z 8903-04 en livr&eacute;e STIF/Carmillon (Ermont Eaubonne, 08/08/2015)</p>
 </div>
 </div>
 <div class="retour"><a href="ae.php" class="link2">Retour page Automotrices</a></div>
-<p id="footer">Ferrovia - 22 Juin 2012
-</p>
+<p id="footer">Ferrovia - 22 Juin 2012<br />
+&nbsp;</p>
 </body>
 </html>

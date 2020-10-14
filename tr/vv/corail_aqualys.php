@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -55,7 +37,7 @@ Les A<sup>5</sup>B<sup>4</sup>tux sont d'anciennes A<sup>5</sup>B<sup>5</sup>tu 
 de strapontins et de crochets à vélos.</p>
 <p>L'aptitude à 200 km/h de ce parc fut peu exploitée puisque la grande majorité des trains étaient tirés par des <a href="../9200.php" class="link1">BB 9200</a> ou des <a href="../7200.php" class="link1">BB 7200</a> limitées à 160 km/h.
 La situation de la gare d'Orléans en impasse et les demi-tours fréquents à Tours ou Paris-Austerlitz plaidaient en faveur de rames réversibles comme cela avait été déjà le cas dans les années 1980. La région
-Centre n'a cependant pas consenti à cet investissement lorsque les <a href="vu.php" class="link1">VU B<sup>6</sup>Du ont été transformées en B<sup>5</sup>uxh</a>.</p>
+Centre n'a cependant pas consenti à cet investissement lorsque les VU B<sup>6</sup>Du ont été transformées en B<sup>5</sup>uxh.</p>
 <p class="titre2">Pour plus d'info:</p>
 <p>La fiche <a href="https://fr.wikipedia.org/wiki/Aqualys" class="link1">Aqualys</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_ter.htm" class="link1">Corail Aqualys</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.<br />

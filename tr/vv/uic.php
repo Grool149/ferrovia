@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -94,7 +82,7 @@ sur les longues lignes droites de la Sologne et de la Beauce (l'allure restera b
 de peindre ce train en rouge. Ce qui dénote dans un environnement ferroviaire encore vert sombre. Les 3 A<sup>7</sup>D et 19 A<sup>9</sup> du programme 1965, compl&eacute;t&eacute;es par 4 A<sup>9</sup> UIC67, affect&eacute;es au Capitole restaient semblables aux autres UIC en dehors de leur livr&eacute;e ext&eacute;rieure et de patins magn&eacute;tiques install&eacute;s sous les balanciers de leurs bogies Y 24 A1s.</p>
 <p>Les autres A<sup>9</sup> UIC67 ainsi que les A<sup>7</sup>D furent &eacute;galement peintes en rouge. Mais elles se distinguaient par des bogies Y 28 E. Les  A<sup>9</sup> furent 
 employ&eacute;es sur l'Etendard et un rapide Paris-Strasbourg. Les A<sup>7</sup>D furent ventil&eacute;es sur ces m&ecirc;mes trains ainsi que les rapides Paris-Le Havre.</p>
-<p>Les programmes suivants sortirent d'usine avec la livr&eacute;e &quot;160&quot;, vert guarrigue et bandeau gris inox. Elle permit de distinguer ces voitures modernes aptes &agrave; 160km/h des s&eacute;ries plus anciennes plafonnant &agrave; 140. Ces voitures &eacute;toff&egrave;rent les relations nationales et internationales de jour comme de nuit. Cependant, les trains les plus nobles, pass&eacute;s dans le giron des TEE, se voyaient d&eacute;j&agrave; confier du mat&eacute;riel plus exclusif et prestigieux, les TEE Grand Confort sur le Sud-Ouest et l'Est, les TEE Inox sur le Nord et le Sud-est. </p>
+<p>Les programmes suivants sortirent d'usine avec la livr&eacute;e &quot;160&quot;, vert garrigue et bandeau gris inox. Elle permit de distinguer ces voitures modernes aptes &agrave; 160km/h des s&eacute;ries plus anciennes plafonnant &agrave; 140. Ces voitures &eacute;toff&egrave;rent les relations nationales et internationales de jour comme de nuit. Cependant, les trains les plus nobles, pass&eacute;s dans le giron des TEE, se voyaient d&eacute;j&agrave; confier du mat&eacute;riel plus exclusif et prestigieux, les TEE Grand Confort sur le Sud-Ouest et l'Est, les TEE Inox sur le Nord et le Sud-est. </p>
 <p class="titre2">Seconde partie de carri&egrave;re</p>
 <p>Apr&egrave;s un bref service de trois ans sur le prestigieux rapide Capitole, les UIC aptes &agrave; 200 km/h durent c&eacute;der la place aux nouvelles GC. Elles furent n&eacute;anmoins 
 affect&eacute;es encore peu de temps &agrave; ses d&eacute;doublements. Tout le parc est finalement repeint en livr&eacute;e 160. L'arriv&eacute;e massive des <a href="corail.php" class="link1">Corail</a> &agrave; partir de 1975 pousse rapidement les UIC vers un second r&ocirc;le. Des &eacute;changes de bogies V200 sous des B<sup>10</sup> permettent n&eacute;anmoins d'assurer des trains 1e/2e classe Paris-Bordeaux &agrave; 200 km/h.</p>
@@ -116,7 +104,7 @@ Alimentation des auxiliaires sur batteries, recharge par dynamo.</p>
 <p>Longueur: 24,5 m<br />
 Tare: 41 &agrave; 44t</p>
 <p class="titre2">Mouvement de carri&egrave;re</p>
-<p>Voiture CFL revendues à la SNCF<br />
+<p>Voitures CFL revendues à la SNCF<br />
 UIC AB 51 82 39 80 121-1 -> 51 87 39 80 701-5<br />
 UIC AB 51 82 39 80 122-9 -> 51 87 39 80 702-3<br />
 UIC AB 51 82 39 80 123-7 -> 51 87 39 80 703-1<br />

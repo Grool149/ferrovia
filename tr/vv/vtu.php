@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -40,15 +22,15 @@ function MM_preloadImages() { //v3.0
 <div class="Section_txt">
 <p><span class="titre">Corail VTU</span><br />
 <span class="soustitre">Les Corail &agrave; couloir central</span></p>
-<p>Les VTU reprennent le concept Coach initi&eacute; par les <a href="/tr/vv/usi.php" class="link1">USI</a>. Une grande 
+<p>Les VTU reprennent le concept Coach initi&eacute; par les <a href="usi.php" class="link1">USI</a>. Une grande 
 salle est &eacute;quip&eacute;e de trav&eacute;es de si&egrave;ges regroup&eacute;s 
-deux par deux en banquette. Les voitures re&ccedil;oivent deux toilettes 
+deux par deux en banquettes. Les voitures re&ccedil;oivent deux toilettes 
 &agrave; une extr&eacute;mit&eacute;. A l'autre, l'appareillage ainsi qu'un mobilier 
 de restauration sur certaines voitures. La production 
 de 2335 voitures sera &eacute;tal&eacute;e sur plusieurs programmes de 
 construction et selon diff&eacute;rents diagrammes. Toutefois, toutes 
 les VTU partagent un chaudron identique. Longueur de 26,400 m hors tampons, 
-largeur 2,825m, entraxe des bogies de 18,306m. 10 baies &eacute;galement 
+largeur 2,825m, entraxe des bogies de 18,306m. 10 baies r&eacute;guli&egrave;rement 
 espac&eacute;es par face plus une lucarne opaque pour chaque toilette. 
 Les bogies sont de type Y32 et pr&eacute;sentent les caract&eacute;ristiques 
 des bogies modernes : ch&acirc;ssis en H, longerons cambr&eacute;s, essieux 
@@ -57,8 +39,8 @@ fix&eacute;s sur biellettes et double suspension par ressorts h&eacute;lico&iuml
 <p>Les VTU sont issues d'une voiture prototype B<sup>11</sup>tu appel&eacute;e &quot;Service 
 int&eacute;rieur longue&quot; construite par les ANF. Cette voiture a depuis 
 &eacute;t&eacute; vers&eacute;e au parc de service. Les diagrammes principaux 
-sont A<sup>10</sup>tu (58 places) pour les 1e et B<sup>11</sup>tu (88 places) pour les 2e. Certaines 
-voitures dot&eacute;es de mobilier de restauration sont nomm&eacute;es 
+sont A<sup>10</sup>tu (58 places) pour les voitures de 1e classe et B<sup>11</sup>tu (88 places) pour les voitures de 2e classe. Certaines 
+voitures dot&eacute;es de mobilier pour le service de restauration à la place sont nomm&eacute;es 
 rtu. De plus, les voitures de 2e destin&eacute;es au trafic international 
 b&eacute;n&eacute;ficient d'un pas de si&egrave;ge plus grand. Le diagramme 
 est alors B<sup>10</sup>tu. Les Bar Corail ont un diagramme B<sup>5</sup>rtux qui consacre la 
@@ -69,9 +51,9 @@ Enfin, les VTU 84 pr&eacute;sentent un nouveau diagramme A<sup>5</sup>B<sup>5</s
 <p><span class="link1">Diagrammes apparus par d&eacute;classements et transformations</span></p>
 <p>De nouveaux types apparaitront au gr&eacute; de modifications. Les B<sup>5½</sup>tu 
 avaient un espace enfants. Les B<sup>9½</sup>tu ont troqu&eacute; leurs banquettes 
-contre des si&egrave;ges inclinables des m&ecirc;mes coloris que les si&egrave;ges 
+contre des si&egrave;ges inclinables dont le tissu a les m&ecirc;mes coloris que les si&egrave;ges 
 des TGV Atlantique et sont incluses dans les trains nocturnes. La perc&eacute;e 
-des TGV a sensiblement r&eacute;duit la part des corail aux Grandes Lignes. 
+des TGV a sensiblement r&eacute;duit la part des Corail aux Grandes Lignes. 
 De nombreuses voitures ont donc &eacute;t&eacute; c&eacute;d&eacute;es aux 
 r&eacute;gions qui, par modernisation, les ont r&eacute;am&eacute;nag&eacute;es 
 selon des diagrammes vari&eacute;s.</p> 
@@ -93,8 +75,6 @@ au type A<sup>10</sup>tu pour le compte de la r&eacute;gion <a href="corail_ter1
 se d&eacute;nomment d&eacute;sormais Su puisqu'elles ont &eacute;t&eacute; absorb&eacute;es par le parc de service. Elles servent aujourd'hui de 
 voitures de charges lors des tourn&eacute;es Mauzin ou IES sur LGV.</p>
 <p>Les A<sup>2</sup>rtu se distinguent par l'occultation de 2 portes sur les 4 et la pr&eacute;sence d'une cuisine.</p>
-<p class="titre2">Pour plus d'info:</p>
-<p>&nbsp;</p>
 </div>
 <div class="Section_Illustrations">
 <p><img style="border:1px solid black" src="../../images/tr/vv/vtu_a10r_1097017_20030216.jpg" alt="A10rtu 10-97 017 &agrave; Paris St Lazare (16/02/2003)" height="300" width="400" /><br />
@@ -120,9 +100,9 @@ et sigles &quot;Corail&quot; (Paris Est, 19/07/2005)<br />
 </p>
 </div>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv/corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
-<p id="footer">Ferrovia - 12 Mai 2005<br />
+<div class="retour"><a href="corail.php">Retour page Corail</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
+<p id="footer">Ferrovia - 29 Octobre 2015<br />
 &nbsp;</p>
 </body>
 </html>

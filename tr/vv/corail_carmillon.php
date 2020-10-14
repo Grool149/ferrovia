@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -41,8 +23,8 @@ function MM_preloadImages() { //v3.0
 <p class="titre">Corail Intercités Carmillon</p>
 <p>Dans l'objectif de simplifier sa gamme de marques, la SNCF décide qu'au 1er janvier 2012, la marque Intercités absorbe toutes les activités en rame tractées 
 qui ne sont pas du ressort des TER. C'est à dire l'activité Intercités elle-même, ainsi que <a href="corail_teoz.php" class="link1">Téoz</a>, <a href="corail_aqualys.php" class="link1">Aqualys</a> 
-et <a href="corail_nuit.php" class="link1">Lunéa</a> (qui s'appelle désormais "Intercités de nuit").</p>
-<p>Un nouveau revirement est acté également pour l'esthétique des voitures puisque la livrée <a href="corail_intercites.php" class="link1">Intercités à base de gris, vert et violet</a> est aussitôt abandonnée. 
+et Lunéa (qui s'appelle désormais "Intercités de nuit").</p>
+<p>Un nouveau revirement est acté également pour l'esthétique des voitures puisque la livrée Intercités à base de gris, vert et violet est aussitôt abandonnée. 
 Tous les matériels passant en révision recevant la livrée Carmillon à base de gris métallisé pour les voitures de jour et de blanc pour les voitures couchettes.</p>
 <p class="titre2">Les essais de livrée</p>
 <p>Il semble que la décision d'unifier la livrée ait été prise avant même que celle-ci soit clairement définie. Ainsi les premières voitures passant en révision sont sorties d'atelier avec une livrée incomplète.
@@ -63,11 +45,11 @@ Le remplacement des suspensions des bogies Y32 a été rendu nécessaire par le sol
 <p>Si le nom de ces trains a changé de "Téoz" en "Intercités", les conditions d'exploitation demeurent identiques : des rames bloc de sept voitures forment des trains de sept ou quatorze caisses. Les cartouches de
 classe collés à côté des portes d'accès rappellent que ces trains sont à réservation obligatoire.</p>
 <p class="titre2">Autres Intercités</p>
-<p>Tous les Intercités d'avant 2012 n'avaient pas bénéficié de la <a href="corail_intercites.php" class="link1">rénovation précédente</a>. C'est le cas des relations Paris-Amiens-Boulogne ou Paris-Belfort par exemple.
+<p>Tous les Intercités d'avant 2012 n'avaient pas bénéficié de la rénovation précédente. C'est le cas des relations Paris-Amiens-Boulogne ou Paris-Belfort par exemple.
 Ils reçoivent petit à petit des voitures Carmillon qui s'intercalent entre les dernières voitures "Nouvelle déco".
 Il s'agit dans ce cas d'une révision essentiellement technique. L'intérieur conserve les coloris Corail+.</p>
 <p class="titre2">Pour plus d'info:</p>
-<p>Le fiche <a href="https://fr.wikipedia.org/wiki/Intercit%C3%A9s" class="link1">Corail Intercit&eacute;s</a>  
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/Intercit%C3%A9s" class="link1">Corail Intercit&eacute;s</a>  
 sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_intercites.htm" class="link1">Corail Intercit&eacute;s</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.<br />
 Articles sur la <a href="http://transportrail.canalblog.com/archives/2011/10/05/28240384.html" class="link1">fin des Aqualys</a> et la rénovation des Téoz (

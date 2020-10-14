@@ -1,81 +1,205 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-<head>
-<title>[Ferrovia] - section Locomotives bicourantes</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<link rel="icon" href="../ferrovia.ico" type="image/bmp" />
-<link rel="stylesheet" href="../miseenpage.css" />
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Free Pages Personnelles: Erreur 500 - Erreur interne du serveur</title>
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="http://pageperso.free.fr/im/css/free.css" />
+  </head>
+<body>
 
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-</head>
+<div id="body">
 
-<body onload="MM_preloadImages()">
+<div id="top"> <a href="http://www.free.fr/adsl/index.html" id="top-logo" title="Retour &agrave; l'accueil"> <span>Free</span> </a>
+  <div id="top-menu">
+    <ul id="top-menu-nav">
+      <li><a href="http://portail.free.fr/" class="portail" title="Le portail Free">Portail</a></li>
+      <li><a href="http://www.free.fr/adsl/index.html" class="freebox" title="L'offre Freebox">Freebox</a></li>
+      <li><a href="http://subscribe.free.fr/free50h/" class="bas-debit" title="L'offre bas d&eacute;bit">Bas d&eacute;bit</a></li>
+      <li><a href="http://imp.free.fr/" class="webmail" title="Le webmail Free">Webmail</a></li>
+      <li><a href="http://subscribe.free.fr/login/" class="webmail" title="Acc&eacute;der &agrave; votre compte">Mon Compte</a></li>
+      <li><a href="http://pagesperso.free.fr/" class="pperso selected" title="Pages personnelles Freenautes">Pages Perso</a></li>
+      <li><a href="http://dl.free.fr/" class="dl" title="DL">Envois de gros fichiers</a></li>
+    </ul>
+    <ul id="top-menu-main">
+  <li>
+    <a id="top-menu-main-accueil" href="http://www.free.fr/adsl/index.html">
+      <span>Accueil</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-internet" href="http://www.free.fr/adsl/internet.html">
+      <span>Internet</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-telephone" href="http://www.free.fr/adsl/telephone.html">
+      <span>T&eacute;l&eacute;phone</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-television" href="http://www.free.fr/adsl/television.html">
+      <span>T&eacute;l&eacute;vision</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-boutique" href="http://www.free.fr/adsl/boutique.html">
+      <span>Boutique</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-assistance" href="http://www.free.fr/assistance">
+      <span>Assistance</span>
+    </a>
+  </li>
+  <li>
+    <a id="top-menu-main-bas-debit" href="http://subscribe.free.fr/free50h/">
+      <span>Bas d&eacute;bit</span>
+    </a>
+  </li>
+</ul>
+  </div>
+</div>
 
-<div id="header1">
-  <div id="header0"></div>
-</div>
-<div id="header2">
-  <a href="http://ferrovia.free.fr/nouveautes/index.php" class="link1">Nouveaut&eacute;s</a> | 
-  <a href="http://ferrovia.free.fr/tr/index.php" class="link1">Train R&eacute;el</a> | 
-  <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
-  <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
-  <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
-</div>
+  <div  id="main">
+    <div class="clearer">
+<table width="100%">
+  <tr>
+    <td id="google">
+      <form method="post" action="http://search.free.fr/google.pl" enctype="application/x-www-form-urlencoded">
+        Rechercher avec Google
+        <input name="qs" type="text" value="" size="60" maxlength="60" class="form-input" />
+        <input type="radio" name="choose" value="wld" class="form-input" /> tout le web
+        <input name="choose" type="radio" value="fr" class="form-input" checked="checked"  /> &nbsp;en fran&ccedil;ais
+        <input type="submit" value="&gt; Rechercher" />
+      </form>
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td>
+     <table style="width: 100%">  
+      <tr style="height: 650px">
+       <td style="width: 160px">&nbsp;</td>
+       <td>
+        <table style="margin: auto; width: 600px; border: 1px solid black; background-color: #F5F5F5">
+         <tr><td style="padding: 2px; text-align: center; font-weight: bold; color: #61718A">Erreur 500 - Erreur interne du serveur</td></tr>
+         <tr><td style="padding: 2px; text-align: left">
+         <br/>
+         <br/>
+         <br/>
+         <br /><div align="center"><a href="javascript:history.back()">Page pr&eacute;c&eacute;dente</a></div>
+				 </td></tr>
+				</table>
+        <p>&nbsp;</p>
+        <div align="center">
+<iframe src="http://passback.free.fr/pub/pp_300x250.html" width="300" height="250" frameborder="0"></iframe>
+    </div>
+    </td>
+    <td style="width:160px">
+<iframe src="http://passback.free.fr/pub/pp_120x600.html" width="120" height="600" frameborder="0"></iframe>
+</td></tr>
+</table>
+    </td>
+  </tr>
+</table>
 
-<div class="SectionBloc">
-<p><span class="titre">Locomotives Bicourantes</span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+ </div>
+  </div>
+
+<div id="bottom">
+<div id="bottom-links">
+  <h1>Plan du site</h1>
+  <div class="first">
+    <h2> <a href="http://www.free.fr/adsl/index.html">Accueil</a> </h2>
+    <ul>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/accueil/plus-de-20-exclusivites.html">Plus de 20 exclusivit&eacute;s</a> </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/accueil/presentation-freebox-hd.html">Pr&eacute;sentation de la Freebox HD</a> </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/accueil/carte-de-degroupage.html">Carte de d&eacute;groupage</a> </li>
+    </ul>
+  </div>
+  <div>
+
+    <h2> <a href="http://www.free.fr/adsl/internet.html">Internet</a> </h2>
+    <ul>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/internet/connexion.html">Connexion</a> </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/internet/votre-web.html">Votre web</a></li>
+      <li class="indent-0"><a href="http://imp.free.fr">Webmail</a></li>
+      <li class="indent-0"><a href="http://pagesperso.free.fr">Pages Perso</a></li>
+      <li class="indent-0"><a href="http://dl.free.fr">Envoi de gros fichiers</a> </li>
+    </ul>
+  </div>
+  <div>
+    <h2> <a href="http://www.free.fr/adsl/telephone.html">T&eacute;l&eacute;phone</a> </h2>
+    <ul>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/telephone/tarifs-telephonie.html">Les tarifs de la t&eacute;l&eacute;phonie</a> </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie.html">Services de t&eacute;l&eacute;phonie</a>
+        <ul>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie/annuaire.html">Annuaire t&eacute;l&eacute;phonique</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie/la-messagerie-vocale.html">La messagerie vocale</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie/les-services-lies-aux-appels-entrants.html">Les services li&eacute;s aux appels entrants</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie/les-services-lies-aux-appels-sortants.html">Les services li&eacute;s aux appels sortants</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/services-de-telephonie/les-autres-services-inclus.html">Les autres services inclus</a> </li>
+        </ul>
+      </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/telephone/ligne-telephonique-incluse.html">Ligne t&eacute;l&eacute;phonique incluse</a>
+        <ul>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/ligne-telephonique-incluse/sans-abonnement-telephonique.html">Sans abonnement t&eacute;l&eacute;phonique</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/ligne-telephonique-incluse/portabilite-du-numero-geographique.html">Portabilit&eacute; du num&eacute;ro g&eacute;ographique</a> </li>
+
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/telephone/ligne-telephonique-incluse/migrer-vers-le-degroupage-total.html">Migrer vers le d&eacute;groupage total</a> </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <h2> <a href="http://www.free.fr/adsl/television.html">T&eacute;l&eacute;vision</a> </h2>
+
+    <ul>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/television/services-de-television.html">Services de t&eacute;l&eacute;vision</a>
+        <ul>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/television/services-de-television/acces-a-plus-250-chaines.html">Acc&egrave;s &agrave; + de 250 chaines</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/television/services-de-television/magnetoscope-numerique.html">Magn&eacute;toscope num&eacute;rique</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/television/services-de-television/services-inclus.html">Services inclus</a> </li>
+        </ul>
+      </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/television/services-de-vod.html">Services de VOD</a>
+        <ul>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/television/services-de-vod/free-home-video.html">Free Home Video</a> </li>
+          <li class="indent-15"> <a href="http://www.free.fr/adsl/pages/television/services-de-vod/autres-services-de-vod.html">Les autres services VOD</a> </li>
+        </ul>
+      </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/television/tv-perso.html">TV Perso</a> </li>
+      <li class="indent-0"> <a href="http://www.free.fr/adsl/pages/television/telesites.html">T&eacute;l&eacute;sites</a> </li>
+    </ul>
+  </div>
 </div>
-<div class="SectionBloc">
-<div class="Section_txt">
-<p>Le R&eacute;seau Ferr&eacute; Fran&ccedil;ais a la particularit&eacute; de poss&eacute;der deux types d'&eacute;lectrifications 
-distincts. Le r&eacute;seau principal s'est &eacute;quip&eacute; en courant continu 1500 Volts jusque dans les ann&eacute;es 50 o&ugrave; les premiers 
-essais de courant alternatif &agrave; fr&eacute;quence industrielle (20kV, 50Hz puis 25kV) donn&egrave;rent satisfaction. Apportant des gains importants 
-en infrastructure, le nouveau courant &eacute;quipa les r&eacute;seaux qui faisaient encore appel &agrave; la vapeur ou au di&eacute;sel, ainsi 
-que le r&eacute;seau &agrave; grande vitesse.</p>
-<p> S'il n'&eacute;tait question d'&eacute;lectrifier, en premier lieu, que des lignes &eacute;loign&eacute;es du r&eacute;seau 
-1,5kV (Transversale Nord-Est), il &eacute;tait d&eacute;j&agrave; pr&eacute;vu que les deux types de cat&eacute;naires se rencontreraient un jour et 
-qu'il faudrait disposer soit de gares commutables, complexes &agrave; exploiter, soit de machines aptes aux deux types de courants.</p>
-<p>D'ailleurs, la premi&egrave;re ligne d'exp&eacute;rimentation du monophas&eacute;e (Aix-les-Bains - La Roche sur Foron) s'embranche 
-sur la ligne 1,5kV Lyon-Culoz-Chamb&eacute;ry. Les premi&egrave;res machines aptes au monophas&eacute; en France &eacute;taient 
-donc bicourantes. &quot;Petites bicourantes&quot; pour &ecirc;tre exact, car le modeste &eacute;quipement 1,5kV permettait 
-tout juste d&eacute;coller le train d'Aix-les-Bains ou d'acheminer les locomotives haut le pied jusqu'au d&eacute;p&ocirc;t de Chamb&eacute;ry.</p>
-<p>Mises en application sur le prototype BB 20005, les diodes au silicium permirent enfin de r&eacute;duire l'encombrement et le poids 
-du r&eacute;dresseur de courant monophas&eacute; et d'installer dans la m&ecirc;me machine deux &eacute;quipements de puissance comparable. C'&eacute;tait 
-le d&eacute;but de l'&egrave;re des &quot;Grandes Bicourantes&quot;.</p>
-<hr />
-<p>
-<a href="20001.php" class="link1">CC 20001</a><br />
-<!--  <a href="20002.php" class="link1">CC 20002</a><br />
-<a href="20003.php" class="link1">BBB 20003</a><br />
-<a href="20004.php" class="link1">BB 20004</a><br />--> 
-<!--    <a href="20006.php" class="link1">BB 20006</a><br />
-<a href="20011.php" class="link1">BB 20011 et BB 20012</a><br />
-<a href="21000.php" class="link1">CC 21000</a><br />
-<a href="25000.php" class="link1">CC 25000</a><br />-->
-<a href="20005.php" class="link1">La BB 20005 et les BB Jacquemin bicourantes</a><br />
-&nbsp; &nbsp; &nbsp;<a href="25100.php" class="link1"> BB 25100</a><br />
-&nbsp; &nbsp; &nbsp; <a href="25150.php" class="link1">BB 25150</a><br />
-&nbsp; &nbsp; &nbsp; <a href="25200.php" class="link1">BB 25200</a><br />
-<a href="22200.php" class="link1">BB 22200</a><br />
-<a href="25500.php" class="link1">BB 25500</a><br />
-<a href="26000.php" class="link1">BB 26000</a><br />
-<a href="27000.php" class="link1">BB 27000</a><br />
-<a href="27300.php" class="link1">BB 27300</a></p>
-</div>
-<div class="Section_Illustrations">
-<p><img src="../images/tr/22328_26186.jpg" alt="Les BB 22328 et 26186 stationnent &agrave; l'annexe du Charolais (16/03/2003)" width="400" height="300" style="border:1px solid black" /><br />
-Les BB 22328 et 26186 stationnent &agrave; l'annexe du Charolais (16/03/2003)</p>
+  <div id="bottom-infos">
+    <h2> <span>Informations l&eacute;gales</span> </h2>
+    <ul>
+      <li><a href="http://www.free.fr/adsl/pdf/fiche-information-standardisee.pdf" title="Fiche d'information standardis&eacute;e">Fiche d'information standardis&eacute;e</a></li>
+      <li><a href="http://www.free.fr/adsl/pdf/CGV_Freebox_20080601.pdf" title="Conditions G&eacute;n&eacute;rales de Vente">Conditions G&eacute;n&eacute;rales de Vente</a></li>
+      <li><a href="http://www.free.fr/adsl/pdf/brochure_tarifaire_01062008.pdf" title="Brochure tarifaire">Brochure tarifaire</a></li>
+      <li><a href="http://www.free.fr/adsl/pages/informations-legales/signaler-un-contenu.html" title="Signaler un contenu illicite">Signaler un contenu illicite</a></li>
+      <li><a href="http://www.free.fr/adsl/pages/informations-legales/protection-de-l-enfance.html" title="Protection de l'enfance">Protection de l'enfance</a></li>
+      <li><a href="http://www.free.fr/adsl/pages/informations-legales/free-la-societe.html" title="Free, la soci&eacute;t&eacute;"><span class="bold">Free, la soci&eacute;t&eacute;</span></a></li>
+      <li><a href="http://www.free.fr/adsl/pages/informations-legales/free-recrute.html" title="Free recrute"><span class="bold">Free recrute</span></a></li>
+      <li><a href="http://www.free.fr/adsl/pages/informations-legales/nous-contacter.html" title="Nous contacter"><span class="bold">Nous contacter</span></a></li>
+    </ul>
+  </div>
+
+  <div class="clearer">
+    <!--Clear-->
+  </div>
+  <div class="clearer"><!--Clear--></div>
 </div>
 </div>
 </body>
 </html>
+
+

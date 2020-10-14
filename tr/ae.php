@@ -5,20 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -29,7 +18,6 @@ function MM_preloadImages() { //v3.0
   <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
-
 <div class="SectionBloc">
 <p><span class="titre">Automoteurs &eacute;lectriques</span></p>
 <p>&nbsp;</p>

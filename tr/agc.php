@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -74,7 +62,8 @@ Puissance totale: 1324 kW (en mode Thermique), 1900 kW (en mode Electrique)<br /
 Le bus continu alimente également des convertisseurs pour les auxiliaires.</p>
 <p class="titre2">Pour plus d'info:</p>
 <p>La fiche <a href="https://fr.wikipedia.org/wiki/Autorail_grande_capacit%C3%A9" class="link1">AGC</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
-Le dossier sur les <a href="http://autorails.free.fr/Agc1.htm" class="link1">AGC</a> sur <a href="http://autorails.free.fr" class="link1">@utorails.com</a>
+Le dossier sur les <a href="http://autorails.free.fr/Agc1.htm" class="link1">AGC</a> sur <a href="http://autorails.free.fr" class="link1">@utorails.com</a><br />
+La fiche sur les <a href="http://www.trains-europe.fr/sncf/automoteurs/agc.htm" class="link1">AGC</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.
 </p>
 </div>
 <div class="Section_Illustrations">
@@ -92,6 +81,7 @@ Le B 82510/09 Champagne Ardennes &agrave; Longueville (11/09/2011)</p>
 <div class="retour"><a href="at.php">Retour page Automoteurs</a></div>
 <div class="retour"><a href="ae.php">Retour page Automotrices</a></div>
 <div class="retour"><a href="ab.php">Retour page Automoteurs bimodes</a></div>
-<p id="footer">Ferrovia - 25 Août 2015</p>
+<p id="footer">Ferrovia - 25 Août 2015<br />
+&nbsp;</p>
 </body>
 </html>

@@ -5,20 +5,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
 </head>
-
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -45,7 +33,8 @@ function MM_preloadImages() { //v3.0
 <p>
 <a href="81500.php" class="link1">B 81500 AGC</a><br />
 <a href="82500.php" class="link1">B 82500 AGC Bibi</a><br />
-<a href="84500.php" class="link1">B 84500 Regiolis</a>
+<a href="83500.php" class="link1">B 83500 Regiolis péri-urbain</a><br />
+<a href="84500.php" class="link1">B 84500 Regiolis régional</a>
 </p>
 </div>
 <div class="Section_Illustrations">

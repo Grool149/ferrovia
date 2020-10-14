@@ -42,6 +42,10 @@ pour les t&acirc;ches de manoeuvres ou de desserte locale.</p>
 <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/BB60000.pdf" class="link1">BB 60000</a> sur 
 <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
+<p class="titre2">La BB 60000 version Open Rails <img alt="logo_OR" src="../images/msts/or_logo.jpg" /></p>
+<p>L'&eacute;quipe des <a href="http://compagnonsdurail.wixsite.com/creations/materiel-moteur-diesel" class="link1">Compagnons du rail</a> a r&eacute;alis&eacute; un <a href="http://compagnonsdurail.wixsite.com/creations/materiel-moteur-diesel" class="link1">pack de BB 60000</a> en livr&eacute;es Fret, Infra et E-Genie.</p>
+<p><img src="/images/msts/60000-compagnons.jpg" alt="BB 60000" width="500" height="232" /></p>
+<p></p>
 </div>
 <div class="Section_Illustrations"> 
 <p><img style="border:1px solid black" src="../images/tr/60019-22092007.jpg" 

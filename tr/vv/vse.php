@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -43,7 +25,7 @@ function MM_preloadImages() { //v3.0
 <p>Les VSE forment une courte s&eacute;rie de voitures SNCF compos&eacute;e de deux prototypes A<sup>4</sup>B<sup>6</sup>u et de 100 voitures de s&eacute;rie de premi&egrave;re classe A<sup>9</sup>u, 
 parfois d&eacute;class&eacute;es B<sup>9</sup>u en fin de carri&egrave;re. Les VSE sont assimilables aux voitures Corail puisqu'elles ont &eacute;t&eacute; mises en service &agrave; la m&ecirc;me &eacute;poque, disposent
 d'&eacute;quipements de confort &eacute;quivalents, ont re&ccedil;u la m&ecirc;me livr&eacute;e et qu'elles roulaient dans des compositions form&eacute;es d'autres types de voitures Corail. 
-Cependant, contrairement aux <a href="vtu.php" class="link1">VTU</a> et <a href="vu.php" class="link1">VU</a> de conception fran&ccedil;aise, elles font partie d'une famille plus large &eacute;tudi&eacute;e 
+Cependant, contrairement aux <a href="vtu.php" class="link1">VTU</a> et VU de conception fran&ccedil;aise, elles font partie d'une famille plus large &eacute;tudi&eacute;e 
 et command&eacute;e par plusieurs pays Europ&eacute;ens sous l'&eacute;gide de l'Eurofima.</p>
 <p>M&ecirc;me au niveau Europ&eacute;en, les VSE demeurent une petite s&eacute;rie de voitures. 10 prototypes (dont les deux voitures SNCF) ont permis de tester les &eacute;quipements propos&eacute;s par les diff&eacute;rents
 fournisseurs et plusieurs choix de livr&eacute;es. 500 voitures de s&eacute;rie seulement ont &eacute;t&eacute; construites. 
@@ -58,7 +40,7 @@ A<sup>9</sup>u : 100 voitures de s&eacute;rie, sur bogies Fiat Y 0270s.</p>
 <p>Certaines voitures non r&eacute;nov&eacute;es ont &eacute;t&eacute; temporairement d&eacute;class&eacute;es en 2e classe. En dehors des marquages, aucune modification n'&eacute;tait apport&eacute;e, ce qui en faisaient
 les voitures de 2e classe les plus confortables du parc SNCF.</p>
 <p class="titre2">Pour plus d'info:</p>
-<p>Le fiche <a href="https://fr.wikipedia.org/wiki/Voiture_Standard_Europ%C3%A9enne" class="link1">VSE</a>  
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/Voiture_Standard_Europ%C3%A9enne" class="link1">VSE</a>  
 sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_vse.htm" class="link1">Corail VSE</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.<br />
 Les <a href="http://www.trains-en-voyage.com/dossiers/materiel_roulant/voitures/voitures_vse_sncf.htm" class="link1">VSE</a> sur <a href="http://www.trains-en-voyage.com/" class="link1">trains-en-voyage.com</a>.
@@ -81,8 +63,8 @@ Ce convoi de p&eacute;lerins, majoritairement form&eacute; de VSE A<sup>9</sup>u
  quitte Lourdes (13/07/2003)</p>
 </div>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv/corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="corail.php">Retour page Corail</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <div class="SectionBloc">
 <p class="titre2">Les VSE version Microsoft Train Simulator</p>
 <p>Les VSE SNCF n'ont pas &eacute;t&eacute; r&eacute;alis&eacute;es pour MSTS. Cependant des red&eacute;corations de voitures &eacute;trang&egrave;res sont disponibles.<br />
@@ -90,6 +72,7 @@ Les <a href="http://bb25187.eu/NEW_BB25187-MSTS-ORTS-Reskins.html" class="link1"
 <img src="../../images/msts/vse_kiafar_vl.jpg" alt="voitures de Kami Kiafar" height="152" width="800" />
 </p>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
-<p id="footer">Ferrovia - 9 Novembre 2015</p>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
+<p id="footer">Ferrovia - 9 Novembre 2015<br />
+&nbsp;</p>
 </body></html>

@@ -1,76 +1,43 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
-<title>[Ferrovia] - B 81500</title>
+<title>[Ferrovia] - B 83500</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<link rel="stylesheet" href="../style.css" />
-
-<?php
-
-$id = "no";
-
-include("../php/include_w3c.txt");
-?>
-<table width="100%" border="0" cellpadding="0" class="text">
-  <tr> 
-  <td style="width:10px"></td>
-  <td> 
-	<table width="100%" border="0" cellpadding="5" class="text">
-  		<tr> 
-    		<td colspan="2"><span class="titre">B 84500 - Regiolis
-    		</span></td>
-  </tr>
-  <tr> 
-    <td valign="top">
-      <p class="text">Autorails Bimode Di&eacute;sel / Electrique Bicourant 1,5kV continu - 25 kV 50 Hz. </p>
-      <p class="titre" style="font-size:14px"><img src="../images/puce.gif" alt="puce" width="12" height="12" /> Quelques donn&eacute;es techniques</p>
-<p class="text">Constructeur : Alstom <br />
-        <!--Motorisation : V12 MGO turbocompress&eacute;, &eacute;chappement libre<br />
-        Transmission : Boite de vitesse automatique Maybach Mekydro &agrave; 4 rapports et coupleur hydraulique.<br />
-  Puissance totale:  825ch<br />
-  Aptitude &agrave; l'UM</p>
-<p class="text">  Longueur: 27,730 m<br />
-  Masse: 54t -->     </p>
-  
-      <p class="titre" style="font-size:14px"><img src="../images/puce.gif" alt="puce" width="12" height="12" /> 
-        Pour plus d'info:</p>
-      <p class="text">        La fiche <a href="http://fr.wikipedia.org/wiki/B_84500" class="link1">B 84500</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
-        L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/B84500.pdf" class="link1">B 84500</a> sur <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains 
-            du Sud-Ouest</a></p>
-      <p class="text">&nbsp;</p></td>
-    <td valign="top"> 
-      <div> 
-        <p><img style="border:1px solid black" src="../images/tr/b/b83519-b83537-21062015.jpg" alt="Le B 84561/62 en provenance de Granville &agrave; Meudon (18/01/2015)" width="400" height="300" /><br />
-        <span class="legende">Le B 84561/62 en provenance de Granville &agrave; Meudon (18/01/2015)</span></p>
-        </div>    </td>
-  </tr>
-  <!--<tr> 
-    <td> 
-      <p><img src="../images/fleche.gif" alt="fleche" width="11" height="11" /> <a href="ab.php" class="link2">Retour page Automoteurs bimodes</a></p>    </td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td valign="top"> 
-      <p class="titre" style="font-size:14px"><img src="../images/puce.gif" alt="puce" width="12" height="12" /> 
-        Le B 81500 version Train Simulator</p>    </td>
-    <td valign="top">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td valign="top" colspan="2"> 
-      <p class="text"><a href="http://yoyoandfriends.free.fr" class="link1">T. Stachnik</a> a r&eacute;alis&eacute; un pack de BB 27000.</p>
-      <div><img style="border:1px solid black" alt="Pack 27000" src="../images/msts/27006.jpg" width="400" height="300" /></div>    </td>
-  </tr>-->
-  <tr> 
-    <td> 
-      <p><img src="../images/fleche.gif" alt="fleche" width="11" height="11" /> <a href="ab.php" class="link2">Retour page Automoteurs bimodes</a> </p>
-      <p class="link1">Ferrovia - 26 Avril 2015</p>    </td>
-    <td></td>
-  </tr>
-</table>
-</td>
-  </tr>
-</table>
-
+<link rel="icon" href="../ferrovia.ico" type="image/bmp" />
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="../miseenpage.css" />
+</head>
+<body>
+<div id="header1">
+  <div id="header0"></div>
+</div>
+<div id="header2">
+  <a href="http://ferrovia.free.fr/nouveautes/index.php" class="link1">Nouveaut&eacute;s</a> | 
+  <a href="http://ferrovia.free.fr/tr/index.php" class="link1">Train R&eacute;el</a> | 
+  <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
+  <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
+  <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
+</div>
+<div class="SectionBloc">
+<div class="Section_txt">
+<p><span class="titre">B 83500</span><br />
+<span class="soustitre">Regiolis bi-mode périurbain</span></p>
+<p>Autorails Bimode Di&eacute;sel / Electrique Bicourant 1,5kV continu - 25 kV 50 Hz.</p>
+<p class="titre2">Quelques donn&eacute;es techniques</p>
+<p>Constructeur : Alstom<br />
+</p>
+<p class="titre2">Pour plus d'info:</p>
+<p>La fiche <a href="http://fr.wikipedia.org/wiki/B_83500" class="link1">B 83500</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
+L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/B83500.pdf" class="link1">B 83500</a> sur <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a><br />
+Les <a href="http://www.trains-europe.fr/sncf/automoteurs/porteur_polyvalent.htm" class="link1">Régiolis</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
+</div>
+<div class="Section_Illustrations">
+<p><img style="border:1px solid black" src="../images/tr/b/b83519-b83537-21062015.jpg" alt="Les B 83519 et 83537 Midi-Pyrénées neufs (21/06/2015)" width="400" height="300" /><br />
+Les B 83519 et 83537 Midi-Pyrénées neufs en attente de formation des conducteurs (21/06/2015)</p>
+</div>
+</div>
+<div class="retour"><a href="ab.php">Retour page Automoteurs bimodes</a></div>
+<p id="footer">Ferrovia - 24 Août 2016<br />
+&nbsp;</p>
 </body>
 </html>
-

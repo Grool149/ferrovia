@@ -5,20 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
+<body>
 
 <div id="header1">
   <div id="header0"></div>
@@ -46,9 +35,10 @@ De plus, deux machines similaires mais &eacute;quip&eacute;es d'un &eacute;quipe
 <p>Les BB 9461 et &agrave; 9516 ont &eacute;t&eacute; &eacute;quip&eacute;es de construction de c&acirc;blots et d'un automate pour la marche en UM. Ce qui leur permettait d'emmener des trains lourds de plus de 3000 tonnes. Les autres machines ont re&ccedil;u ce m&ecirc;me &eacute;quipement en atelier.</p>
 <p>Le lot des cinq derni&egrave;res machines (BB 9531 &agrave; 9535) a re&ccedil;u des &eacute;quipements sp&eacute;cifiques : commande de frein &eacute;lectrique PBL, boites d'essieux &agrave; rouleaux, bogies &eacute;quip&eacute;s de r&eacute;ducteurs &agrave; deux positions, &agrave; l'instar des <a href="/tr/16500.php" class="link1">BB 16500</a> Alsthom, qui permettaient des vitesses maximum de 120 et 180 km/h.<br />
 Ces machines n'&eacute;taient couplables en UM qu'entre-elles. Leur automate permettait &eacute;galement la t&eacute;l&eacute;commande depuis une voiture pilote. Les BB 9533 et 9535 ont particip&eacute; aux premi&egrave;res marches en r&eacute;versibilit&eacute; d'un train express sur l'axe Paris-Orl&eacute;ans-Tours avec une rame de voitures USI sp&eacute;cialement modifi&eacute;es, dont la voiture pilote surnomm&eacute;e &quot;Cyclope&quot;. Ces essais d&eacute;bouch&egrave;rent sur les Corail r&eacute;versibles emmen&eacute;s par des <a href="/tr/9200.php" class="link1">BB 9200</a> ou des <a href="/tr/16000.php" class="link1">BB 16000</a>.</p>
-<p>Les BB 9400 furent un peu mal-aim&eacute;es et subirent la concurrence des <a href="/tr/8500.php" class="link1">BB 8500</a> plus lourdes et puissantes sur les trains de fret, puis des automotrices sur les trains omnibus. Hormis la desserte de l'Aubrac, il ne leur restait plus beaucoup de services nobles lorsque la s&eacute;rie a commenc&eacute; &agrave; &ecirc;tre pouss&eacute;e &agrave; la r&eacute;forme dans les ann&eacute;es 1990. La livraison des RRR (Rames R&eacute;versibles R&eacute;gionales) a tout de m&ecirc;me permit d'entrevoir une seconde carri&egrave;re pour 42 machines transform&eacute;es en BB 9600.</p>
+<p>Les BB 9400 furent un peu mal-aim&eacute;es et subirent la concurrence des <a href="/tr/8500.php" class="link1">BB 8500</a> plus lourdes et puissantes sur les trains de fret, puis des automotrices sur les trains omnibus. Hormis la desserte de l'Aubrac, il ne leur restait plus beaucoup de services nobles lorsque la s&eacute;rie a commenc&eacute; &agrave; &ecirc;tre pouss&eacute;e &agrave; la r&eacute;forme dans les ann&eacute;es 1990. La livraison des <a href="/tr/vv/rrr.php" class="link1">RRR</a> (Rames R&eacute;versibles R&eacute;gionales) a tout de m&ecirc;me permit d'entrevoir une seconde carri&egrave;re pour 42 machines transform&eacute;es en BB 9600.</p>
+<p>La BB 9411 est pr&eacute;serv&eacute;e par la section de N&icirc;mes de l'AAATV qui a r&eacute;cemment supprim&eacute; ses c&acirc;blots d'unit&eacute; multiple et ses fanaux rouges pour lui rendre un aspect plus proches de ses origines.</p>
 <p class="titre2">La transformation en BB 9600</p>
-<p>Quarante machines furent pr&eacute;lev&eacute;es parmi les meilleures BB 9400 pour assurer des rames r&eacute;versibles RRR. Les modifications consist&egrave;rent &agrave; renforcer les traverses de choc, modifier les boitiers de connexion passant d&eacute;sormais &agrave; cinq prises, unifier les toitures avec l'installation d'un toit haut sur toutes les machines quel que soit leur sous-s&eacute;rie d'origine. A l'int&eacute;rieur, les cabines sont &eacute;quip&eacute;es de pup&icirc;tres ergonomiques, les moteurs d'essuie-glaces sont repositionn&eacute;s en hauteur. Un automate programmable remplace la commande &eacute;lectrom&eacute;canique par graduateur. La masse d'une locomotive est augment&eacute;e &agrave; 67 tonnes. Ces machines re&ccedil;oivent une livr&eacute;e b&eacute;ton. Elles sont en service &agrave; V&eacute;nissieux et Avignon.</p>
+<p>Quarante machines furent pr&eacute;lev&eacute;es parmi les meilleures BB 9400 pour assurer des rames r&eacute;versibles <a href="/vv/rrr.php" class="link1">RRR</a>. Les modifications consist&egrave;rent &agrave; renforcer les traverses de choc, modifier les boitiers de connexion passant d&eacute;sormais &agrave; cinq prises, unifier les toitures avec l'installation d'un toit haut sur toutes les machines quel que soit leur sous-s&eacute;rie d'origine. A l'int&eacute;rieur, les cabines sont &eacute;quip&eacute;es de pup&icirc;tres ergonomiques, les moteurs d'essuie-glaces sont repositionn&eacute;s en hauteur. Un automate programmable remplace la commande &eacute;lectrom&eacute;canique par graduateur. La masse d'une locomotive est augment&eacute;e &agrave; 67 tonnes. Ces machines re&ccedil;oivent une livr&eacute;e b&eacute;ton. Elles sont en service &agrave; V&eacute;nissieux et Avignon.</p>
 <p>Deux machines suppl&eacute;mentaires sont modifi&eacute;es pour les navettes de correspondance entre les gares de Tours et St Pierre des Corps &agrave; l'occasion de l'arriv&eacute;e du TGV Atlantique. Les BB 9641 et 9642 re&ccedil;oivent une livr&eacute;e sp&eacute;cifique qui reprend les couleurs du TGV et des blasons autocollants de la ville de Tours. Elles sont associ&eacute;es &agrave; deux segments ex-RIB 76 qui sont modernis&eacute;s avec une cabine type RRR et une livr&eacute;e Atlantique.</p>
 <p>La r&eacute;forme des machines Avignonaises commence d&egrave;s le d&eacute;but des ann&eacute;es 2000. Les derni&egrave;res machines utilis&eacute;es sur la ligne des Causses sont remplac&eacute;es par des <a href="/tr/8500.php" class="link1">BB 8500</a> en 2006. Les deux tourangelles sont pouss&eacute;es &agrave; la sortie d&egrave;s 2004 par des <a href="/tr/5300.php" class="link1">Z 5300</a> en surplus en Ile de France. La BB 9641, radi&eacute;e, est r&eacute;int&eacute;gr&eacute;e pour un sursis d'un an &agrave; V&eacute;nissieux. Mais l'arriv&eacute;e des <a href="/tr/23500.php" class="link1">Z 23500</a> puis des <a href="/tr/z24500-26500.php" class="link1">Z 24500</a> en Rh&ocirc;ne-Alpes r&eacute;duit sensiblement les besoins en BB 9600. Les derni&egrave;res machines sont amorties en 2008.</p>
 <p class="titre2">Quelques donn&eacute;es techniques</p>
@@ -64,11 +54,11 @@ Pantographes: 2 AM14</p>
 <p class="titre2">Pour plus d'info:</p>
 <p>Les fiches <a href="http://fr.wikipedia.org/wiki/BB_9400" class="link1">BB 9400</a> et <a href="http://fr.wikipedia.org/wiki/BB_9600" class="link1">BB 9600</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/BB 9400.pdf" class="link1">BB 9400</a> et des <a href="http://trainsso.pagesperso-orange.fr/BB9600.pdf" class="link1">BB 9600</a> sur <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
-<p>La <a href="http://www.aaatv30.fr/bb9411.htm" class="link1">BB 9411</a> est pr&eacute;serv&eacute;e par la section de N&icirc;mes de l'AAATV.</p>
+<!--<p>La <a href="http://www.aaatv30.fr/bb9411.htm" class="link1">BB 9411</a> est pr&eacute;serv&eacute;e par la section de N&icirc;mes de l'AAATV.</p>-->
 </div>
 <div class="Section_Illustrations">
-<p><img style="border:1px solid black" src="../images/tr/9411-26042008.jpg" alt="La BB 9411 pr&eacute;serv&eacute;e par l'AAATV N&icirc;mes (26/04/2008)" width="400" height="300" /><br />
-La BB 9411 pr&eacute;serv&eacute;e par l'AAATV N&icirc;mes (26/04/2008)</p>
+<p><img style="border:1px solid black" src="../images/tr/9411-20062015.jpg" alt="La BB 9411 pr&eacute;serv&eacute;e par l'AAATV N&icirc;mes (20/06/2015)" width="400" height="300" /><br />
+La BB 9411 pr&eacute;serv&eacute;e par l'AAATV N&icirc;mes (20/06/2015)</p>
 <p><img style="border:1px solid black" src="../images/tr/9615-04122004.jpg" alt="La BB 9615 &agrave; Lyon Perrache avec une RRR (04/12/2004)" width="400" height="300" /><br />
   La BB 9615 &agrave; Lyon Perrache avec une RRR (04/12/2004)</p>
 <p><img style="border:1px solid black" src="../images/tr/9637-15042003.jpg" alt="La BB 9637 &agrave; Marvejols avec un TER Corail tr&egrave;s court (15/04/2003)" width="400" height="300" /><br />
@@ -76,11 +66,14 @@ La BB 9637 &agrave; Marvejols avec un TER Corail tr&egrave;s court (15/04/2003)<
 <p><img style="border:1px solid black" src="../images/tr/9601-18102003.jpg" alt="La BB 9601 &agrave; Amb&eacute;rieu avec un TER Corail pour Lyon (18/10/2003)" width="400" height="300" /><br />
 La BB 9601 &agrave; Amb&eacute;rieu avec un TER Corail pour Lyon (18/10/2003)</p>
 <p><img style="border:1px solid black" src="../images/tr/9641-10112002.jpg" alt="La BB 9641 &agrave; Tours dans sa livr&eacute;e Navette TGV pour St Pierre des Corps (10/11/2002)" width="400" height="300" /><br />
-La BB 9641 &agrave; Tours dans sa livr&eacute;e Navette TGV pour St Pierre des Corps (10/11/2002)</p>
+La BB 9641 &agrave; Tours dans sa livr&eacute;e Navette TGV<br />
+pour St Pierre des Corps (10/11/2002)</p>
 <p><img style="border:1px solid black" src="../images/tr/9642-29122001.jpg" alt="La BB 9642 &agrave; Tours dans sa livr&eacute;e Navette TGV pour St Pierre des Corps (29/12/2001)" width="400" height="300" /><br />
-La BB 9642 &agrave; Tours dans sa livr&eacute;e Navette TGV pour St Pierre des Corps (29/12/2001)</p>
+La BB 9642 &agrave; Tours dans sa livr&eacute;e Navette TGV<br />
+pour St Pierre des Corps (29/12/2001)</p>
 <p><img style="border:1px solid black" src="../images/tr/9608-9270-15052004.jpg" alt="La diff&eacute;rence de gabarit est frappante entre la &quot;Vespa&quot; BB 9608 et la &quot;Jacquemin&quot; BB 9270" width="400" height="300" /><br />
-La diff&eacute;rence de gabarit est frappante entre la &quot;Vespa&quot; BB 9608 et la &quot;Jacquemin&quot; BB 9270</p>
+La diff&eacute;rence de gabarit est frappante entre la &quot;Vespa&quot; BB 9608<br />
+et la &quot;Jacquemin&quot; BB 9270</p>
 </div>
 </div>
 <div class="retour"><a href="lc.php">Retour page locomotives &agrave; courant continu</a></div>

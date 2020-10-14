@@ -264,7 +264,7 @@ Patrice Toulze.</p>
 <p><img src="/images/msts/DEVao_toulze.jpg" alt="DEV-AO Toulze" height="320" width="600" /></p>
 <p>Herv&eacute; Droin et Yann Jansé ont r&eacute;alis&eacute; sur cette base de 
 <a href="http://textrains.bb25187.eu/DEV%20AO.htm" class="link1">nombreuses red&eacute;corations</a>.</p>
-<p><img src="/images/msts/DEVao_ozoneIV.jpg" alt="DEV-AO Toulze" height="132" width="600" /></p>
+<p><img src="/images/msts/DEVao_ozoneIV.jpg" alt="DEV-AO Toulze" height="132" width="600" /></p>
 <p><img src="/images/msts/DEVao_ozoneV.jpg" alt="DEV-AO Toulze" height="116" width="600" /></p>
 </div>
 <div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>

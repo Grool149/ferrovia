@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -37,7 +25,7 @@ function MM_preloadImages() { //v3.0
 <span class="soustitre">Les Iroquois</span></p>
 <p>Les VH sont des autorails mono-caisse construits par Renault en 1933-34 pour les anciennes compagnies privées de chemins de fer françaises.
 Il s'agit alors des premiers autorails utilisant un moteur &agrave; "huile lourde", c'est &agrave; dire un moteur Diesel consommant du gazole.</p>
-<p>Ce ne sont pas des autorails unifi&eacute;s puisque command&eacute;s et construits avant la constitution de la SNCF. Si bien qu'il existe de nombreuses variantes selon les besoins des compagnies clientes.
+<p>Ce ne sont pas des autorails unifi&eacute;s puisque command&eacute;s et construits avant la constitution de la SNCF. Si bien qu'il a existé de nombreuses variantes selon les besoins des compagnies clientes.
 La version la plus r&eacute;pandue comporte une salle centrale de cinq trav&eacute;es encadr&eacute;e par deux plateformes d'acc&egrave;s. Une extr&eacute;mit&eacute; possède un poste de conduite et un fourgon à bagages.
 Sur l'autre, l'ensemble moteur-boîte se trouve juste à côt&eacute; des oreilles du m&eacute;canicien. Un imposant radiateur en toiture donne le surnom d'Iroquois à ces autorails.</p>
 <p>les VH ont &eacute;t&eacute; command&eacute;s par les r&eacute;seaux de l'Est, du Nord, de l'Etat, du PO-Midi, du PLM. Une version à six travées fût commandée par L'Alsace-Lorraine et la CFSNE (Compagnie de Chemin de Fer Secondaire du Nord Est).
@@ -61,11 +49,11 @@ Les fiches des VH <a href="http://wikiplm.railsdautrefois.fr/wikiPLM/index.php?t
 </div> 
 <div class="Section_Illustrations">
 <p><img style="border:1px solid black" src="../images/tr/x/vh-zze23859.jpg" alt="Le VH ZZe 23859 &agrave; Mulhouse" width="400" height="300" /><br />
-Le VH ZZe 23859 &agrave; Mulhouse</p>
+Le VH ZZe 23859 &agrave; Mulhouse (ex-X 2211 SNCF)</p>
 </div>
 </div>
 <div class="retour"><a href="at.php">Retour page Automoteurs</a></div>
 <p id="footer">Ferrovia - 21 Août 2015<br />
-</p>
+&nbsp;</p>
 </body>
 </html>

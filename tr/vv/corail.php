@@ -6,18 +6,6 @@
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
 <style type="text/css">
 <!--
 .Style1 {font-size: 10px}
@@ -25,8 +13,7 @@ function MM_preloadImages() { //v3.0
 </style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -48,7 +35,7 @@ Dans le futur, le transport de voyageurs sera confié en exclusivité à des automo
 un quatrième groupe, les fourgons MC76.<br />
 Ces familles sont, par ordre croissant d'importance :<br />
 - les <a href="vse.php" class="link1">VSE</a> (100 voitures + 2 protos), très proches des "UIC Z" construites par de nombreux pays Européens,<br />
-- les <a href="vu.php" class="link1">VU</a> (1478 voitures + 3 protos) à couloir latéral qui, elles-mêmes, sont divisées en deux sous-familles de chaudrons,<br />
+- les VU (1478 voitures + 3 protos) à couloir latéral qui, elles-mêmes, sont divisées en deux sous-familles de chaudrons,<br />
 - les <a href="vtu.php" class="link1">VTU</a> (2335 voitures + 1 proto) à couloir central.
 </p>
 <p class="Style1">* (Il est à noter qu'une famille de "Super Corail" à deux niveaux fut envisagée. 
@@ -77,7 +64,7 @@ timidement en ne commandant que deux voitures A<sup>4</sup>B<sup>6</sup>u de pré
 et les turbotrains. Elle commande alors massivement des <a href="vtu.php" class="link1">VTU</a>. Toutefois, elle étudie des voitures à couloir
 latéral qui reprennent quelques caractéristiques des UIC Z (chaudrons de 26,400 m, climatisation, compartiments à six places de front) tout en étant 
 plus économiques (Portes pliantes, étude d'un chaudron "Super Large" pour permettre des compartiments de 2e classe à huit sièges, nombreux organes communs avec les VTU, dont les bogies Y32).</p>
-<p>Les <a href="vu.php" class="link1">VU</a> sont destinées à une grande variété d'usages (voitures à compartiments places assises, 
+<p>Les VU sont destinées à une grande variété d'usages (voitures à compartiments places assises, 
 voitures couchettes, mixtes fourgon, voitures pilote) et possèdent un nombre important de chaudrons différents.
 A l'inverse, les VTU possèdent toutes des chaudrons identiques à quelques détails près en fonction de l'usage et du programme de construction.</p>
 <p><img style="border:1px solid black" src="../../images/tr/vv/vu86_b6dux.jpg" alt="B6Dux VU86" height="480" width="640" /><br />
@@ -90,7 +77,7 @@ Les séries plus anciennes de la DEV ne se voyant guère plus confier que des trai
 se voyant purement et simplement poussées à la réforme.</p>
 <p>La livraison de voitures aptes à 200km/h, permit également de créer de nouveaux Rapides qui venait titiller les TEE. Enfin, les VU couchettes remplacèrent
 progressivement les DEV et UIC, poussées elles aussi sur les trains de pointes saisonnières.</p>
-<p>Un contingent de voitures fut d&eacute;di&eacute; pour former des rames r&eacute;versibles conduites par des Corail <a href="vu.php" class="link1">VU B6Dux</a>.
+<p>Un contingent de voitures fut d&eacute;di&eacute; pour former des rames r&eacute;versibles conduites par des Corail VU B6Dux.
 La premi&egrave;re s&eacute;rie de ces voitures pilotes utilisant une technologie filaire, il fallait des voitures sp&eacute;cifiquement 
 pourvues des c&acirc;blots n&eacute;cessaires. Apr&egrave;s avoir assur&eacute; des Paris-Tours-Poitiers avec des <a href="../9200.php" class="link1">BB 9200</a>, 
 elles parcourent aujourd'hui Paris-Rouen-Le Havre avec des <a href="../16000.php" class="link1">BB 16000</a>, puis de <a href="../15000.php" class="link1">BB 15000</a>.</p>
@@ -121,20 +108,20 @@ entâment la <a href="corail_ter2.php" class="link1">rénovation de voitures Corai
 <p class="titre2">Régionalisation, acte II</p>
 <p>D'autres régions (Franche Comté, Lorraine, Aquitaine, PACA) ou groupes de régions poursuivent sur cette lancée. Lors de l'ouverture du TGV Est, les régions Champagne-Ardennes, Lorraine et Picardie
 se sont associées pour organiser les TER Vallée de la Marne, permettant le cabotage entre Paris-Epernay-Bar le Duc et St Dizier.</p>
-<p>Une nouvelle activité <a href="corail_intercites.php" class="link1">"Corail Intercités"</a> est créée. Elle regroupe les trains interrégionaux de moyenne distance. Un sticker est d'abord posé
+<p>Une nouvelle activité "Corail Intercités" est créée. Elle regroupe les trains interrégionaux de moyenne distance. Un sticker est d'abord posé
 sur les voitures Corail+ ou ND. Trois nouvelles livrées grises à motifs verts et violet sont inaugurées.</p>
 <p>L'usage du pelliculage, en vogue sur les automoteurs, est réalisé par les régions <a href="corail_ter3.php" class="link1">Alsace, Languedoc-Roussillon et Bourgogne</a>.</p>
 <p class="titre2">Fin de carrière</p>
 <p>Depuis que les dernières <a href="usi.php" class="link1">DEV USI</a> et <a href="uic.php" class="link1">UIC</a> ont quitté la scène en 2008, les Corail sont
 à leur tour victimes de purges dans leurs effectifs. Les voitures Grandes Lignes poussées par les TGV Duplex toujours plus nombreux et les régionales par 
 les <a href="../agc.php" class="link1">AGC</a>, <a href="../z24500-26500.php" class="link1">TER2NNG</a> et
-surtout par les <a href="../84500.php" class="link1">Régiolis</a> et Regio2N. Les voitures couchettes, rénovées partiellement par le programme <a href="corail_nuit.php" class="link1">Lunéa</a>, puis Intercités de Nuit, subissent la chute
+surtout par les <a href="../84500.php" class="link1">Régiolis</a> et Regio2N. Les voitures couchettes, rénovées partiellement par le programme Lunéa, puis Intercités de Nuit, subissent la chute
 de fréquentation des trains nocturnes.</p>
 <p>Le remplacement des Corail n'est pas encore décidé sur nombre de lignes. Le regroupement de toutes les activités en matériel tracté hors TER au sein de l'activité Intercités leur offre un répit
 avec une <a href="corail_carmillon.php" class="link1">ultime rénovation</a> qui, dans certains cas, reste une opération cosmétique modeste. L'arrivée du Coradia Liner, cousin Grandes-Lignes du Régiolis fera tomber les premières
 voitures. Une décénie au mieux est promise aux voitures qui ont subi un lifting plus approfondi.</p>
 <p class="titre2">Pour plus d'info:</p>
-<p>Le fiche <a href="https://fr.wikipedia.org/wiki/Voiture_Corail" class="link1">Voiture Corail</a>  
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/Voiture_Corail" class="link1">Voiture Corail</a>  
 sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail.htm" class="link1">Corail</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
 </div>
@@ -154,14 +141,14 @@ Cette B<sup>6</sup>Dux VU75 fonctionne encore pour peu de temps en réversibilité
 VTU A<sup>10</sup>tu &agrave; portes Faiveley, en livr&eacute;e Nouvelle D&eacute;co (Paris-Est, 03/07/2003)</p>
 </div>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <div class="SectionBloc">
 <p class="titre2">Les Corail version Microsoft Train Simulator</p>
 <p>Les Corail VTU et VU ont été réalisées à de multiples reprises. A partir des quelques créations originales, de nombreuses redécorations ont été
 réalisées. Les voitures disponibles en téléchargement sont souvent en packs contenant à la fois des VTU et des VU.</p>
 <p>Les VSE sont aussi disponibles mais sont en général des redécorations de voitures étrangères.</p>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <p id="footer">Ferrovia - 29 Octobre 2015<br />
 &nbsp;</p>
 </body></html>

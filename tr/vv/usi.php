@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -84,7 +72,7 @@ disparaissent lors des r&eacute;visions et sont remplac&eacute;s par des bourrel
 UIC mont&eacute;s sur des caissons m&eacute;talliques rapport&eacute;s en bout de caisse &agrave; 
 l'instar des <a href="dev-ao.php" class="link1">DEV AO</a> et Inox courtes. Sur les USI 61, l'extr&eacute;mit&eacute; des caisses 
 est allong&eacute;e au-del&agrave; des portes d'intercirculation pour remplacer les 
-soufflets par des bourrelets d&egrave;s la construction. La caisse est 
+soufflets par des bourrelets d&egrave;s la construction. La caisse est 
 along&eacute;e &agrave; 24,734 m. La longueur hors-tampons et l'entraxe 
 des bogies demeurent inchang&eacute;s.</p>
 <p>D&egrave;s le programme 1962, le chaudron fut sensiblement modifi&eacute; et unifi&eacute; 
@@ -121,7 +109,7 @@ unique. La voiture B<sup>10</sup>tx 20-77 834 est &eacute;quip&eacute;e d'une lo
 l'intercirculation est supprim&eacute;e et une lucarne qui sert de pare-brise 
 au m&eacute;canicien donne le surnom de "Cyclope" &agrave; la voiture. L'exp&eacute;rience 
 connait quelques d&eacute;boires de fiabilit&eacute; mais elle est prometteuse puisque 
-le programme des VU 75 Corail comporte 10 voitures r&eacute;versibles B<sup>6</sup>Dux &agrave; 
+le programme des VU 75 <a href="corail.php" class="link1">Corail</a> comporte 10 voitures r&eacute;versibles B<sup>6</sup>Dux &agrave; 
 c&acirc;blots, et un lot de <a href="../9200.php" class="link1">BB 9200</a> est modifi&eacute; pour prendre le relais du 
 Cyclope en 1978.</p>
 <p class="titre2">Seconde partie de carri&egrave;re : D&eacute;classement et r&eacute;gionalisation</p>
@@ -199,7 +187,7 @@ A<sup>2</sup>t<sup>2</sup>B<sup>2</sup>t<sup>3</sup> modernis&eacute;e TER Rh&oc
 Une autre USI mixte TER Rh&ocirc;ne Alpes &agrave; Voglans (22/10/2006)</p>
 </div>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <div class="SectionBloc">
 <p class="titre2">Les USI version Microsoft Train Simulator</p>
 <p>Les <a href="http://ajtrainsim.free.fr/models/usi/v_usi.htm" class="link1">USI</a> ont &eacute;t&eacute; reproduites pour MSTS par <a href="http://ajtrainsim.free.fr/" class="link1">Pierre 
@@ -210,6 +198,7 @@ Gauriat</a>.</p>
 <p>Pierre Gauriat a décliné ses voitures sous la forme de voitures <a href="http://ajtrainsim.free.fr/models/inter/k4.htm" class="link1">K4 SNCB</a>.</p>
 <p><img src="/images/msts/USI_K4.jpg" alt="USI K4" height="241" width="500" /></p>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
-<p id="footer">Ferrovia - 14 Octobre 2015</p>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
+<p id="footer">Ferrovia - 14 Octobre 2015<br />
+&nbsp;</p>
 </body></html>

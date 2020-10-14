@@ -17,7 +17,7 @@
   <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
   <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
-</div>
+</div>
 <div class="SectionBloc">
 <div class="Section_txt">
 <p><span class="titre">X 4300 - X 4500</span><br />

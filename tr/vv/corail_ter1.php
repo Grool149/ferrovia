@@ -5,27 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -105,7 +87,8 @@ La VU B<sup>7</sup>uh n&deg; 27-74 053-4 est une ancienne mixte-fourgon B<sup>6<
 <p><span class="legende"><img src="../../images/tr/vv/vtu_b10_20970203_20150331.jpg" alt="La VTU B10tu n&deg; 20-97 020-3 Interloire modernis&eacute;e (Ancenis, 31/03/2015)" width="1100" height="387" border="1" /><br />
 La VTU B<sup>10</sup>tu n&deg; 20-97 020-3 Interloire modernis&eacute;e (Ancenis, 31/03/2015)</span></p>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv/corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
-<p id="footer">Ferrovia - 29 Octobre 2015</p>
+<div class="retour"><a href="corail.php">Retour page Corail</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
+<p id="footer">Ferrovia - 29 Octobre 2015<br />
+&nbsp;</p>
 </body></html>

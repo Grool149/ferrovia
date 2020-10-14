@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -33,13 +21,17 @@ function MM_preloadImages() { //v3.0
 <div class="SectionBloc">
 <div class="Section_txt">
 <p class="titre">BB 64700 - TBB 64800</p>
+<p class="titre2">Les BB 64700</p>
 <p>Les BB 64700 sont des locomotives thermiques-électriques de faible puissance issues de <a class="link1" href="63000.php">BB 63500</a> (moteur MGO) modifiées pour les manoeuvres en triage. 
 Leurs cabines ont été modifiées avec une caisse semblable à celle des <a class="link1" href="66700.php">BB 66700</a> et un pupître central. La g&eacute;n&eacute;ratrice de courant continu
 est remplacée par un alternateur.<br />
 23 machines ont ainsi été transformées entre 1988 et 1992.</p>
+<p class="titre2">Les TBB 64800</p>
 <p>Les TBB 64800 sont des trucks moteurs construits à partir de <a class="link1" href="63000.php">BB 63000</a> (moteur Sulzer) dont la cabine et le groupe électrogène ont été supprimés. Le 
-châssis est raccourci.<br />Seulement 19 trucks sont transformés entre 1989 et 1992.</p>
-<p>Les BB 64700 et TBB 64800 forment des couples indissociables. Le groupe électrogène de la 64700 (moteur MGO et génératrice à courant continu) alimente
+châssis est raccourci.<br />
+Seulement 19 trucks sont transformés entre 1989 et 1992.</p>
+<p class="titre2">Service</p>
+<p>Les BB 64700 et TBB 64800 forment des couples indissociables. Le groupe électrogène de la 64700 (moteur MGO et alternateur) alimente
 les moteurs électriques de la 64700 ainsi que ceux du truck 64800 par des câbles spécifiques.<br />
 L'intérêt de cette disposition est de pouvoir manoeuvrer en triage, et notamment la pousse en butte, des convois lourds à faible allure. Ce qui
 ne nécessite qu'une puissance modeste mais une adhérence importante. Les ensembles BB 64700-TBB 64800 prennent donc le relais des vieillissantes A1A-A1A 62000 là où
@@ -58,8 +50,7 @@ Motorisation: moteur di&eacute;sel V12 MGO Turbo (825 ch), puis MTU V8 4000R41 (
 <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 La fiche <a href="http://trains-europe.fr/sncf/locomotives/64700.htm" class="link1">BB 64700 / TBB 64800</a> sur <a href="http://trains-europe.fr/" class="link1">trains-europe.fr</a><br /> 
 L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/BB64700.pdf" class="link1">BB 64700</a> et 
-<a href="http://trainsso.pagesperso-orange.fr/TBB64800.pdf" class="link1">TBB 64800</a> sur 
-<a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
+<a href="http://trainsso.pagesperso-orange.fr/TBB64800.pdf" class="link1">TBB 64800</a> sur <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
 </div>
 <div class="Section_Illustrations">
 <p><img style="border:1px solid black" src="../images/tr/64715-25022006.jpg" 
@@ -73,6 +64,14 @@ La BB 64714 remotoris&eacute;e et TBB 64814  sortent de r&eacute;vision<br />
 </div>
 </div>
 <div class="retour"><a href="ld.php" class="link2">Retour page locomotives di&eacute;sel</a></div>
-<p id="footer">Ferrovia - 28 Juillet 2015</p>
+<div class="SectionBloc">
+<p class="titre2">Les BB 64700 et TBB 64800 version Open rails</p>
+<p>L'équipe des <a href="http://les-compagnons-du-rail.e-monsite.com/" class="link1">Compagnons du rail</a> a r&eacute;alis&eacute; deux couplages 
+<a href="http://les-compagnons-du-rail.e-monsite.com/pages/page-d-accueil.html" class="link1">BB 64700-TBB 64800</a> en livrées Manoeuvre et Fret pour Open Rails.</p>
+<p><img src="/images/msts/64700.jpg" alt="BB 64700-TBB 64800" width="1000" height="471" /></p>
+</div>
+<div class="retour"><a href="ld.php" class="link2">Retour page locomotives di&eacute;sel</a></div>
+<p id="footer">Ferrovia - 28 Juillet 2015<br />
+&nbsp;</p>
 </body>
 </html>

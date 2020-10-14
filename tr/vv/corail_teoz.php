@@ -5,26 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
-
-<style type="text/css">
-<!--
-.Style1 {font-size: 10px}
--->
-</style>
 </head>
 
-<body onload="MM_preloadImages()">
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -36,43 +19,42 @@ function MM_preloadImages() { //v3.0
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
 <div class="SectionBloc">
-<!--div class="Section_txt"-->
 <p><span class="titre">Corail T&eacute;oz</span><br />
 <span class="soustitre">Le train qui osait</span></p>
 <p style="position:relative; float:right; top:0px; width:415px; left:10px;"><img style="border:1px solid black" src="../../images/tr/vv/vu_b3su_20110921.jpg" alt="B3Su roulant dans les gorges de la V&eacute;z&egrave;re (21/09/2011)" height="300" width="400" /><br />
 <span class="legende">Voiture de services B<sup>3</sup>Su roulant dans les gorges de la V&eacute;z&egrave;re (21/09/2011)</span></p>
-<p>On a peine &agrave; croire que, jadis, le mat&eacute;riel ferroviaire remorqu&eacute; pouvait rouler une cinquantaine d'ann&eacute;e sans &eacute;volution majeure de son aspect hormis
+<p>On a peine &agrave; croire que, jadis, le mat&eacute;riel ferroviaire remorqu&eacute; pouvait rouler une cinquantaine d'ann&eacute;es sans &eacute;volution majeure de son aspect hormis
 quelques obscurs marquages en jaune jonquille dont les mod&eacute;listes aiment d&eacute;battre. M&ecirc;me les Corail, livr&eacute;es &agrave; partir de 1975 n'ont connu durant vingt 
-ans que peu d'&eacute;volution avec le discret remplacement du logo SNCF de 1966 par le sigle Tallon (surnomm&eacute; "Nouille") en 1985. Mais depuis les ann&eacute;es 1990, 
-la donne a chang&eacute; et les livr&eacute;es du mat&eacute;riel roulant évoluent de plus en plus souvent. Une nouvelle d&eacute;coration 
+ans que peu d'&eacute;volutions avec le discret remplacement du logo SNCF de 1966 par le sigle Tallon (surnomm&eacute; "Nouille") en 1985.</p>
+<p>Mais depuis les ann&eacute;es 1990, la donne a chang&eacute; et les livr&eacute;es du mat&eacute;riel roulant évoluent de plus en plus souvent. Une nouvelle d&eacute;coration 
 arrivant avant m&ecirc;me que tout le mat&eacute;riel soit enti&egrave;rement repeint avec la pr&eacute;c&eacute;dente.
 Certes, la SNCF doit lutter contre des automobiles dont l'âge moyen tourne autour de sept ans. Mais cette "cr&eacute;ativit&eacute;" a atteint son paroxysme 
-avec les T&eacute;oz qui apportaient de nouvelles id&eacute;es, bonnes ou mauvaises. La SNCF en est rapidement revenue.</p>
+avec les T&eacute;oz, qui apportaient beaucoup d'id&eacute;es nouvelles, bonnes ou mauvaises. Dix ans apr&egrave;s, la SNCF en est revenue.</p>
 <p class="titre2">Le Train Rapide de Demain</p>
 <p>Alors que le programme Corail+ est lanc&eacute; depuis 1995, poursuivi par les r&eacute;novations "Nouvelle D&eacute;co", une &eacute;tude est men&eacute;e pour imaginer une 
-remise &agrave; niveau plus ambitieuse. En effet, le programme Corail+ se contentait d'une r&eacute;vision technique et d'aligner esth&eacute;tiquement les Corail 
+remise &agrave; niveau plus ambitieuse. En effet, le programme Corail+ se contente d'une r&eacute;vision technique et d'aligner esth&eacute;tiquement les Corail 
 sur le TGV Atlantique, mais n'apporte pas de grande nouveaut&eacute;. La SNCF souhaite d&eacute;velopper de nouveaux services et cr&eacute;er de nouveaux usages.
 Elle a aussi en t&ecirc;te une exploitation commerciale se rapprochant de ce qui se pratique d&eacute;j&agrave; avec le TGV.
 Une rame de d&eacute;monstration est transform&eacute;e &agrave; P&eacute;rigueux entre 1999 et 2000. Elle pr&eacute;sente 
-un nouveau mobilier, plusieurs options de coloris et la cr&eacute;ation d'espaces de service innovants. 
-La SNCF décide le lancer le projet et pr&eacute;pare un grand coup m&eacute;diatique pour lancer ces nouveaux trains en 2003. Cette stratégie sera à double tranchant.
+un nouveau mobilier, plusieurs options de coloris et la cr&eacute;ation d'espaces de services innovants. 
+La SNCF d&eacute;cide le lancer le projet et pr&eacute;pare un grand coup m&eacute;diatique pour lancer ces nouveaux trains en 2003. Cette strat&eacute;gie sera &agrave; double tranchant.
 <p class="titre2">Train Capitale</p>
 <p>En mai 2003, la SNCF installe sur les Champs-&eacute;lys&eacute;es l'exposition &eacute;ph&eacute;m&egrave;re "Train Capitale". Pour l'occasion, 
 quelques pi&egrave;ces de la Cit&eacute; du Train et du mat&eacute;riel repr&eacute;sentant les activit&eacute;s Fret, Transilien et TER sont 
 expos&eacute;es. Trois voitures Corail b&acirc;ch&eacute;es &agrave; l'abri des regards curieux sont install&eacute;es 
-sur la place de la Concorde. C'est le 20 mai que le nom T&eacute;oz et la livr&eacute;e des voitures sont d&eacute;voil&eacute;es. La voiture 2e classe est 
+sur la place de la Concorde. C'est le 20 mai que le nom T&eacute;oz et la livr&eacute;e des voitures sont d&eacute;voil&eacute;s. La voiture 2e classe est 
 bleue, celle de 1e classe jaune orang&eacute;e et une voiture de services verte. Mais ces livr&eacute;es se d&eacute;marquent de tout ce qui s'est fait 
 auparavant par un graphisme tr&egrave;s &eacute;labor&eacute; compos&eacute;
 d'un p&ecirc;le-m&ecirc;le de photos et d'aplats de couleurs pellicul&eacute; sur toute la longueur des voitures. Le 1er juin, les trois voitures sont attel&eacute;es entre deux 
-locotracteurs Y8000 sur un coupon de voie et font plusieurs allers-retours entre la Concorde et l'Arc de triomphe.</p>
+locotracteurs Y 8000 sur un coupon de voie et font plusieurs allers-retours entre la Concorde et l'Arc de triomphe.</p>
 <p class="legende"><img src="../../images/tr/vv/teoz_chpelysees_20030530.jpg" alt="Les voitures T&eacute;oz de pr&eacute;sentation mises en place sur les Champs-Elys&eacute;es avant le train &eacute;ph&eacute;m&egrave;re (30/05/2003)" width="1100" height="310" border="1" /><br />
 Les voitures T&eacute;oz de pr&eacute;sentation mises en place sur les Champs-Elys&eacute;es avant le train &eacute;ph&eacute;m&egrave;re (30/05/2003)</p>
 <p class="titre2">Les voitures de s&eacute;rie </p>
 <p>Il est prévu de faire rouler les Téoz en rames blocs de sept voitures. A l'image d'un élément TGV, les voitures de 1e classe et de 2e classe sont regroupées à chaque
-extrémité et séparées, non pas par une voiture bar, mais par la voiture Services qui propose un espace pour personnes handicapés et un espace de jeux pour enfants.</p>
+extrémité et séparées, non pas par une voiture bar, mais par la voiture Services qui propose un espace pour personnes handicapées et un espace de jeux pour enfants.</p>
 <p>Certains équipements de la rame de présentation ne sont pas retenus : jupes de protection des bogies, anneaux d'intercirculation étanches qui auraient
-imposé des transformations assez coûteuses des dossiers. En revanche, les baies sont remplacées sur les VTU par des baies à simple vitrage plus lumineuses. 
-Les voitures transformées sont prélevées sur les 710 voitures qui avaient profité de la rénovation Corail+ moins de dix ans auparavant. L'objectif étant de récupérer des voitures déjà équipées de
+imposé des transformations assez coûteuses des dossiers. En revanche, les baies sont remplacées sur les <a href="vtu.php" class="link1">VTU</a> par des baies à simple vitrage plus lumineuses. 
+Les voitures transformées sont prélevées sur les 710 voitures qui avaient déjà profité de la rénovation Corail+ moins de dix ans auparavant. L'objectif étant de récupérer des voitures déjà équipées de
 toilettes à rétention.</p>
 <p class="legende"><img src="../../images/tr/vv/teoz_jupes.jpg" alt="jupes" width="296" height="300" border="1" /> 
 <img src="../../images/tr/vv/teoz_intercircul.jpg" alt="intercircul" width="225" height="300" border="1" /> 
@@ -128,7 +110,7 @@ de reconnaitre ces voitures. Les moquettes sont remplacées et adoptent des color
 Le salon des B<sup>7</sup>tu est supprimé et elles deviennent des B<sup>9</sup>tu.
 <p class="titre2">Pour plus d'info:</p>
 R&eacute;portage sur la <a href="http://www.espacetrain.com/?page=contrib/reportage/ogteoz/index" class="link1">pr&eacute;sentation des T&eacute;oz</a> &agrave; Train Capitale, sur <a href="http://www.espacetrain.com/" class="link1">Espacetrain.com</a>
-<p>Le fiche <a href="https://fr.wikipedia.org/wiki/T%C3%A9oz" class="link1">Téoz</a>  
+<p>La fiche <a href="https://fr.wikipedia.org/wiki/T%C3%A9oz" class="link1">Téoz</a>  
 sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a>.<br />
 Les <a href="http://www.trains-europe.fr/sncf/voitures/corail_teoz.htm" class="link1">Corail Téoz</a> sur <a href="http://www.trains-europe.fr" class="link1">Trains-Europe</a>.</p>
 </div>
@@ -141,8 +123,8 @@ La <span class="legende">B<sup>3</sup>Su</span> n&deg;84-97 127-9  ex-T&eacute;o
 (Le Vert de Maisons, 19/06/2015)</p>
 </div>
 </div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv/corail.php">Retour page Corail</a></div>
-<div class="retour"><a href="http://ferrovia.free.fr/tr/vv.php">Retour page Voitures Voyageurs</a></div>
+<div class="retour"><a href="corail.php">Retour page Corail</a></div>
+<div class="retour"><a href="../vv.php">Retour page Voitures Voyageurs</a></div>
 <p id="footer">Ferrovia - 29 Octobre 2015<br />
 &nbsp;</p>
 </body></html>
