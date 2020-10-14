@@ -1,25 +1,13 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 <title>[Ferrovia] - X 4300 - 4500</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
-
-<body onLoad="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -29,8 +17,7 @@ function MM_preloadImages() { //v3.0
   <a href="http://ferrovia.free.fr/MSTS/index.php" class="link1">Train virtuel</a> | 
   <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
-</div>
-
+</div>
 <div class="SectionBloc">
 <div class="Section_txt">
 <p><span class="titre">X 4300 - X 4500</span><br />
@@ -96,6 +83,7 @@ L'XR 8564-X4554 ex-&quot;French Rail Cruise&quot; au TPCF &agrave; Axat (23/03/2
 </div>
 </div>
 <div class="retour"><a href="at.php">Retour page Automoteurs</a></div>
-<p id="footer">Ferrovia - 26 Octobre 2007</p>
+<p id="footer">Ferrovia - 26 Octobre 2007<br />
+&nbsp;</p>
 </body>
 </html>

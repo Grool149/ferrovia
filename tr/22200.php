@@ -5,21 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
 
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -43,17 +31,30 @@ elles avaient des faiblesses sur les lignes &eacute;lectrifi&eacute;es en 1500 V
 Le rh&eacute;ostat mettait en difficult&eacute; les sous-stations ant&eacute;diluviennes de la ligne Paris - Le Mans notamment, et limitait la puissance bien en de&ccedil;&agrave; de ce
 que les m&ecirc;mes locomotives pouvaient offrir en monophas&eacute;. Le d&eacute;veloppement des Hacheurs de courant permettait de d&eacute;velopper une nouvelle g&eacute;n&eacute;ration
 de locomotives bicourantes d&eacute;veloppant 4 MW sous les deux syst&egrave;mes.</p>
-<p>Les BB 22200 sont les soeurs quasi-jumelles des <a href="/tr/7200.php" class="link1">BB 7200</a>. Outre une esth&eacute;tique identique &agrave; la toiture pr&egrave;s, elles partagent la plupart de leurs organes en commun. Ainsi, alors que les Jacquemin Bicourantes et les <a href="/tr/25500.php" class="link1">BB 25500</a> Alsthom avaient deux chaines de traction bien s&eacute;par&eacute;es qui n'avaient en commun que les moteurs de traction, les 22200 se pr&eacute;sentent comme des <a href="/tr/7200.php" class="link1">BB 7200</a> dont le hacheur de courant est aliment&eacute; par un ensemble transformateur+redresseur quand la machine roule sous cat&eacute;naire 25 kV 50 Hz. Sous cat&eacute;naire continue, 22200 et 7200 fonctionnent rigoureusement de la m&ecirc;me fa&ccedil;on. D'un point de vue &eacute;lectrique, il est utile de rappeler que les <a href="/tr/15000.php" class="link1">BB 15000</a> ont en revanche une construction tout &agrave; fait diff&eacute;rente &agrave; base de ponts redresseurs command&eacute;s.</p>
+<p>Les BB 22200 sont les soeurs quasi-jumelles des <a href="/tr/7200.php" class="link1">BB 7200</a>. Outre une esth&eacute;tique identique &agrave; la toiture pr&egrave;s, elles partagent la plupart de 
+leurs organes en commun. Ainsi, alors que les <a href="/tr/20005.php" class="link1">BB MTE Bicourantes</a> et les <a href="/tr/25500.php" class="link1">BB 25500</a> Alsthom avaient deux chaines de traction bien 
+s&eacute;par&eacute;es qui n'avaient en commun que les moteurs de traction, les 22200 se pr&eacute;sentent comme des <a href="/tr/7200.php" class="link1">BB 7200</a> dont le hacheur de courant est aliment&eacute; 
+par un ensemble transformateur+redresseur quand la machine roule sous cat&eacute;naire 25 kV 50 Hz. Sous cat&eacute;naire continue, 22200 et 7200 fonctionnent rigoureusement de la m&ecirc;me fa&ccedil;on. 
+D'un point de vue &eacute;lectrique, il est utile de rappeler que les <a href="/tr/15000.php" class="link1">BB 15000</a> ont en revanche une construction tout &agrave; fait diff&eacute;rente &agrave; base de ponts 
+redresseurs command&eacute;s.</p>
 <p>150 exemplaires ont &eacute;t&eacute; construits de 1977 &agrave; l'automne 1980. Une sous-s&eacute;rie de 28 machines suppl&eacute;mentaires sortait d'usine du printemps 1983 &agrave; l'hiver 1984.
 Enfin, une derni&egrave;re commande livr&eacute;e de Juillet 1985 &agrave; Juillet 1986 portait le nombre d'engins construits &agrave; 205. Cependant, la 22279 &eacute;tait d&eacute;j&agrave; ray&eacute;e des
 inventaires.</p>
-<p>Les 22200 ont la m&ecirc;me livr&eacute;e b&eacute;ton travers&eacute;e d'une ligne bris&eacute;e orange. Les premiers exemplaires sont sortis de construction avec un pare-brise fortement
+<p>Les 22200 ont la m&ecirc;me livr&eacute;e que les 7200 : b&eacute;ton travers&eacute;e d'une ligne bris&eacute;e orange. Les premiers exemplaires sont sortis de construction avec un pare-brise fortement
 inclin&eacute; semblable aux <a href="/tr/6500.php" class="link1">CC 6500</a>, <a href="/tr/72000.php" class="link1">72000</a>, <a href="/tr/15000.php" class="link1">BB 15001 &agrave; 50</a>, <a href="/tr/7200.php" class="link1">BB 7201 &agrave; 35</a>. A partir de la BB 22227 les cabines sont donc plus spacieuses. Ext&eacute;rieurement, les BB 22200 sont reconnaissables
 par leurs archets &eacute;troits. Le pantographe monophas&eacute; a la particularit&eacute; de se trouver en sens inverse (coude vers l'ext&eacute;rieur de la machine) afin de m&eacute;nager un emplacement pour le disjoncteur haute tension install&eacute; en toiture.</p>
 <p class="titre2">Carri&egrave;re</p>
-<p>Les 22200 ont d&eacute;but&eacute; leur carri&egrave;re sur la ligne de la c&ocirc;te d'Azur d'o&ugrave; elles ont rapidement chass&eacute; les <a href="/tr/25200.php" class="link1">BB 25200</a> en t&ecirc;te des trains express et rapides. En revanche leurs moteurs auto-ventil&eacute;s n'&eacute;taient pas adapt&eacute;s aux trains de marchandises lourds. Il fallu attendre des essais de bogies &agrave; rapport 100 km/h pour sp&eacute;cialiser les BB 22201 &agrave; 22268 &agrave; cette t&acirc;che par &eacute;change de bogies avec les unit&eacute;s sortants d'usine. Les BB 22269 et suivantes &eacute;taient quant &agrave; elles &eacute;quip&eacute;es d'une ventilation forc&eacute;e les rendant plus universelles. N&eacute;anmoins toutes les 22200 retrouv&egrave;rent leur vitesse limite de 160 km/h &agrave; partir de 1982, les bogies PV finissant sous les <a href="/tr/7200.php" class="link1">BB 7200</a> aptes &agrave; l'UM. </p>
+<p>Les 22200 ont d&eacute;but&eacute; leur carri&egrave;re sur la ligne de la c&ocirc;te d'Azur d'o&ugrave; elles ont rapidement chass&eacute; les <a href="/tr/25200.php" class="link1">BB 25200</a> en t&ecirc;te 
+des trains express et rapides. En revanche leurs moteurs auto-ventil&eacute;s n'&eacute;taient pas adapt&eacute;s aux trains de marchandises lourds. Il fallu attendre des essais de bogies &agrave; rapport 100 km/h (PV)
+pour sp&eacute;cialiser les BB 22201 &agrave; 22268 &agrave; cette t&acirc;che par &eacute;change de bogies avec les unit&eacute;s sortants d'usine. Les BB 22269 et suivantes &eacute;taient quant &agrave; elles 
+&eacute;quip&eacute;es d'une ventilation forc&eacute;e les rendant plus universelles. Les 22200 PV se sont cependant r&eacute;v&eacute;l&eacute;es peu satisfaisantes et le tonnage emport&eacute; par une 22200 GV &agrave; ventilation forc&eacute;e &eacute;tait 
+presque aussi bon qu'une PV auto-ventil&eacute;e alors qu'elles &eacute;taient plus polyvalentes. Il fut jug&eacute; plus pertinent de r&eacute;utiliser les bogies PV sous des 7200 aptes &agrave; l'UM. Les trente-huit <a href="/tr/7200.php" class="link1">BB 7343 &agrave; 7380</a> sont sorties 
+de Belfort en 1982, aptes &agrave; 160 km/h et &eacute;quip&eacute;es de la ventilation forc&eacute;e. Apr&egrave;s leur marche de r&eacute;ception et leur mise en service, elle furent envoy&eacute;es &agrave; Oullins qui a proc&eacute;d&eacute; &agrave; l'&eacute;change des bogies, du syst&egrave;me de ventilation 
+et des convertisseurs auxiliaires entre ces machines et les 22231 &agrave; 22268. L'&eacute;lectrification de la Maurienne a conduit &agrave; la commande des BB 7411 &agrave; 7440, aptes &agrave; l'UM et au freinage par r&eacute;cup&eacute;ration. De la m&ecirc;me fa&ccedil;on, 
+ces machines sont sorties d'usine en 1984/85, aptes &agrave; 160 km/h et ont &eacute;chang&eacute; bogies, ventilation et convertisseurs avec les 22201 &agrave; 22230.</p>
+
 <p>La s&eacute;rie &eacute;tait exploit&eacute;e sur un large p&eacute;rim&egrave;tre qui s'&eacute;talait de la C&ocirc;te d'Azur au Lyonnais, la Bourgogne, la Franche-Comt&eacute; et le Nord. Certains trains nocturnes atteignant des kilom&eacute;trages tr&egrave;s &eacute;lev&eacute;s sans relais : plus de 1300 km entre Qu&eacute;vy et Nice.</p>
-<p>Pour l'&eacute;lectrification de l'&eacute;toile d'Angers en 1983, dix machines (22351 &agrave; 22360) furent command&eacute;es &eacute;quip&eacute;es d'un couple V200. La BB 22278 effectua les essais d&egrave;s 1981 avec une rame d'UIC ex-Capitole puis assura le service commercial du Montaigne (Corail V200) et du TEE Aquitaine. Les 22200 s'install&egrave;rent &agrave; Rennes en 1983 et reprirent les trains les plus nobles de l'Ouest dont le TEE Jules Verne entre Paris et Nantes aux <a href="/tr/72000.php" class="link1">CC 72000</a>.</p>
+<p>Pour l'&eacute;lectrification de l'&eacute;toile d'Angers en 1983, dix machines (22351 &agrave; 22360) furent command&eacute;es &eacute;quip&eacute;es d'un couple 200. La BB 22278 effectua les essais d&egrave;s 1981 avec une rame d'UIC ex-Capitole puis assura le service commercial du Montaigne (Corail V200) et du TEE Aquitaine. Les 22200 s'install&egrave;rent &agrave; Rennes en 1983 et reprirent les trains les plus nobles de l'Ouest dont le TEE Jules Verne entre Paris et Nantes aux <a href="/tr/72000.php" class="link1">CC 72000</a>.</p>
 <p>La succession des BB 22200 &eacute;tait d&eacute;j&agrave; en pr&eacute;paration : Les <a href="/tr/26000.php" class="link1">BB 26000</a> et TGV Atlantique &agrave; moteurs synchrones autopilot&eacute;s. Apr&egrave;s les exp&eacute;rimentations de MTE sur le prototype <a href="/tr/15000.php" class="link1">BB 10004</a>, les deux futures BB 22379 et 22380 sortent d'usine sous les num&eacute;ros BB 20011 et 20012 : Livr&eacute;e sp&eacute;cifique, pantographes mont&eacute;s archets vers le centre et moteurs synchrones. La BB 22351 fut &eacute;quip&eacute;e d'un car&eacute;nage en vue de tester l'a&eacute;rodynamique des <a href="/tr/26000.php" class="link1">26000</a>.</p>
 <p>A l'ouverture du Tunnel sous la Manche, en raison du retard dans la construction des Class 92, ce sont des BB 22200 qui ont pris en charge les trains de Fret entre le continent et Douvres. Afin de r&eacute;pondre &agrave; la r&eacute;glementation Anglaise, les capots de ces machines furent peints en jaune, leur valant le surnom de &quot;Yellow submachines&quot;. Les modifications concernaient &eacute;galement des dispositifs de protection incendie et de climatisation propres &agrave; l'exploitation dans le tunnel, ainsi que l'installation d'automates pour la marche en Unit&eacute; Multiple et de la TVM 430 sur les machines menantes. La transformation commen&ccedil;a en 1993 pour les BB 22399 &agrave; 22405. Machines menantes TTU &eacute;quip&eacute;es de TVM : 22399, 22401, 22403, 22405. Machines men&eacute;es TU : 22400, 22402, 22404. Les prototypes 20011 et 20012 &agrave; moteurs synchrones furent &agrave; leur tour transform&eacute;es en BB 22200 TTU sous les num&eacute;ros 22379 et 22380. Le service commercial d&eacute;buta en Juin 1994 pour s'achever fin 1995. Les machines TU ont alors &eacute;t&eacute; remises au type tandis que les TTU re&ccedil;urent des bogies &agrave; rapport 200 km/h provenant des 22351 &agrave; 22360. Les BB 22379, 22380 et 22399 furent d&eacute;di&eacute;es aux tourn&eacute;es d'inspection LGV (IES et Mauzin). Les autres machines prirent en charge les TER200 Interloire avant d'&ecirc;tre mut&eacute;es en 1997 &agrave; Villeneuve pour assurer les nouveaux MVGV, convois l&eacute;gers de la Sernam empruntant des portions de LGV &agrave; 200 km/h de nuit. </p>
 <p>D&egrave;s lors, malgr&eacute; les &eacute;lectrifications progressives vers Le Croisic, Grenoble, Brest, Quimper, Clermont-Ferrand, les BB 22200 ont peu &agrave; peu &eacute;t&eacute; r&eacute;duites &agrave; un r&ocirc;le plus discret. La pouss&eacute;e des <a href="/tr/26000.php" class="link1">BB 26000</a> et TGV a entam&eacute; leurs services sur les grandes relations et elles prennent davantage en charge des express inter&eacute;gionnaux ou des TER. </p>
@@ -78,6 +79,7 @@ Les machines de l'Infra disposent de bogies &agrave; rapport V200 et de la TVM p
 <p class="titre2">Pour plus d'info:</p>
 <p>La fiche <a href="http://fr.wikipedia.org/wiki/BB_22200" class="link1">BB 22200</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 Fiche technique des <a href="http://fbrisou.free.fr/RAIL21/FicheBB22200.pdf" class="link1"> BB 22200</a> de <a href="http://pagesperso-orange.fr/florent.brisou" class="link1">Florent Brisou</a><br />
+Les <a href="http://www.trains-europe.fr/sncf/locomotives/22200.htm" class="link1">BB 22200</a> sur <a href="http://www.trains-europe.fr/" class="link1">Trains d'Europe</a>.<br />
 L'inventaire des <a href="http://trainsso.pagesperso-orange.fr/BB22200.pdf" class="link1">BB 22200</a> sur <a href="http://pagesperso-orange.fr/trainsso" class="link1">Trains du Sud-Ouest</a></p>
 </div>
 <div class="Section_Illustrations"> 
@@ -121,8 +123,18 @@ par Herv&eacute; Janin et distribu&eacute; par <a href="http://www.simw.com/inde
 comporte la BB 22323.</p>
 <p>Pack payant</p>
 <p><img src="../images/msts/22323_HJ.jpg" alt="22323" width="400" height="300" /></p>
+<p><a href="http://yoyoandfriends.free.fr/html/" class="link1">T. Stachnik</a> et son &eacute;quipe ont r&eacute;alis&eacute; un pack de BB 22200 en configuration ann&eacute;es 2000/2010 avec les 
+BB 22304 et BB 22347 en livr&eacute;e Multiservice, BB 22298 en livr&eacute;e Fret, BB 22269 et 22400 en livr&eacute;e &quot;En voyage&quot;, BB 22244 en livr&eacute;e fant&ocirc;me, 
+BB 22399, BB 22380 et BB 22403 en livr&eacute;es Infra, BB 22218 et BB 22223 en livrée PAC Ile de France et la BB 22258RC en livr&eacute;e TER Provence Alpes Côtes d'Azur.</p>
+<p><img src="/images/msts/22200MultiFret.jpg" alt="22200MultiFret" width="970" height="271" /></p>
+<p><img src="/images/msts/22200EV.jpg" alt="22200EV" width="1029" height="293" /></p>
+<p><img src="/images/msts/22200Infra.jpg" alt="22200Infra" width="988" height="339" /></p>
+<p><img src="/images/msts/22200TER.jpg" alt="22200TER" width="1063" height="316" /></p>
+
 </div>
 <div class="retour"><a href="lb.php">Retour page locomotives bicourantes</a></div>
-<p id="footer">Ferrovia - 20 Mai 2012</p>
+<p id="footer">Ferrovia - 20 Mai 2012<br />
+Mise &agrave; jour 23 Décembre 2015<br />
+&nbsp;</p>
 </body>
 </html>

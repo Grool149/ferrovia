@@ -1,25 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 <title>[Ferrovia] - BB 17000</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="icon" href="../ferrovia.ico" type="image/bmp" />
 <link rel="stylesheet" href="../miseenpage.css" />
-
-<script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-//-->
-</script>
-
 </head>
-
-<body onload="MM_preloadImages()">
-
+<body>
 <div id="header1">
   <div id="header0"></div>
 </div>
@@ -30,7 +17,6 @@ function MM_preloadImages() { //v3.0
   <a href="http://ferrovia.free.fr/tutoriaux/index.php" class="link1">Tutoriaux</a> | 
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
-
 <div class="SectionBloc">
 <div class="Section_txt">
 <p><span class="titre">BB 17000</span></p>
@@ -81,7 +67,7 @@ TER avec les VO2N pour la Normandie et la Picardie.</p>
 <p>A noter, c'est un fait assez rare pour &ecirc;tre soulign&eacute;, qu'aucune 
 machine ne manquait &agrave; l'appel jusqu'au d&eacute;but de l'amortissement de la s&eacute;rie. La question de leur remplacement fut maintes fois pos&eacute;e. La d&eacute;clinaison de <a href="/tr/27000.php" class="link1">BB 27000</a> en locomotives d&eacute;di&eacute;es &agrave; la banlieue fut avanc&eacute;e puis abandonn&eacute;e. Ceci a justifi&eacute; l'agrandissement des cabines de plusieurs engins selon la formule d&eacute;j&agrave; adopt&eacute;e sur les <a href="/tr/8700.php" class="link1">BB 8700</a> Maurienne et des <a href="/tr/8500.php" class="link1">BB 8500</a> Bourgogne. </p>
 <p>Finalement, les <a href="/tr/27300.php" class="link1">BB 27300</a> furent command&eacute;es et les premi&egrave;res BB 17000  sont parties &agrave; la retraite en d&eacute;cembre 2007. La s&eacute;rie se portait tout de m&ecirc;me encore bien puisque 84 machines restaient &agrave; l'effectif en 2012. En raison de l'important porte-&agrave;-faux des RIB et des BB 27300 les rendant incompatibles, les BB 17000 restaient indispensables  &agrave; St Lazare. Elles conservaient aussi les Transilien Nord en VB2N et les relations r&eacute;gionales en VO2N.</p>
-<p>C'est la fiabilisation  des Z 50000 et leur  arriv&eacute;e en masse qui d&eacute;sormais poussent RIB et BB 17000 &agrave; la retraite. Sur le r&eacute;seau Nord, les rames VB2N sont retir&eacute;es et envoy&eacute;es &agrave; Montparnasse o&ugrave; elles sont attel&eacute;es &agrave; des <a href="/tr/7600.php" class="link1">BB 7600</a>. </p>
+<p>C'est la fiabilisation  des <a href="/tr/50000.php" class="link1">Z 50000</a> et leur  arriv&eacute;e en masse qui d&eacute;sormais poussent RIB et BB 17000 &agrave; la retraite. Sur le r&eacute;seau Nord, les rames VB2N sont retir&eacute;es et envoy&eacute;es &agrave; Montparnasse o&ugrave; elles sont attel&eacute;es &agrave; des <a href="/tr/7600.php" class="link1">BB 7600</a>. </p>
 <p class="titre2">Quelques donn&eacute;es techniques</p>
 <p>Constructeur: Alsthom<br />
 Tension d'alimentation: 25 kV monophas&eacute; 50 Hz <br />
@@ -91,11 +77,8 @@ Puissance totale: 2940 kW</p>
 <p>Longueur: 14,700 m<br />
 Masse: 79t<br />
 Pantographes: 2 x AM 18 V</p>
- <!--     <p class="titre2">Machines remarquables de la s&eacute;rie</p>
-      <p>La 17005, accident&eacute;e peu apr&egrave;s sa sortie d'usine, fut transform&eacute;e</p>
-	  <p>La 17003</p>
-	  <p>Les 17029 et 17056</p> 
-     -->
+<p class="titre2">Machine remarquable de la s&eacute;rie</p>
+<p>La 17005, accident&eacute;e peu apr&egrave;s sa sortie d'usine, fut reconstruite sur un ch&acirc;ssis de BB 25500 longue. Des cap&ocirc;ts sp&eacute;ciaux ont &eacute;t&eacute; confectionn&eacute;s pour rattraper la diff&eacute;rence de longueur avec la caisse.</p>
 <p class="titre2">Pour plus d'info:</p>      
 <p> la fiche <a href="http://fr.wikipedia.org/wiki/BB_17000" class="link1">BB 17000</a> sur <a href="http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="link1">Wikipedia</a><br />
 Fiche technique des <a href="http://fbrisou.free.fr/RAIL21/FicheBB17000.pdf" class="link1">BB 17000</a> de <a href="http://pagesperso-orange.fr/florent.brisou" class="link1">Florent Brisou</a><br />
@@ -106,8 +89,10 @@ l'inventaire des <a href="http://pagesperso-orange.fr/trainsso/BB17000.pdf" clas
 La BB 17056 &agrave; Clichy Levallois (25/09/2003)</p>
 <p><img src="../images/tr/17040.jpg" alt="La BB 17040 avec une VO2N &agrave; Clichy Levallois (07/07/2003)" width="400" height="300" style="border:1px solid black" /><br />
 La BB 17040 avec une VO2N &agrave; Clichy Levallois (07/07/2003)</p>
-<p><img src="../images/tr/17005.jpg" alt="La BB 17005 et son chassis allong&eacute;" width="400" height="300" style="border:1px solid black" /><br />
-La BB 17005 et son chassis allong&eacute;</p>
+<p><img src="../images/tr/17005_20060401.jpg" alt="La BB 17005 et son ch&acirc;ssis allong&eacute; vue &agrave; Cormeilles-en-Parisis (01/04/2006)" width="400" height="300" style="border:1px solid black" /><br />
+La BB 17005 et son ch&acirc;ssis allong&eacute; vue &agrave; Cormeilles-en-Parisis (01/04/2006)</p>
+<!--<p><img src="../images/tr/17005.jpg" alt="La BB 17005 et son chassis allong&eacute;" width="400" height="300" style="border:1px solid black" /><br />
+La BB 17005 et son chassis allong&eacute;</p>-->
 <p><img src="../images/tr/17028.jpg" alt="La BB 17028 affronte les rigueurs de l'hiver. Conflans Ste Honorine (04/01/2003)" width="400" height="300" style="border:1px solid black" /><br />
 La BB 17028 affronte les rigueurs de l'hiver. Conflans Ste Honorine (04/01/2003)</p>
 <p><img src="../images/tr/17017.jpg" alt="La BB 17017 passe &agrave; Clichy Levallois (24/01/2003)" width="400" height="300" style="border:1px solid black" /><br />
@@ -119,6 +104,12 @@ La BB 17056 repeinte et une VB2N Transilien &agrave; Paris St Lazare (11/04/2006
 <p><img src="../images/tr/17095.jpg" alt="La BB 17095 et une VO2N Picarde &agrave; Paris Nord (12/09/2004)" width="400" height="300" style="border:1px solid black" /><br />
 La BB 17095 et une VO2N Picarde &agrave; Paris Nord (12/09/2004)</p>
 </div>
+</div>
+<div class="retour"><a href="lm.php" class="link2">Retour page locomotives monophas&eacute;es</a></div>
+<div class="SectionBloc">
+<p class="titre2">La BB 17000 version <img alt="logo_MSTS" src="../images/msts/msts_logo.jpg" /></p>
+<p><a href="http://yoyoandfriends.free.fr/html/" class="link1">T.Stachnik</a> et son équipe ont r&eacute;alis&eacute; un pack de <a href="http://yoyoandfriends.free.fr/html/electriques.html" class="link1">BB 17000</a>.</p>
+<p></p>
 </div>
 <div class="retour"><a href="lm.php" class="link2">Retour page locomotives monophas&eacute;es</a></div>
 <p id="footer">Ferrovia - 26 Septembre 2004<br />
