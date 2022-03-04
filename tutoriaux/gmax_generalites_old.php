@@ -33,7 +33,7 @@ include("../php/include.txt");
       <p>Les fonctionnalit&eacute;s de gmax sont &eacute;videmment bien plus restreintes 
         que celles de 3D Studio Max. gmax ne sait pas faire un rendu d'une sc&egrave;ne 
         3D. Il ne dispose pas non plus des techniques pointues de mod&eacute;lisation 
-        de surfaces param&eacute;triques de son grand fr&egrave;re. Toutefois, 
+        de surfaces param&eacute;triques de son grand fr&egrave;re. Toutefois, 
         ces techniques ne sont pas vraiment int&eacute;ressantes pour faire de 
         la 3D temps r&eacute;el. Les créations pour jeu vidéo exigent un faible 
         nombre de polygones et seront r&eacute;alis&eacute;es par des techniques 

@@ -18,7 +18,7 @@
   <a href="http://ferrovia.free.fr/link/index.php" class="link1">Liens</a>
 </div>
 <div class="SectionBloc">
-<p class="titre">La 3D dans MSTS</p>
+<p class="titre">La 3D dans MSTS</p>
 <p class="soustitre">Comment la 3D est-elle structurée?</p>
 Microsoft Train Simulator stocke le matériel roulant dans une arborescence imposée.
 Pour s'y retrouver, je vous conseille cet article de <a href="http://ajtrainsim.free.fr/cap3d/tech/hieral.htm" class="link1">Pierre Gauriat</a>.</p>

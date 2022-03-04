@@ -67,7 +67,8 @@ if ( !($result = $db->sql_query($sql)) )
 
 if ( $row = $db->sql_fetchrow($result) )
 {
-	$postrow = array();
+	$postrow = array();
+	
 	do
 	{
 		$postrow[] = $row;
@@ -141,7 +142,7 @@ for($i=0;$i<$total_posts;$i++)
 	"</table></td></tr>\n";
 */
 	echo "<tr>\n<td width=\"60\" align=\"center\">\n" .
-	"<img src=\"$url_drapeau\"></td>\n" .
+	"<img src=\"$url_drapeau\"></td>\n" .
 	"<td width=\"200\"><img src=\"$url_image\"></td>" .
 	"<td class=$row_class>\n<table border=0 width=\"100%\">\n" .	
 	"<tr>\n<td><b>$nom</b></td>" .

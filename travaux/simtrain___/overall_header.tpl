@@ -80,7 +80,8 @@ eval(layerRef + "('" + calque + "')" + styleRef + '.visibility = "hidden"');
     <a href="http://www.simtrain-fr.net/travaux.php" class="text_gris">Wagons</a></p>
 </div>
 
-<div id="div_voies" style="position:absolute; left:40.5%; top:35px; width:19%; background-color: #4A9CE9; visibility:hidden"
+<div id="div_voies" style="position:absolute; left:40.5%; top:35px; width:19%; background-color: #4A9CE9; visibility:hidden"
+
  onmouseover="afficheCalque('div_voies')" onmouseout="cacheCalque('div_voies')"> 
   <p class="text_blanc"><a href="http://www.simtrain-fr.net/travaux.php" class="text_gris">Les 
     Lignes Françaises</a><br>

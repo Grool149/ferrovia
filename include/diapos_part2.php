@@ -30,5 +30,5 @@
     }
     echo '</div>';
 ?>
-</body>
+</body>
 </html>

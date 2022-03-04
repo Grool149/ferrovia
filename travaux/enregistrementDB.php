@@ -43,6 +43,7 @@ $req = "INSERT INTO materiel_elements ( type , nom , description , url_image , u
 "VALUES ( '$type', '$nom', '$description', '$url_image', '$url_download', '$taille', '$nationalite', CURDATE() , '$simtrain', '$auteur')";
 
 Executer ($req);
-
+
+
 Fin();
 ?>

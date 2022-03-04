@@ -117,7 +117,7 @@
 </div>
 <p class="SectionIntroduction"><b>Z 50000 209L en livrée Ile-de-France Mobilités</b><br />
 La livrée STIF/Carmillon n'est pas encore généralisée à tous les matériels ex-Transilien qu'une nouvelle livrée apparaît à l'initiative de l'autorité organisatrice des transports, c'est à dire la région Ile-de-France.
-Début 2018, cette nouvelle livrée habillait les NAT 209 et 211 de Paris-St Lazare ainsi qu'un nombre croissant d'autobus du réseau Optile, alors que l'"historique" livrée Ile-de-France habille encore les premières Z 20900 et que ses dérivées
+Début 2018, cette nouvelle livrée habillait les NAT 209 et 211 de Paris-St Lazare ainsi qu'un nombre croissant d'autobus du réseau Optile, alors que l'"historique" livrée Ile-de-France habille encore les premières Z 20900 et que ses dérivées
 habillent l'intégralité des Z 6400 et MI2N Altéo ou Z 22500 SNCF.</p>
 <?php
     echo '<div id="Grandephoto" onclick="FermerGrandePhoto();">
