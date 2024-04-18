@@ -1,0 +1,272 @@
+@viewport {
+  width: device-width; /* largeur du viewport */
+  zoom: 1;
+}
+@-webkit-viewport{
+  width: device-width;
+  zoom: 1;
+ }
+@-moz-viewport{
+  width: device-width;
+  zoom: 1;
+}
+@-ms-viewport{
+  width: device-width;
+  zoom: 1;
+}
+@-o-viewport{
+  width: device-width;
+  zoom: 1;
+}
+
+html { background-color: #DDDDDD;height:100%;padding-bottom: 0px;}
+
+body {
+  background-color: #ffffff;
+  text-decoration: none;
+  position : relative;
+  box-sizing: border-box;
+  padding-bottom : 50px;
+  min-height:100%;
+}
+
+.retour, .retourCat{
+  background:url(http://ferrovia.free.fr/images/fleche.gif) no-repeat left;
+  padding-left:20px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  color: #000000;
+  text-decoration: none;
+}
+.retour {margin-bottom:20px; margin-top:20px;}
+
+.publication{ 
+  color: #aaa;
+  font-family: Verdana Bold, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  margin-bottom:0px;
+}
+
+@media screen and (min-width: 901px){
+  @viewport {
+    width: device-width; /* largeur du viewport */
+    zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
+  }
+  @-webkit-viewport{
+    width: device-width;
+  }
+  @-moz-viewport{
+    width: device-width;
+  }
+  @-ms-viewport{
+    width: device-width;
+  }
+  @-o-viewport{
+    width: device-width;
+  }
+  body { 
+    max-width:1200px;
+    margin:auto;
+  }
+  #header0{
+    height:121px;
+    background:url(http://ferrovia.free.fr/images/pix1.gif) no-repeat;
+  }
+  #header1{
+    height:121px;
+    background-image:url(http://ferrovia.free.fr/images/pix2.gif);
+    background-position:left;
+  }
+  #header2{
+    height:35px;
+    background-image:url(http://ferrovia.free.fr/images/pix3b.gif);
+    background-position:left;
+    background-repeat:no-repeat;
+    padding-left:204px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+  }
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #FF9900; font-weight: bold}
+  .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_o.gif);}
+  .retour a, .retourCat a {text-decoration: none; color: #000000;}
+  .retourCat a {font-weight:bold;}
+  a:hover, .retour a :hover { text-decoration: none; color : #DD6900;}
+  .retour, .retourCat, .publication { margin-left:20px;}
+ 
+  .SectionBloc {
+    padding: 0px 20px 0px 20px;
+  } 
+  .Section_Illustrations {
+    width:420px;
+    position:absolute;
+    right:10px;
+    top:0px;
+  }
+  .Section_txt {
+    min-height:350px;
+    left:0px;
+    top:0px;
+    margin-right:420px;
+    padding: 5px 20px 5px 0px;
+  }
+}
+
+@media screen and (min-width: 413px) and (max-width: 900px) {
+  @viewport {
+    width: device-width; /* largeur du viewport */
+    zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
+  }
+  @-webkit-viewport{
+    width: device-width;
+  }
+  @-moz-viewport{
+    width: device-width;
+  }
+  @-ms-viewport{
+    width: device-width;
+  }
+  @-o-viewport{
+    width: device-width;
+  }
+  body {
+    margin: 0px 0px 0px 0px;
+  }
+  #header0{
+    height:0px;
+  }
+  #header1{
+    height:0px;
+  }
+  #header2{
+    height:35px;
+    background-image:url(http://ferrovia.free.fr/images/pix900.gif);
+    background-position:0 0;
+    background-repeat:no-repeat;
+    padding-left:138px;
+    padding-top:10px;
+  }
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
+  .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_n.gif);}
+  a.link1 { font-weight:bold; color: #DD6900; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
+  .retour a, .retourCat a {text-decoration: none; color: #DD6900;}
+  .retour, .retourCat, .publication { margin-left: 10px;}
+  .SectionBloc {
+    padding: 0px 10px 0px 10px;
+  }
+  .Section_Illustrations {
+    width:402px;
+    position:relative;
+    margin:auto;
+  }
+  .Section_txt {
+    left:0px;
+    top:0px;
+    padding: 0px 0px 0px 0px;
+  }
+}
+
+@media screen and (max-width: 412px){
+  body {margin: 0px 0px 0px 0px;}
+  #header0{
+    height:35px;
+    background-image:url(http://ferrovia.free.fr/images/pix412.gif);
+    background-position:center;
+    background-repeat:no-repeat;
+  }
+  #header2{text-align: center;}
+  .titre, .soustitre, .soustitre1, .titre2 {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight: bold}
+  .titre2 {background-image:url(http://ferrovia.free.fr/images/puce_n.gif);}
+  a.link1 { font-weight:bold; color: #DD6900; text-decoration: none; font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif}
+  .retour a, .retourCat a {text-decoration: none; color: #DD6900;}
+  .retour, .retourCat, .publication { margin-left: 5px;}
+  .SectionBloc {
+    padding: 0px 5px 0px 5px;
+  }
+
+  .Section_Illustrations {
+    max-width:100%;
+    position:relative;
+    margin:auto;
+}
+  .Section_Illustrations img{
+    box-sizing: border-box;
+    max-width:100%;
+    height: auto;
+  }
+}
+
+.titre { font-size: 24px;
+  margin-top:0px;
+  margin-bottom:0px;}
+.soustitre1 { font-size: 18px;}
+.soustitre, .titre2 { font-size: 14px;}
+.titre2 { background-repeat:no-repeat; background-position:left; padding-left:20px;}
+.titre2 img {vertical-align: middle;}
+.soustitre2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; font-variant: small-caps}
+
+.link1 a  { color: #000000; text-decoration: none; padding-left: 20px}
+
+#footer, .link1 { font-weight:bold; color: #000000; text-decoration: none}
+#footer {
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-left: 20px; 
+  margin-bottom: 0px;
+  width:100%;
+  clear: both;
+  position : absolute; bottom : 0px;
+  background-color: #4F5B5B;
+  color: #DDDDDD; 
+  font-size: 9pt; 
+  font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.legende { font-family: "Times New Roman", Times, serif; font-size: 9pt; font-style: italic; }
+
+.cc {
+  height:15px;
+  display: inline-block;
+  background-repeat:no-repeat; background-position:left; padding-left:18px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2215%22 height=%2215%22 viewBox=%225.5 -3.5 64 64%22%3E %3Ccircle cx=%2237.785%22 cy=%2228.501%22 r=%2228.836%22 fill=%22none%22 stroke=%22%2372777d%22/%3E %3Cpath fill=%22%2372777d%22 d=%22M37.441-3.5c8.951 0 16.572 3.125 22.857 9.372 3.008 3.009 5.295 6.448 6.857 10.314 1.561 3.867 2.344 7.971 2.344 12.314 0 4.381-.773 8.486-2.314 12.313-1.543 3.828-3.82 7.21-6.828 10.143-3.123 3.085-6.666 5.448-10.629 7.086-3.961 1.638-8.057 2.457-12.285 2.457s-8.276-.808-12.143-2.429c-3.866-1.618-7.333-3.961-10.4-7.027-3.067-3.066-5.4-6.524-7-10.372S5.5 32.767 5.5 28.5c0-4.229.809-8.295 2.428-12.2 1.619-3.905 3.972-7.4 7.057-10.486C21.08-.394 28.565-3.5 37.441-3.5zm.116 5.772c-7.314 0-13.467 2.553-18.458 7.657-2.515 2.553-4.448 5.419-5.8 8.6a25.204 25.204 0 0 0-2.029 9.972c0 3.429.675 6.734 2.029 9.913 1.353 3.183 3.285 6.021 5.8 8.516 2.514 2.496 5.351 4.399 8.515 5.715a25.652 25.652 0 0 0 9.943 1.971c3.428 0 6.75-.665 9.973-1.999 3.219-1.335 6.121-3.257 8.713-5.771 4.99-4.876 7.484-10.99 7.484-18.344 0-3.543-.648-6.895-1.943-10.057-1.293-3.162-3.18-5.98-5.654-8.458-5.146-5.143-11.335-7.715-18.573-7.715zm-.401 20.915l-4.287 2.229c-.458-.951-1.019-1.619-1.685-2-.667-.38-1.286-.571-1.858-.571-2.856 0-4.286 1.885-4.286 5.657 0 1.714.362 3.084 1.085 4.113.724 1.029 1.791 1.544 3.201 1.544 1.867 0 3.181-.915 3.944-2.743l3.942 2c-.838 1.563-2 2.791-3.486 3.686-1.484.896-3.123 1.343-4.914 1.343-2.857 0-5.163-.875-6.915-2.629-1.752-1.752-2.628-4.19-2.628-7.313 0-3.048.886-5.466 2.657-7.257 1.771-1.79 4.009-2.686 6.715-2.686 3.963-.002 6.8 1.541 8.515 4.627zm18.457 0l-4.229 2.229c-.457-.951-1.02-1.619-1.686-2-.668-.38-1.307-.571-1.914-.571-2.857 0-4.287 1.885-4.287 5.657 0 1.714.363 3.084 1.086 4.113.723 1.029 1.789 1.544 3.201 1.544 1.865 0 3.18-.915 3.941-2.743l4 2c-.875 1.563-2.057 2.791-3.541 3.686a9.233 9.233 0 0 1-4.857 1.343c-2.896 0-5.209-.875-6.941-2.629-1.736-1.752-2.602-4.19-2.602-7.313 0-3.048.885-5.466 2.658-7.257 1.77-1.79 4.008-2.686 6.713-2.686 3.962-.002 6.783 1.541 8.458 4.627z%22/%3E %3C/svg%3E");
+}
+
+.SectionBloc {
+  position:relative;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #333333; text-align: justify;
+  font-size: 10pt;
+  overflow:hidden;
+}
+
+.SectionBloc img{
+//  box-sizing: border-box;
+  max-width:100%;
+  height: auto;
+}
+
+.SectionBloc_HauteurMini350 {
+  top:0px;
+  width:1px;
+  height:350px;
+  float:left;
+}
+
+.SectionBloc_HauteurMini700 {
+  top:0px;
+  width:1px;
+  height:700px;
+  float:left;
+}
+
+.Section_Illustrations {
+  max-height:100%;
+  overflow:auto;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 9pt; 
+  font-style: italic;
+  text-align: center;
+}
+
+.Section_Illustrations img {
+  border:1px solid black
+}
