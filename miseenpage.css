@@ -67,6 +67,8 @@ body {
   body { 
     max-width:1200px;
     margin:auto;
+    display: flex;
+    flex-direction: column;
   }
   #header0{
     height:121px;
@@ -94,6 +96,7 @@ body {
   .retour, .retourCat, .publication { margin-left:20px;}
  
   .SectionBloc {
+    flex: 1 0;
     padding: 0px 20px 0px 20px;
   } 
   .Section_Illustrations {
@@ -103,7 +106,7 @@ body {
     top:0px;
   }
   .Section_txt {
-    min-height:350px;
+    flex: 1 0 350px;
     left:0px;
     top:0px;
     margin-right:420px;
