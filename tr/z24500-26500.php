@@ -1,4 +1,4 @@
 <?php
-  header('Location: http://ferrovia.free.fr/tr/z24500-26500.html');
+  header('Location: http://ferrovia.free.fr/tr/24500.html', true, 301);
   exit();
 ?>
