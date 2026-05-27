@@ -1,0 +1,96 @@
+
+#LightBox {
+  display: none;
+  position:fixed;
+  height: 100%;
+  width: 100%;
+  padding:0px;
+  left:0;
+  top:0;
+  z-index:200;
+  background-color: rgba(50, 50, 50, 0.8);
+  align-items: center;
+  justify-content: center;
+}
+
+#LightBoxCadre {
+  position: absolute;
+  align-self: center;
+}
+#LightBoxPhoto{
+  position: relative;
+  display: inline-block;
+  border:2px solid rgba(0,0,0,1);
+  background-size: 100%;
+}
+
+#LightBoxCompteur {
+  position:relative;
+  left:0;
+  float:left;
+  color: #ffffff;
+}
+#LightBoxFermer {
+  position:relative;
+  filter:alpha(Opacity=100);
+  opacity:1
+  right:0;
+  float:right;
+//  background:url(fermer.png) right 48% no-repeat;
+}
+
+.zoomable, .tailleReduite{
+  cursor:-webkit-zoom-in;
+  cursor:-moz-zoom-in;
+  cursor:zoom-in
+}
+
+.tailleReelle{
+  cursor:-webkit-move;
+  cursor:-moz-move;
+  cursor:move
+}
+
+#LightBoxPrec, #LightBoxSuiv {
+  position:relative;
+  width:100px;
+  filter:alpha(Opacity=0);
+  opacity:0;
+  -webkit-transition:opacity .6s;
+  -moz-transition:opacity .6s;
+  -o-transition:opacity .6s;
+  transition:opacity .6s
+}
+#LightBoxPrec {
+  left:0;
+  float:left;
+  background:url(precedent.png) left 48% no-repeat;
+}
+#LightBoxSuiv {
+  right:0;
+  float:right;
+  background:url(suivant.png) right 48% no-repeat;
+}
+#LightBoxPrec:hover, #LightBoxSuiv:hover {
+  filter:alpha(Opacity=100);
+  opacity:1
+}
+
+#LightBoxLegende {
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  position: absolute;
+  right: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(0deg,#000000,#0000);
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 16px;
+  margin: 0;
+  overflow: auto;
+  padding: 1em;
+  text-align: center;
+  text-shadow: 0 1px 10px #000000;
+  will-change: transform;
+}
